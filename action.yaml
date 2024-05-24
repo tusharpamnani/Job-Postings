@@ -1,0 +1,7 @@
+name: 'job posting workflow'
+author: 'Bot'
+description: 'Job Posting in the README of the repository'
+
+runs:
+  using: node12
+  main: 'index.js'
