@@ -24,12 +24,15 @@ jobs:
     - name: Run script to update README
       run: node index.js  # Ensure this is the correct path to your script
 
-    - name: Commit and push changes
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # GitHub automatically provides this secret
+    - name: Check for changes
       run: |
         git config --global user.name 'tusharpamnani'
         git config --global user.email 'tusharpamnani1@gmail.com'
-        git add README.md
-        git commit -m "Updated job postings in README"
-        git push
+        if git status --porcelain | grep README.md; then
+          git add README.md
+          git commit -m "Updated job postings in README"
+          git push
+        else
+          echo "No changes to commit"
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # GitHub automatically provides this secret
