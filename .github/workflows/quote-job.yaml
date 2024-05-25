@@ -31,7 +31,7 @@ jobs:
 
     - name: Pull latest changes
       run: |
-        git pull || true
+        git pull origin main || true
 
     - name: Check for changes and push
       env:
@@ -43,3 +43,4 @@ jobs:
           git push origin HEAD:main
         else
           echo "No changes to commit"
+        fi
