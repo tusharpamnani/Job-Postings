@@ -24,15 +24,19 @@ jobs:
     - name: Run script to update README
       run: node index.js  # Ensure this is the correct path to your script
 
+    - name: Configure git
+      run: |
+        git config --global user.name 'tusharpamnani'
+        git config --global user.email 'tusharpamnani1@gmail.com'
+
     - name: Pull latest changes
-      run: git pull origin main
+      run: |
+        git pull origin main || true
 
     - name: Check for changes and push
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # GitHub automatically provides this secret
       run: |
-        git config --global user.name 'tusharpamnani'
-        git config --global user.email 'tusharpamnani1@gmail.com'
         if git status --porcelain | grep README.md; then
           git add README.md
           git commit -m "Updated job postings in README"
