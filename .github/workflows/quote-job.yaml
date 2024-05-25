@@ -31,7 +31,7 @@ jobs:
 
     - name: Pull latest changes
       run: |
-        git pull origin main || true
+        git pull || true
 
     - name: Check for changes and push
       env:
