@@ -19,7 +19,6 @@ const fetchJobAndUpdateReadme = async () => {
 
   try {
     const response = await axios.request(options);
-
     const jobs = response.data.data;
 
     if (!jobs || jobs.length === 0) {
@@ -27,7 +26,7 @@ const fetchJobAndUpdateReadme = async () => {
       return;
     }
 
-    const topJobs = jobs.slice(0, 1);
+    const topJobs = jobs.slice(0, 5);
     let jobDetails = "";
 
     topJobs.forEach((job, index) => {
@@ -36,9 +35,7 @@ const fetchJobAndUpdateReadme = async () => {
 
 - **Job Title:** ${job.job_title || "N/A"}
 - **Company:** ${job.employer_name || "N/A"}
-- **Location:** ${job.job_city || "N/A"}, ${job.job_state || "N/A"}, ${
-        job.job_country || "N/A"
-      }
+- **Location:** ${job.job_city || "N/A"}, ${job.job_state || "N/A"}, ${job.job_country || "N/A"}
 - **Job Description:** ${job.job_description || "N/A"}
 
 - **Apply here:** [Apply here](${job.job_apply_link || "N/A"})
@@ -51,21 +48,15 @@ const fetchJobAndUpdateReadme = async () => {
     const currentTime = new Date();
     const currentOffset = currentTime.getTimezoneOffset();
     const ISTOffset = 330; // IST offset UTC +5:30
-    const istTime = new Date(
-      currentTime.getTime() + (ISTOffset + currentOffset) * 60000
-    );
+    const istTime = new Date(currentTime.getTime() + (ISTOffset + currentOffset) * 60000);
     const dateString = istTime.toLocaleDateString("en-IN");
 
     const newContent = `# Job Posting of the Day\n\n<!-- #job -->\n${jobDetails}\n\nUpdated on: [${dateString}]\n<!-- #jobEnd -->`;
 
-    fs.writeFile("README.md", newContent, (err) => {
-      if (err) {
-        return console.log(err);
-      }
-      console.log("The file was saved!");
-    });
+    fs.writeFileSync("README.md", newContent, "utf8");
+    console.log("The file was saved!");
   } catch (error) {
-    console.error(error);
+    console.error("Error fetching or writing job postings:", error);
   }
 };
 
