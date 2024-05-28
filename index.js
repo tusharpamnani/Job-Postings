@@ -26,7 +26,7 @@ const fetchJobAndUpdateReadme = async () => {
       return;
     }
 
-    const topJobs = jobs.slice(0, 2);
+    const topJobs = jobs.slice(0, 5);
     let jobDetails = "";
 
     topJobs.forEach((job, index) => {
