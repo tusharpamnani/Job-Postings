@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Job Postings</title>
+</head>
+<body>
+    <h1>Job Posting of the Day</h1>
+    
+    <div id="jobPostings"></div>
+
+    <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+    <script>
+        async function fetchJobPostings() {
+            const options = {
+                method: 'GET',
+                url: 'https://jsearch.p.rapidapi.com/search?query=Blockchain%20developer%20in%20india&page=1&num_pages=1&employment_types=INTERN',
+                headers: {
+                    "X-RapidAPI-Key": "a1bac331e4msh237f231c7662b85p1647b0jsne020041f2ab8",
+                    "X-RapidAPI-Host": "jsearch.p.rapidapi.com",
+                },
+            };
+
+            try {
+                const response = await axios.request(options);
+                const jobs = response.data.data;
+
+                if (!jobs || jobs.length === 0) {
+                    console.log("No job postings found.");
+                    return;
+                }
+
+                const jobPostingsDiv = document.getElementById('jobPostings');
+                let jobDetails = "";
+
+                jobs.slice(0, 5).forEach((job, index) => {
+                    jobDetails += `
+                        <div class="job">
+                            <h2>Job ${index + 1}</h2>
+                            <p><strong>Job Title:</strong> ${job.job_title || "N/A"}</p>
+                            <p><strong>Company:</strong> ${job.employer_name || "N/A"}</p>
+                            <p><strong>Location:</strong> ${job.job_city || "N/A"}, ${job.job_state || "N/A"}, ${job.job_country || "N/A"}</p>
+                            <p><strong>Job Description:</strong> ${job.job_description || "N/A"}</p>
+                            <p><strong>Apply here:</strong> <a href="${job.job_apply_link || "#"}">Apply here</a></p>
+                        </div>
+                        <hr>
+                    `;
+                });
+
+                jobPostingsDiv.innerHTML = jobDetails;
+            } catch (error) {
+                console.error('Error fetching job postings:', error);
+            }
+        }
+
+        // Fetch job postings when the page loads
+        window.onload = fetchJobPostings;
+    </script>
+</body>
+</html>
