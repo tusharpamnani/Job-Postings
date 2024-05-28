@@ -18,7 +18,7 @@
         table {
             backdrop-filter: blur(25px);
             width: 100%;
-            height: 89vh;
+            height: 100%;
             border-collapse: collapse;
             color: #fcf4f7;
             font-weight: 600;
@@ -75,7 +75,8 @@
         }
         .description.short {
             overflow: hidden;
-            white-space: nowrap;
+            text-wrap: wrap;
+            /* white-space: nowrap; */
             text-overflow: ellipsis;
         }
         .show-more {
