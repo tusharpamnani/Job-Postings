@@ -4,6 +4,27 @@
 
 ## Job 1
 
+- **Job Title:** Blockchain developer
+- **Company:** WNE3
+- **Location:** Visakhapatnam, AP, IN
+- **Job Description:** We are WNE3
+An early stage Web3 utilities startup working on building the bridge between web2 industries like E-commerce and technologies Like AI and blockchain, We are currently developing an AI based E-commerce platform that can create create products from prompts with the vision of replacing Shopify and creating a new Era of e-commerce with generative AI, And We are working on building A market place for NFT utilities and physical NFTs that are integrated with Augmented reality providing artists a new way to monetize and merge the gap between technology and art as well as provide a form of NFTs tangible to non- Web3 users.
+
+Job Description: We are looking for young technology enthusiasts and Student developers who can work with us on realising our goals, We are currently looking for Front-end developers Blockchain developers,
+full stack developers, Machine learning engineers;
+
+We do encourage anyone who doesn't fit into one of these profiles but is interested in working with us can reach out.
+We have to inform that these roles are Unpaid as We are an early stage bootstrapped startup.
+We will be providing internship certificates and LORs to anyone who has contributed their time and effort with us and possible equity options depending upon longevity and performance.
+
+All our roles are remote working roles with flexible timings (suitable for students) and we have task orientated performance checks rather than hours but ideally we expect a time contribution of 2-3 hours a day.
+
+- **Apply here:** [Apply here](https://www.f6s.com/jobs/54272/wne3/blockchain-developer)
+
+---
+
+## Job 2
+
 - **Job Title:** Blockchain Developer Intern
 - **Company:** VDoIT Technologies Limited
 - **Location:** Gurugram, HR, IN
@@ -70,27 +91,6 @@ Speak with the employer
 +91 8448273596
 
 - **Apply here:** [Apply here](https://www.glassdoor.co.in/job-listing/blockchain-developer-intern-vdoit-technologies-limited-JV_IC2921225_KO0,27_KE28,54.htm?jl=1009286197249)
-
----
-
-## Job 2
-
-- **Job Title:** Blockchain developer
-- **Company:** WNE3
-- **Location:** Visakhapatnam, AP, IN
-- **Job Description:** We are WNE3
-An early stage Web3 utilities startup working on building the bridge between web2 industries like E-commerce and technologies Like AI and blockchain, We are currently developing an AI based E-commerce platform that can create create products from prompts with the vision of replacing Shopify and creating a new Era of e-commerce with generative AI, And We are working on building A market place for NFT utilities and physical NFTs that are integrated with Augmented reality providing artists a new way to monetize and merge the gap between technology and art as well as provide a form of NFTs tangible to non- Web3 users.
-
-Job Description: We are looking for young technology enthusiasts and Student developers who can work with us on realising our goals, We are currently looking for Front-end developers Blockchain developers,
-full stack developers, Machine learning engineers;
-
-We do encourage anyone who doesn't fit into one of these profiles but is interested in working with us can reach out.
-We have to inform that these roles are Unpaid as We are an early stage bootstrapped startup.
-We will be providing internship certificates and LORs to anyone who has contributed their time and effort with us and possible equity options depending upon longevity and performance.
-
-All our roles are remote working roles with flexible timings (suitable for students) and we have task orientated performance checks rather than hours but ideally we expect a time contribution of 2-3 hours a day.
-
-- **Apply here:** [Apply here](https://www.f6s.com/jobs/54272/wne3/blockchain-developer)
 
 ---
 
@@ -239,5 +239,5 @@ Responsibilities:
 ---
 
 
-Updated on: [29/5/2024]
+Updated on: [30/5/2024]
 <!-- #jobEnd -->
