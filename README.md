@@ -4,109 +4,6 @@
 
 ## Job 1
 
-- **Job Title:** Software Developer Intern
-- **Company:** India Blockchain Summit 2024
-- **Location:** N/A, N/A, IN
-- **Job Description:** Job Opportunity: Software Developer Intern at India Blockchain Summit
-
-About India Blockchain Summit:
-
-Join the India Blockchain Summit 2024, a forward-looking event that explores the impact of blockchain on various sectors and initiatives. Held in Delhi, this summit aims to reshape India's digital future while promoting sustainability and women's empowerment. Don't miss out on this opportunity to be part of India's largest blockchain revolution.
-
-Role Overview:
-
-India Blockchain Summit is seeking a motivated Software Developer Intern to join our team. This role is ideal for candidates who are passionate about software development and eager to develop new skills in a cutting-edge field. You will work alongside experienced developers and contribute to the development of innovative solutions that address real-world problems.
-
-Responsibilities:
-• Assist in the development and maintenance of software applications.
-• Write and debug code to ensure applications are robust and performant.
-• Collaborate with the team to design software system architecture.
-• Test and document software solutions.
-• Stay updated with the latest industry trends and technologies to integrate into ongoing projects.
-
-Qualifications:
-• Currently pursuing or recently graduated in Computer Science, Software Engineering, or a related field.
-• Strong foundation in software development and proficiency in programming languages such as JavaScript, Python, or Java.
-• Interest and basic understanding of software development lifecycle and methodologies.
-• Problem-solving skills and ability to work collaboratively in a team environment.
-• Proactive in learning new technologies and concepts related to software development.
-
-What We Offer:
-• A platform to work on meaningful projects in the software development space.
-• Exposure to the venture capital industry and innovative tech projects.
-• A dynamic and supportive work environment with mentorship from industry experts.
-• Opportunities to develop professional skills and network within the software and VC community.
-
-Duration: This is a 3-month paid internship position.
-
-How to Apply:
-
-Please send your resume along with a cover letter detailing your interest in software development and your career aspirations in this field. Include any relevant projects or coursework in software development.
-
-- **Apply here:** [Apply here](https://in.linkedin.com/jobs/view/software-developer-intern-at-india-blockchain-summit-2024-3938099285)
-
----
-
-## Job 2
-
-- **Job Title:** Frontend Developer Intern
-- **Company:** India Blockchain Summit 2024
-- **Location:** N/A, N/A, IN
-- **Job Description:** Job Opportunity: Front End Developer Intern at India Blockchain Summit
-
-Are you passionate about the transformative potential of Web3 technologies in Blockchain, NFT, Metaverse, DeFi, DAO, and other related domains? Are you a skilled FrontEnd Developer eager to gain hands-on experience in the Web3 space? Look no further! India Blockchain Summit, a leading solution provider in the Web3 realm, is excited to offer an exceptional opportunity for a FrontEnd Developer Web3 Intern to join our innovative team.
-
-About India Blockchain Summit:
-
-Join the India Blockchain Summit 2024, a forward-looking event that explores the impact of blockchain on various sectors and initiatives. Held in Delhi, this summit aims to reshape India's digital future while promoting sustainability and women's empowerment. Don't miss out on this opportunity to be part of India's largest blockchain revolution.
-
-Job Description:
-
-As a Front End Developer Intern at India Blockchain Summit, you will have the unique chance to collaborate with our talented development team, gaining hands-on experience in building Web3 applications that redefine user experiences. You will be at the forefront of creating intuitive and interactive interfaces that leverage the potential of decentralized technologies.
-
-Responsibilities:
-
-1. Web3 Development: Assist in designing and developing user-friendly, responsive, and efficient front-end interfaces for Web3 applications using modern technologies such as React, JavaScript, and Web3 libraries.
-
-2. Integration: Collaborate with backend developers to integrate front-end applications with smart contracts and other Web3 components.
-
-3. User Experience: Contribute to enhancing the user experience by optimizing application performance and implementing user interface improvements.
-
-4. Testing and Debugging: Conduct testing and debugging to ensure the functionality and reliability of front-end applications.
-
-5. Web3 Integration: Explore and implement Web3 integration features, such as wallet connections, NFT support, and decentralized identity solutions.
-
-6. Learning and Growth: Stay updated with the latest advancements in Web3 technologies and continuously enhance your development skills.
-
-Requirements:
-
-1. Enthusiasm for Web3 technologies and a keen interest in Blockchain, NFT, Metaverse, DeFi, DAO, or related domains.
-
-2. Proficiency in FrontEnd development technologies, including HTML, Tailwind CSS, JavaScript, and modern frameworks like React.
-
-3. Familiarity with Web3 libraries and tools such as Web3.js, ethers.js, or similar.
-
-4. Understanding of smart contracts and Ethereum blockchain is a plus but not mandatory.
-
-5. Strong problem-solving skills and a collaborative mindset to work effectively in a team environment.
-
-6. Creative thinking and the ability to translate design concepts into functional user interfaces.
-
-7. Currently pursuing or recently completed a degree in Computer Science, Web Development, or a related field.
-
-Duration: - This is a 3/6 Months paid internship position.
-
-How to Apply:
-
-If you are excited about the Web3 revolution and believe you have what it takes to contribute to India Blockchain Summit's success, we'd love to hear from you! Please submit your updated resume/brief cover letter highlighting your interest in the position and relevant skills.
-• Join India Blockchain Summit in shaping the future of Web3 and let your passion for innovation flourish in an inspiring and collaborative work environment.
-
-- **Apply here:** [Apply here](https://in.linkedin.com/jobs/view/frontend-developer-intern-at-india-blockchain-summit-2024-3938097705)
-
----
-
-## Job 3
-
 - **Job Title:** Blockchain developer
 - **Company:** WNE3
 - **Location:** Visakhapatnam, AP, IN
@@ -126,53 +23,7 @@ All our roles are remote working roles with flexible timings (suitable for stude
 
 ---
 
-## Job 4
-
-- **Job Title:** Blockchain Smart Contract Developer R&D Intern
-- **Company:** Catoff
-- **Location:** N/A, N/A, IN
-- **Job Description:** Pioneering Peer-to-Peer Web3 Solutions on Solana: Beyond the Horizon
-
-Picture a world where the Web3 experience transcends expectations. That's the world we are creating. Our team is leveraging the latest advancements in blockchain, decentralized applications, and beyond to craft solutions that will redefine how we interact with the digital realm.
-
-Join Us on the Journey
-
-Excited by the prospect of shaping the future of Web3 We're always on the lookout for talented individuals to join our ranks. Stay tuned for updates on our journey, and when the time is right, you could be part of something extraordinary.
-
-Responsibilities:
-Conduct in-depth research on state-of-the-art cryptographic protocols and zero-knowledge proof (zkproof) systems.
-Collaborate with Senior Developers to explore novel approaches for integrating zkproofs into smart contracts on the Solana blockchain.
-Design and prototype innovative solutions for enhancing privacy, scalability, and security in. decentralized applications (dApps) using Rust programming language and the Anchor framework.
-Experiment with different zkproof techniques and evaluate their performance and suitability for real-world use cases.
-Document research findings, develop technical reports, and present findings to the team.
-Assist in the development and optimization of smart contracts, incorporating insights gained from research efforts.
-Stay informed about the latest developments in blockchain technology, cryptography, and zkproofs, and apply new knowledge to ongoing projects.
-
-Qualifications:
-Strong background in computer science, cryptography, or related fields with a focus on blockchain technology.
-Proficiency in Rust programming language and experience with smart contract development on the Solana blockchain using the Anchor framework.
-Familiarity with cryptographic primitives, zero-knowledge proofs, and related protocols.
-Analytical mindset with the ability to critically evaluate and apply research findings to practical problems.
-Excellent communication and collaboration skills to convey complex ideas effectively within a team.
-Passion for pushing the boundaries of blockchain technology and contributing to the advancement of decentralized systems.
-
-Bonus Points:
-Previous research experience in blockchain, cryptography, or related fields.
-Familiarity with advanced cryptographic libraries and protocols.
-Experience with version control systems like Git.
-
-Benefits:
-Competitive compensation and benefits package.
-Opportunity to conduct cutting-edge research in blockchain and cryptography with real-world applications.
-Mentorship from industry experts and opportunities for professional growth and development.
-Collaborative and intellectually stimulating work environment.
-Flexible work arrangements, including remote options,
-
-- **Apply here:** [Apply here](https://www.shine.com/jobs/blockchain-smart-contract-developer-rd-intern-permanent/catoff/14967508)
-
----
-
-## Job 5
+## Job 2
 
 - **Job Title:** Blockchain Developer Intern
 - **Company:** Giakaa Capital
@@ -231,6 +82,122 @@ Please send your resume along with a cover letter detailing your interest in blo
 
 ---
 
+## Job 3
 
-Updated on: [2/6/2024]
+- **Job Title:** Blockchain Smart Contract Developer R&D Intern
+- **Company:** Catoff
+- **Location:** N/A, N/A, IN
+- **Job Description:** Pioneering Peer-to-Peer Web3 Solutions on Solana: Beyond the Horizon
+
+Picture a world where the Web3 experience transcends expectations. That's the world we are creating. Our team is leveraging the latest advancements in blockchain, decentralized applications, and beyond to craft solutions that will redefine how we interact with the digital realm.
+
+Join Us on the Journey
+
+Excited by the prospect of shaping the future of Web3 We're always on the lookout for talented individuals to join our ranks. Stay tuned for updates on our journey, and when the time is right, you could be part of something extraordinary.
+
+Responsibilities:
+Conduct in-depth research on state-of-the-art cryptographic protocols and zero-knowledge proof (zkproof) systems.
+Collaborate with Senior Developers to explore novel approaches for integrating zkproofs into smart contracts on the Solana blockchain.
+Design and prototype innovative solutions for enhancing privacy, scalability, and security in. decentralized applications (dApps) using Rust programming language and the Anchor framework.
+Experiment with different zkproof techniques and evaluate their performance and suitability for real-world use cases.
+Document research findings, develop technical reports, and present findings to the team.
+Assist in the development and optimization of smart contracts, incorporating insights gained from research efforts.
+Stay informed about the latest developments in blockchain technology, cryptography, and zkproofs, and apply new knowledge to ongoing projects.
+
+Qualifications:
+Strong background in computer science, cryptography, or related fields with a focus on blockchain technology.
+Proficiency in Rust programming language and experience with smart contract development on the Solana blockchain using the Anchor framework.
+Familiarity with cryptographic primitives, zero-knowledge proofs, and related protocols.
+Analytical mindset with the ability to critically evaluate and apply research findings to practical problems.
+Excellent communication and collaboration skills to convey complex ideas effectively within a team.
+Passion for pushing the boundaries of blockchain technology and contributing to the advancement of decentralized systems.
+
+Bonus Points:
+Previous research experience in blockchain, cryptography, or related fields.
+Familiarity with advanced cryptographic libraries and protocols.
+Experience with version control systems like Git.
+
+Benefits:
+Competitive compensation and benefits package.
+Opportunity to conduct cutting-edge research in blockchain and cryptography with real-world applications.
+Mentorship from industry experts and opportunities for professional growth and development.
+Collaborative and intellectually stimulating work environment.
+Flexible work arrangements, including remote options,
+
+- **Apply here:** [Apply here](https://www.shine.com/jobs/blockchain-smart-contract-developer-rd-intern-permanent/catoff/14967508)
+
+---
+
+## Job 4
+
+- **Job Title:** Blockchain Software Intern
+- **Company:** YellowSense Technologies
+- **Location:** N/A, KA, IN
+- **Job Description:** Company Description
+
+YellowSense Technologies is a small and innovative company based in Bengaluru. We are passionate about making a positive impact on the lives of the Next Billion Users (NBU) through technology, such as Generative-AI and Predictive Analytics. Our ultimate goal is to achieve sustainability by leveraging these technologies.
+
+Role Description
+
+This is a full-time internship role for a Blockchain Software Intern. As a Blockchain Software Intern, you will be responsible for various day-to-day tasks related to blockchain development and implementation. This is a hybrid role, based in Bengaluru, with flexibility for remote work.
+
+Stipend:
+
+8K per month.
+
+Qualifications
+Cryptography, Cryptocurrency, and Blockchain knowledge
+Understanding of Distributed Ledger Technology (DLT)
+Knowledge of Finance and its relationship with blockchain technology
+Experience in blockchain development is a plus
+Strong problem-solving and analytical skills
+Excellent written and verbal. communication skills
+Ability to work independently and as part of a team
+Bachelor's degree in Computer Science or related field,
+
+- **Apply here:** [Apply here](https://www.shine.com/jobs/blockchain-software-intern-permanent/yellowsense-technologies/14686552)
+
+---
+
+## Job 5
+
+- **Job Title:** Web3 Backend Engineer
+- **Company:** METAVERSE VENTURES PRIVATE LIMITED
+- **Location:** N/A, N/A, IN
+- **Job Description:** About The Company:
+
+Web 3.0 is the next wave of technology breakthroughs to revolutionize human society, with key pillars being decentralized finance (DeFi), NFTs, Metaverse, and decentralized autonomous organization (DAO). The space is growing at breakneck speed with enormous growth potential in years to come. M0 is a blockchain and web3 technology company exploring big ideas in identity, ownership, utility, DeFi, and interoperability to push the crypto, NFT, and Metaverse space forward. We are looking for the best builders, hackers, innovators, entrepreneurs, visionaries & creatives to come design the future together. This isn't a typical job at M0 you will be challenged to bring out the best version of yourself in bringing to life the creative renaissance of Web3. We are seeking driven individuals with a hunger for product ownership and impact and the potential for asymmetrical upside in doing so. If you don't know about Web3 yet - it's all good, you're about to define it.
+
+Requirements:
+• Building a scalable backend server using a NestJS for Dapps.
+• Work with the NestJS technology to create microservices that serve various blockchain-related purposes.
+• Work along with smart contract developers to define the system and create GraphQL/Restful APIs
+• You will be creating a off-chain data indexer or event listener system for Dapps using Moralis/Alchemy/Graph
+• Use various techniques to prepare the microservices for large-scale usage (up to thousands of requests/s).
+• Define industrial best practices and encourage/help others to follow the design principles to build a robust web3 apps.
+• Participate in deciding the technological stack and path of our microservices and development practices.
+• Track down complex bugs and implement fixes without regressions.
+
+Responsibilities:
+
+1. Extensive experience with Nest.js frameworks for building scalable and responsive web applications
+
+2. Experience working with Typescript and strong proficiency in JavaScript
+
+3. Strong NodeJS knowledge and their understanding of the ecosystems
+
+4. Experience with testing frameworks and tools for frontend and backend applications
+
+5. Excellent problem-solving and debugging skills
+
+6. Strong communication and collaboration skills to work effectively within a team
+
+7. Experience with Redux,js, Redux thunk and RTQ is a plus
+
+- **Apply here:** [Apply here](https://in.linkedin.com/jobs/view/web3-backend-engineer-at-metaverse-ventures-private-limited-3932032037)
+
+---
+
+
+Updated on: [3/6/2024]
 <!-- #jobEnd -->
