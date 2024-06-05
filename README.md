@@ -4,27 +4,6 @@
 
 ## Job 1
 
-- **Job Title:** Blockchain developer
-- **Company:** WNE3
-- **Location:** Visakhapatnam, AP, IN
-- **Job Description:** We are WNE3
-An early stage Web3 utilities startup working on building the bridge between web2 industries like E-commerce and technologies Like AI and blockchain, We are currently developing an AI based E-commerce platform that can create create products from prompts with the vision of replacing Shopify and creating a new Era of e-commerce with generative AI, And We are working on building A market place for NFT utilities and physical NFTs that are integrated with Augmented reality providing artists a new way to monetize and merge the gap between technology and art as well as provide a form of NFTs tangible to non- Web3 users.
-
-Job Description: We are looking for young technology enthusiasts and Student developers who can work with us on realising our goals, We are currently looking for Front-end developers Blockchain developers,
-full stack developers, Machine learning engineers;
-
-We do encourage anyone who doesn't fit into one of these profiles but is interested in working with us can reach out.
-We have to inform that these roles are Unpaid as We are an early stage bootstrapped startup.
-We will be providing internship certificates and LORs to anyone who has contributed their time and effort with us and possible equity options depending upon longevity and performance.
-
-All our roles are remote working roles with flexible timings (suitable for students) and we have task orientated performance checks rather than hours but ideally we expect a time contribution of 2-3 hours a day.
-
-- **Apply here:** [Apply here](https://www.f6s.com/jobs/54272/wne3/blockchain-developer)
-
----
-
-## Job 2
-
 - **Job Title:** Blockchain Developer Intern
 - **Company:** Giakaa Capital
 - **Location:** N/A, N/A, IN
@@ -82,7 +61,7 @@ Please send your resume along with a cover letter detailing your interest in blo
 
 ---
 
-## Job 3
+## Job 2
 
 - **Job Title:** Blockchain Smart Contract Developer R&D Intern
 - **Company:** Catoff
@@ -128,7 +107,7 @@ Flexible work arrangements, including remote options,
 
 ---
 
-## Job 4
+## Job 3
 
 - **Job Title:** Blockchain Development Internship in Chennai, Coimbatore, Madurai
 - **Company:** Gateway Software SolutionS
@@ -152,7 +131,7 @@ About Company: Gateway Software Solutions (G3S) is a Coimbatore-based software d
 
 ---
 
-## Job 5
+## Job 4
 
 - **Job Title:** Web3 Backend Engineer
 - **Company:** METAVERSE VENTURES PRIVATE LIMITED
@@ -191,6 +170,26 @@ Responsibilities:
 
 ---
 
+## Job 5
 
-Updated on: [4/6/2024]
+- **Job Title:** Blockchain Development Internship in Jaipur, Noida, Raipur...
+- **Company:** Avaari
+- **Location:** Raipur, CG, IN
+- **Job Description:** Selected Intern's Day-to-day Responsibilities Include
+Collaborate with our development team to design and implement blockchain solutions using various technologies
+Assist in the development, testing, and deployment of smart contracts on Ethereum and Hyperledger platforms
+Contribute to the creation of decentralized applications (DApps) using JavaScript, Node.js, and ReactJS
+Participate in code reviews and provide constructive feedback to enhance the overall quality of our blockchain applications
+Research and stay up-to-date with the latest advancements in blockchain technology to ensure our solutions remain innovative
+Troubleshoot and resolve any issues or bugs within the blockchain applications, ensuring their smooth operation
+Document the development process including architecture, technical specifications, and user guides, to facilitate knowledge sharing within the team
+
+About Company: We are a community platform for women to get jobs, gigs, and freelancing. opportunities all across the country. This is with an intent to bring women to the workforce and make them potential earning members of their family,
+
+- **Apply here:** [Apply here](https://www.shine.com/jobs/blockchain-development-internship-in-jaipur-noida-raipur-permanent/avaari/14842297)
+
+---
+
+
+Updated on: [5/6/2024]
 <!-- #jobEnd -->
