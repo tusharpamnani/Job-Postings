@@ -4,6 +4,100 @@
 
 ## Job 1
 
+- **Job Title:** Software Developer Intern
+- **Company:** India Blockchain Summit 2024
+- **Location:** N/A, N/A, IN
+- **Job Description:** Job Opportunity: Software Developer Intern at India Blockchain Summit
+
+About India Blockchain Summit:
+
+Join the India Blockchain Summit 2024, a forward-looking event that explores the impact of blockchain on various sectors and initiatives. Held in Delhi, this summit aims to reshape India's digital future while promoting sustainability and women's empowerment. Don't miss out on this opportunity to be part of India's largest blockchain revolution.
+
+Role Overview:
+
+India Blockchain Summit is seeking a motivated Software Developer Intern to join our team. This role is ideal for candidates who are passionate about software development and eager to develop new skills in a cutting-edge field. You will work alongside experienced developers and contribute to the development of innovative solutions that address real-world problems.
+
+Responsibilities:
+Assist in the development and maintenance of software applications.
+Write and debug code to ensure applications are robust and performant.
+. Collaborate with the team to design software system architecture.
+Test and document software solutions.
+Stay updated with the latest industry trends and technologies to integrate into ongoing projects.
+
+Qualifications:
+Currently pursuing or recently graduated in Computer Science, Software Engineering, or a related field.
+Strong foundation in software development and proficiency in programming languages such as JavaScript, Python, or Java.
+Interest and basic understanding of software development lifecycle and methodologies.
+Problem-solving skills and ability to work collaboratively in a team environment.
+Proactive in learning new technologies and concepts related to software development.
+
+What We Offer:
+A platform to work on meaningful projects in the software development space.
+Exposure to the venture capital industry and innovative tech projects.
+A dynamic and supportive work environment with mentorship from industry experts.
+Opportunities to develop professional skills and network within the software and VC community.
+
+Duration: This is a 3-month paid internship position.
+
+How to Apply:
+
+Please send your resume along with a cover letter detailing your interest in software development and your career aspirations in this field. Include any relevant projects or coursework in software development,
+
+- **Apply here:** [Apply here](https://www.shine.com/jobs/software-developer-intern-permanent/india-blockchain-summit-2024/15028986)
+
+---
+
+## Job 2
+
+- **Job Title:** Crypto Market Intern
+- **Company:** Nonceblox
+- **Location:** N/A, N/A, IN
+- **Job Description:** Job Title: Marketing Intern
+
+Location: Remote
+
+Stipend: Rs. 5k-10k
+
+Duration: 3 months-6 months
+
+Job Description: Marketing Intern at NonceLabs
+
+NonceLabs is a Venture Studio where Blockchain Enthusiasts Come Together to Innovate, Invest, and Succeed. We're not just a holding company; we're a dynamic ecosystem of expertise in investment, development, marketing, security analysis, and much more. We are on a mission to shape a sustainable Web3 future; solving problems and guaranteeing values.
+
+We are seeking a passionate and tech-savvy Marketing Intern with at least 6 months of experience to join our dynamic team and contribute to our exciting crypto projects.
+
+Key Responsibilities:
+• Social Media Marketing: Manage and grow NonceLabs' presence on platforms like LinkedIn and Twitter. Craft engaging content, interact with our community, and drive brand awareness.
+• Trend Analysis: Stay up-to-date with the latest cryptocurrency trends, industry news, and emerging technologies. Conduct research and provide insights to inform our marketing strategies.
+• Content Creation: Collaborate with the marketing team to produce compelling content, including blog posts, social media updates, and promotional materials, aligning with our brand voice and messaging. Should know how to shoot reels and create engaging content on their own.
+• Community Engagement: Actively participate in cryptocurrency communities, forums, and discussions to represent NonceLabs, share insights, and build relationships with potential partners and customers.
+• Event Support: Assist in the planning and execution of marketing events, both online and offline, including webinars, meetups, and conferences.
+
+Requirements:
+• Pursuing a degree in Marketing, Communications, or a related field
+• 6 months of relevant experience in marketing, content creation, or social media management
+• Passionate about blockchain technology, cryptocurrencies, and Web3
+• Excellent written and verbal communication skills
+• Proficiency in social media platforms, particularly LinkedIn and Twitter
+• Familiarity with content creation tools and digital marketing tactics
+• Bonus: Personal social media following of 1-2k followers
+
+Additional Benefits:
+• Certificate of Completion from Nonceblox.
+• Certificate of Volunteering from Jitender Foundation.
+• Flexible working hours.
+• Collaborative Environment.
+
+If you are a crypto-enthusiast with at least 6 months of relevant experience, a knack for marketing, and a desire to be part of the Web3 revolution, we want to hear from you!
+
+Apply now and embark on an exciting journey with NonceLabs, where we innovate, invest, and succeed in shaping a sustainable Web3 future.
+
+- **Apply here:** [Apply here](https://in.linkedin.com/jobs/view/crypto-market-intern-at-nonceblox-3939063281)
+
+---
+
+## Job 3
+
 - **Job Title:** Blockchain Developer Intern
 - **Company:** Giakaa Capital
 - **Location:** N/A, N/A, IN
@@ -61,7 +155,7 @@ Please send your resume along with a cover letter detailing your interest in blo
 
 ---
 
-## Job 2
+## Job 4
 
 - **Job Title:** Blockchain Smart Contract Developer R&D Intern
 - **Company:** Catoff
@@ -107,7 +201,7 @@ Flexible work arrangements, including remote options,
 
 ---
 
-## Job 3
+## Job 5
 
 - **Job Title:** Blockchain Development Internship in Chennai, Coimbatore, Madurai
 - **Company:** Gateway Software SolutionS
@@ -131,65 +225,6 @@ About Company: Gateway Software Solutions (G3S) is a Coimbatore-based software d
 
 ---
 
-## Job 4
 
-- **Job Title:** Web3 Backend Engineer
-- **Company:** METAVERSE VENTURES PRIVATE LIMITED
-- **Location:** N/A, N/A, IN
-- **Job Description:** About The Company:
-
-Web 3.0 is the next wave of technology breakthroughs to revolutionize human society, with key pillars being decentralized finance (DeFi), NFTs, Metaverse, and decentralized autonomous organization (DAO). The space is growing at breakneck speed with enormous growth potential in years to come. M0 is a blockchain and web3 technology company exploring big ideas in identity, ownership, utility, DeFi, and interoperability to push the crypto, NFT, and Metaverse space forward. We are looking for the best builders, hackers, innovators, entrepreneurs, visionaries & creatives to come design the future together. This isn't a typical job at M0 you will be challenged to bring out the best version of yourself in bringing to life the creative renaissance of Web3. We are seeking driven individuals with a hunger for product ownership and impact and the potential for asymmetrical upside in doing so. If you don't know about Web3 yet - it's all good, you're about to define it.
-
-Requirements:
-• Building a scalable backend server using a NestJS for Dapps.
-• Work with the NestJS technology to create microservices that serve various blockchain-related purposes.
-• Work along with smart contract developers to define the system and create GraphQL/Restful APIs
-• You will be creating a off-chain data indexer or event listener system for Dapps using Moralis/Alchemy/Graph
-• Use various techniques to prepare the microservices for large-scale usage (up to thousands of requests/s).
-• Define industrial best practices and encourage/help others to follow the design principles to build a robust web3 apps.
-• Participate in deciding the technological stack and path of our microservices and development practices.
-• Track down complex bugs and implement fixes without regressions.
-
-Responsibilities:
-
-1. Extensive experience with Nest.js frameworks for building scalable and responsive web applications
-
-2. Experience working with Typescript and strong proficiency in JavaScript
-
-3. Strong NodeJS knowledge and their understanding of the ecosystems
-
-4. Experience with testing frameworks and tools for frontend and backend applications
-
-5. Excellent problem-solving and debugging skills
-
-6. Strong communication and collaboration skills to work effectively within a team
-
-7. Experience with Redux,js, Redux thunk and RTQ is a plus
-
-- **Apply here:** [Apply here](https://in.linkedin.com/jobs/view/web3-backend-engineer-at-metaverse-ventures-private-limited-3932032037)
-
----
-
-## Job 5
-
-- **Job Title:** Blockchain Development Internship in Jaipur, Noida, Raipur...
-- **Company:** Avaari
-- **Location:** Raipur, CG, IN
-- **Job Description:** Selected Intern's Day-to-day Responsibilities Include
-Collaborate with our development team to design and implement blockchain solutions using various technologies
-Assist in the development, testing, and deployment of smart contracts on Ethereum and Hyperledger platforms
-Contribute to the creation of decentralized applications (DApps) using JavaScript, Node.js, and ReactJS
-Participate in code reviews and provide constructive feedback to enhance the overall quality of our blockchain applications
-Research and stay up-to-date with the latest advancements in blockchain technology to ensure our solutions remain innovative
-Troubleshoot and resolve any issues or bugs within the blockchain applications, ensuring their smooth operation
-Document the development process including architecture, technical specifications, and user guides, to facilitate knowledge sharing within the team
-
-About Company: We are a community platform for women to get jobs, gigs, and freelancing. opportunities all across the country. This is with an intent to bring women to the workforce and make them potential earning members of their family,
-
-- **Apply here:** [Apply here](https://www.shine.com/jobs/blockchain-development-internship-in-jaipur-noida-raipur-permanent/avaari/14842297)
-
----
-
-
-Updated on: [5/6/2024]
+Updated on: [6/6/2024]
 <!-- #jobEnd -->
