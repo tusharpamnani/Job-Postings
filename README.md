@@ -4,6 +4,79 @@
 
 ## Job 1
 
+- **Job Title:** Blockchain Internship
+- **Company:** Plainsurf Solutions
+- **Location:** N/A, N/A, IN
+- **Job Description:** Female Candidates Prefered
+
+Company: Plainsurf Solutions
+
+Location: Pune
+
+Duration: 6 months
+
+Type: Internship (Full-time)
+
+About Us: Plainsurf Solutions is at the forefront of technological innovation, driving impactful solutions through our extensive open-source contributions and cutting-edge projects. We are seeking motivated and talented individuals passionate about Blockchain technology to join our team as Blockchain Interns. This is a unique opportunity to gain hands-on experience and contribute to exciting projects in a dynamic and supportive environment.
+
+Responsibilities:
+• Assist in the development and implementation of blockchain solutions and smart contracts.
+• Conduct research on blockchain technologies and stay updated with the latest trends and advancements.
+• Collaborate with cross-functional teams to integrate blockchain solutions into existing systems.
+• Participate in brainstorming sessions and contribute innovative ideas to blockchain projects.
+• Assist in the testing and deployment of blockchain applications.
+• Document and present findings and project progress to the team.
+
+Qualifications:
+• Currently pursuing or recently completed a degree in Computer Science, Information Technology, Blockchain Technology, or a related field.
+• Basic understanding of blockchain technology, distributed ledger systems, and smart contracts.
+• Experience with blockchain platforms such as Ethereum, Hyperledger, or Corda.
+• Familiarity with programming languages such as Solidity, JavaScript, or Python.
+• Strong problem-solving skills and a proactive attitude.
+• Excellent communication skills and the ability to work collaboratively in a team environment.
+
+Preferred Qualifications:
+• Knowledge of cryptographic principles and practices.
+• Experience with blockchain development tools (e.g., Truffle, Remix, Ganache).
+• Understanding of consensus algorithms and blockchain security.
+• Experience with decentralized applications (dApps) and token standards (e.g., ERC-20, ERC-721).
+
+What We Offer:
+• Hands-on experience with cutting-edge blockchain technologies and projects.
+• Mentorship from experienced professionals in the field.
+• Opportunities to contribute to open-source projects and gain public recognition.
+• A collaborative and inclusive work environment.
+• Potential for future employment opportunities based on performance.
+
+How to Apply: Interested candidates are invited to submit their resume, cover letter, and any relevant project work or portfolios to hr@plainsurf.com. Please include "Blockchain Internship Application - [Your Name]" in the subject line.
+
+Contact Information: For any inquiries, please contact us at hr@plainsurf.com or visit our website at www.plainsurf.com.
+
+Join us at Plainsurf Solutions and be a part of a team that's shaping the future of blockchain technology!
+
+Job Types: Full-time, Permanent, Fresher, Internship
+
+Pay: Up to ₹5,000.00 per month
+
+Schedule:
+• Day shift
+• Fixed shift
+• Monday to Friday
+• Morning shift
+• Rotational shift
+
+Supplemental pay types:
+• Performance bonus
+• Quarterly bonus
+
+Work Location: In person
+
+- **Apply here:** [Apply here](https://www.glassdoor.co.in/job-listing/blockchain-internship-plainsurf-solutions-JV_KO0,21_KE22,41.htm?jl=1009310175805)
+
+---
+
+## Job 2
+
 - **Job Title:** Software Developer Intern
 - **Company:** India Blockchain Summit 2024
 - **Location:** N/A, N/A, IN
@@ -44,55 +117,6 @@ How to Apply:
 Please send your resume along with a cover letter detailing your interest in software development and your career aspirations in this field. Include any relevant projects or coursework in software development,
 
 - **Apply here:** [Apply here](https://www.shine.com/jobs/software-developer-intern-permanent/india-blockchain-summit-2024/15028986)
-
----
-
-## Job 2
-
-- **Job Title:** Crypto Market Intern
-- **Company:** Nonceblox
-- **Location:** N/A, N/A, IN
-- **Job Description:** Job Title: Marketing Intern
-
-Location: Remote
-
-Stipend: Rs. 5k-10k
-
-Duration: 3 months-6 months
-
-Job Description: Marketing Intern at NonceLabs
-
-NonceLabs is a Venture Studio where Blockchain Enthusiasts Come Together to Innovate, Invest, and Succeed. We're not just a holding company; we're a dynamic ecosystem of expertise in investment, development, marketing, security analysis, and much more. We are on a mission to shape a sustainable Web3 future; solving problems and guaranteeing values.
-
-We are seeking a passionate and tech-savvy Marketing Intern with at least 6 months of experience to join our dynamic team and contribute to our exciting crypto projects.
-
-Key Responsibilities:
-• Social Media Marketing: Manage and grow NonceLabs' presence on platforms like LinkedIn and Twitter. Craft engaging content, interact with our community, and drive brand awareness.
-• Trend Analysis: Stay up-to-date with the latest cryptocurrency trends, industry news, and emerging technologies. Conduct research and provide insights to inform our marketing strategies.
-• Content Creation: Collaborate with the marketing team to produce compelling content, including blog posts, social media updates, and promotional materials, aligning with our brand voice and messaging. Should know how to shoot reels and create engaging content on their own.
-• Community Engagement: Actively participate in cryptocurrency communities, forums, and discussions to represent NonceLabs, share insights, and build relationships with potential partners and customers.
-• Event Support: Assist in the planning and execution of marketing events, both online and offline, including webinars, meetups, and conferences.
-
-Requirements:
-• Pursuing a degree in Marketing, Communications, or a related field
-• 6 months of relevant experience in marketing, content creation, or social media management
-• Passionate about blockchain technology, cryptocurrencies, and Web3
-• Excellent written and verbal communication skills
-• Proficiency in social media platforms, particularly LinkedIn and Twitter
-• Familiarity with content creation tools and digital marketing tactics
-• Bonus: Personal social media following of 1-2k followers
-
-Additional Benefits:
-• Certificate of Completion from Nonceblox.
-• Certificate of Volunteering from Jitender Foundation.
-• Flexible working hours.
-• Collaborative Environment.
-
-If you are a crypto-enthusiast with at least 6 months of relevant experience, a knack for marketing, and a desire to be part of the Web3 revolution, we want to hear from you!
-
-Apply now and embark on an exciting journey with NonceLabs, where we innovate, invest, and succeed in shaping a sustainable Web3 future.
-
-- **Apply here:** [Apply here](https://in.linkedin.com/jobs/view/crypto-market-intern-at-nonceblox-3939063281)
 
 ---
 
@@ -157,74 +181,93 @@ Please send your resume along with a cover letter detailing your interest in blo
 
 ## Job 4
 
-- **Job Title:** Blockchain Smart Contract Developer R&D Intern
-- **Company:** Catoff
-- **Location:** N/A, N/A, IN
-- **Job Description:** Pioneering Peer-to-Peer Web3 Solutions on Solana: Beyond the Horizon
-
-Picture a world where the Web3 experience transcends expectations. That's the world we are creating. Our team is leveraging the latest advancements in blockchain, decentralized applications, and beyond to craft solutions that will redefine how we interact with the digital realm.
-
-Join Us on the Journey
-
-Excited by the prospect of shaping the future of Web3 We're always on the lookout for talented individuals to join our ranks. Stay tuned for updates on our journey, and when the time is right, you could be part of something extraordinary.
+- **Job Title:** Blockchain Intern
+- **Company:** LBM SOLUTIONS, Mohali
+- **Location:** Sahibzada Ajit Singh Nagar, PB, IN
+- **Job Description:** As a Blockchain Intern, you will work closely with our team of blockchain developers and researchers to gain hands-on experience in designing, implementing, and testing blockchain-based solutions. You will have the opportunity to contribute to ongoing projects and assist in the exploration of new blockchain technologies and applications.
 
 Responsibilities:
-Conduct in-depth research on state-of-the-art cryptographic protocols and zero-knowledge proof (zkproof) systems.
-Collaborate with Senior Developers to explore novel approaches for integrating zkproofs into smart contracts on the Solana blockchain.
-Design and prototype innovative solutions for enhancing privacy, scalability, and security in. decentralized applications (dApps) using Rust programming language and the Anchor framework.
-Experiment with different zkproof techniques and evaluate their performance and suitability for real-world use cases.
-Document research findings, develop technical reports, and present findings to the team.
-Assist in the development and optimization of smart contracts, incorporating insights gained from research efforts.
-Stay informed about the latest developments in blockchain technology, cryptography, and zkproofs, and apply new knowledge to ongoing projects.
+• Research blockchain technology
+• Assist in development and testing
+• Document technical specifications
+• Collaborate with teams
 
-Qualifications:
-Strong background in computer science, cryptography, or related fields with a focus on blockchain technology.
-Proficiency in Rust programming language and experience with smart contract development on the Solana blockchain using the Anchor framework.
-Familiarity with cryptographic primitives, zero-knowledge proofs, and related protocols.
-Analytical mindset with the ability to critically evaluate and apply research findings to practical problems.
-Excellent communication and collaboration skills to convey complex ideas effectively within a team.
-Passion for pushing the boundaries of blockchain technology and contributing to the advancement of decentralized systems.
+Requirements:
+• Pursuing degree in Computer Science or related field
+• Understanding of blockchain fundamentals
+• Proficiency in Python, JavaScript, or Solidity
+• Strong problem-solving skills
 
-Bonus Points:
-Previous research experience in blockchain, cryptography, or related fields.
-Familiarity with advanced cryptographic libraries and protocols.
-Experience with version control systems like Git.
+Preferred:
+• Experience with Ethereum, Hyperledger, or Corda
+• Knowledge of cryptography
 
-Benefits:
-Competitive compensation and benefits package.
-Opportunity to conduct cutting-edge research in blockchain and cryptography with real-world applications.
-Mentorship from industry experts and opportunities for professional growth and development.
-Collaborative and intellectually stimulating work environment.
-Flexible work arrangements, including remote options,
+Job Type: Full-time
 
-- **Apply here:** [Apply here](https://www.shine.com/jobs/blockchain-smart-contract-developer-rd-intern-permanent/catoff/14967508)
+Pay: ₹8,086.00 - ₹20,000.00 per month
+
+Schedule:
+• Day shift
+• Monday to Friday
+
+Experience:
+• total work: 1 year (Preferred)
+
+Work Location: In person
+
+- **Apply here:** [Apply here](https://www.glassdoor.co.in/job-listing/blockchain-intern-lbm-solutions-mohali-JV_IC4469455_KO0,17_KE18,38.htm?jl=1009312005994)
 
 ---
 
 ## Job 5
 
-- **Job Title:** Blockchain Development Internship in Chennai, Coimbatore, Madurai
-- **Company:** Gateway Software SolutionS
-- **Location:** Coimbatore, TN, IN
-- **Job Description:** As a blockchain development intern at Gateway Software Solutions, you will have the opportunity to work on cutting-edge projects and gain real-world experience in the exciting field of blockchain technology.
+- **Job Title:** Crypto Market Intern
+- **Company:** Nonceblox
+- **Location:** N/A, N/A, IN
+- **Job Description:** Job Title: Marketing Intern
 
-Selected Intern's Day-to-day Responsibilities Include
-• Collaborate with our development team to design and implement blockchain solutions
-• Assist in the development and testing of smart contracts and decentralized applications
-• Research and analyze emerging blockchain technologies to recommend best practices
-• Participate in code reviews and provide feedback to improve the overall quality of our products
-• Work closely with senior developers to troubleshoot and resolve technical issues
-• Contribute to the documentation and knowledge sharing within the team
-• Stay updated on industry trends and advancements to help drive innovation within the company
+Location: Remote
 
-If you are passionate about blockchain technology and eager to learn and grow in a fast-paced environment, then this internship is perfect for you. Join us at Gateway Software Solutions and be a part of revolutionizing the future of technology!
+Stipend: Rs. 5k-10k
 
-About Company: Gateway Software Solutions (G3S) is a Coimbatore-based software development and ISO 9001:2015 certified delivery partner of Hewlett Packard Enterprises that provides various services and solutions to their clients in the area of software development, especially in ERP, CRM, and mobile application development. We have now expanded our services to include search engine optimization and software testing.
+Duration: 3 months-6 months
 
-- **Apply here:** [Apply here](https://in.linkedin.com/jobs/view/blockchain-development-internship-in-chennai-coimbatore-madurai-at-gateway-software-solutions-3929187264)
+Job Description: Marketing Intern at NonceLabs
+
+NonceLabs is a Venture Studio where Blockchain Enthusiasts Come Together to Innovate, Invest, and Succeed. We're not just a holding company; we're a dynamic ecosystem of expertise in investment, development, marketing, security analysis, and much more. We are on a mission to shape a sustainable Web3 future; solving problems and guaranteeing values.
+
+We are seeking a passionate and tech-savvy Marketing Intern with at least 6 months of experience to join our dynamic team and contribute to our exciting crypto projects.
+
+Key Responsibilities:
+• Social Media Marketing: Manage and grow NonceLabs' presence on platforms like LinkedIn and Twitter. Craft engaging content, interact with our community, and drive brand awareness.
+• Trend Analysis: Stay up-to-date with the latest cryptocurrency trends, industry news, and emerging technologies. Conduct research and provide insights to inform our marketing strategies.
+• Content Creation: Collaborate with the marketing team to produce compelling content, including blog posts, social media updates, and promotional materials, aligning with our brand voice and messaging. Should know how to shoot reels and create engaging content on their own.
+• Community Engagement: Actively participate in cryptocurrency communities, forums, and discussions to represent NonceLabs, share insights, and build relationships with potential partners and customers.
+• Event Support: Assist in the planning and execution of marketing events, both online and offline, including webinars, meetups, and conferences.
+
+Requirements:
+• Pursuing a degree in Marketing, Communications, or a related field
+• 6 months of relevant experience in marketing, content creation, or social media management
+• Passionate about blockchain technology, cryptocurrencies, and Web3
+• Excellent written and verbal communication skills
+• Proficiency in social media platforms, particularly LinkedIn and Twitter
+• Familiarity with content creation tools and digital marketing tactics
+• Bonus: Personal social media following of 1-2k followers
+
+Additional Benefits:
+• Certificate of Completion from Nonceblox.
+• Certificate of Volunteering from Jitender Foundation.
+• Flexible working hours.
+• Collaborative Environment.
+
+If you are a crypto-enthusiast with at least 6 months of relevant experience, a knack for marketing, and a desire to be part of the Web3 revolution, we want to hear from you!
+
+Apply now and embark on an exciting journey with NonceLabs, where we innovate, invest, and succeed in shaping a sustainable Web3 future.
+
+- **Apply here:** [Apply here](https://in.linkedin.com/jobs/view/crypto-market-intern-at-nonceblox-3939063281)
 
 ---
 
 
-Updated on: [6/6/2024]
+Updated on: [7/6/2024]
 <!-- #jobEnd -->
