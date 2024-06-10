@@ -77,79 +77,6 @@ Work Location: In person
 
 ## Job 2
 
-- **Job Title:** Blockchain Intern
-- **Company:** Reveation Labs
-- **Location:** N/A, N/A, IN
-- **Job Description:** Position: Blockchain Intern/Trainee
-
-Internship Duration: 6 Months (Full time)
-
-Shift: Evening shift (1.30pm to 10.30pm)
-
-Selected intern's day-to-day responsibilities include:
-• Developing, prototyping, and productionizing business applications using Blockchain technology
-• Conducting research to identify the right tools and protocols for Blockchain network, topology, consensus protocols, performance, data storage, digital signature, tokenization, smart contracts
-• Working knowledge of blockchain platforms (Ethereum, Solana, Polygon Tendermint, etc.)
-
-Company Information:
-
-Reveation Labs (reveation.io) is a rapidly growing technology solutions company headquartered in the USA, founded with the purpose of empowering businesses with technical solutions to unlock maximum potential. Led by management leaders with decades of experience working for Top 20 Fortune companies, we believe in being the ultimate solution providers for our clients and partners, helping them with innovative solutions. We specialize in Blockchain development, Enterprise Applications Development, E-commerce solutions, Cloud Computing, DevOps, Mobile Application Development, and Staff Augmentation.
-
-Why Reveation Labs?
-
-We Truly Believe that where your work matters & as a software company, we know a thing or two about what makes employees happy. When you Join Reveation Labs, you do more than simply switch companies to advance your career. You become part of the Reveation Labs Family, a group of talented people who drive innovation, embrace change & celebrate the global community which is Reveation Labs.
-
-- **Apply here:** [Apply here](https://in.linkedin.com/jobs/view/blockchain-intern-at-reveation-labs-3943941803)
-
----
-
-## Job 3
-
-- **Job Title:** Software Developer Intern
-- **Company:** India Blockchain Summit 2024
-- **Location:** N/A, N/A, IN
-- **Job Description:** Job Opportunity: Software Developer Intern at India Blockchain Summit
-
-About India Blockchain Summit:
-
-Join the India Blockchain Summit 2024, a forward-looking event that explores the impact of blockchain on various sectors and initiatives. Held in Delhi, this summit aims to reshape India's digital future while promoting sustainability and women's empowerment. Don't miss out on this opportunity to be part of India's largest blockchain revolution.
-
-Role Overview:
-
-India Blockchain Summit is seeking a motivated Software Developer Intern to join our team. This role is ideal for candidates who are passionate about software development and eager to develop new skills in a cutting-edge field. You will work alongside experienced developers and contribute to the development of innovative solutions that address real-world problems.
-
-Responsibilities:
-Assist in the development and maintenance of software applications.
-Write and debug code to ensure applications are robust and performant.
-. Collaborate with the team to design software system architecture.
-Test and document software solutions.
-Stay updated with the latest industry trends and technologies to integrate into ongoing projects.
-
-Qualifications:
-Currently pursuing or recently graduated in Computer Science, Software Engineering, or a related field.
-Strong foundation in software development and proficiency in programming languages such as JavaScript, Python, or Java.
-Interest and basic understanding of software development lifecycle and methodologies.
-Problem-solving skills and ability to work collaboratively in a team environment.
-Proactive in learning new technologies and concepts related to software development.
-
-What We Offer:
-A platform to work on meaningful projects in the software development space.
-Exposure to the venture capital industry and innovative tech projects.
-A dynamic and supportive work environment with mentorship from industry experts.
-Opportunities to develop professional skills and network within the software and VC community.
-
-Duration: This is a 3-month paid internship position.
-
-How to Apply:
-
-Please send your resume along with a cover letter detailing your interest in software development and your career aspirations in this field. Include any relevant projects or coursework in software development,
-
-- **Apply here:** [Apply here](https://www.shine.com/jobs/software-developer-intern-permanent/india-blockchain-summit-2024/15028986)
-
----
-
-## Job 4
-
 - **Job Title:** Blockchain Developer Intern
 - **Company:** Giakaa Capital
 - **Location:** N/A, N/A, IN
@@ -207,64 +134,132 @@ Please send your resume along with a cover letter detailing your interest in blo
 
 ---
 
-## Job 5
+## Job 3
 
-- **Job Title:** Frontend Developer Intern
+- **Job Title:** Software Developer Intern
 - **Company:** India Blockchain Summit 2024
 - **Location:** N/A, N/A, IN
-- **Job Description:** Job Opportunity: Front End Developer Intern at India Blockchain Summit
-
-Are you passionate about the transformative potential of Web3 technologies in Blockchain, NFT, Metaverse, DeFi, DAO, and other related domains Are you a skilled FrontEnd Developer eager to gain hands-on experience in the Web3 space Look no further! India Blockchain Summit, a leading solution provider in the Web3 realm, is excited to offer an exceptional opportunity for a FrontEnd Developer Web3 Intern to join our innovative team.
+- **Job Description:** Job Opportunity: Software Developer Intern at India Blockchain Summit
 
 About India Blockchain Summit:
 
 Join the India Blockchain Summit 2024, a forward-looking event that explores the impact of blockchain on various sectors and initiatives. Held in Delhi, this summit aims to reshape India's digital future while promoting sustainability and women's empowerment. Don't miss out on this opportunity to be part of India's largest blockchain revolution.
 
-Job Description:
+Role Overview:
 
-As a Front End Developer Intern at India Blockchain Summit, you will have the unique chance. to collaborate with our talented development team, gaining hands-on experience in building Web3 applications that redefine user experiences. You will be at the forefront of creating intuitive and interactive interfaces that leverage the potential of decentralized technologies.
+India Blockchain Summit is seeking a motivated Software Developer Intern to join our team. This role is ideal for candidates who are passionate about software development and eager to develop new skills in a cutting-edge field. You will work alongside experienced developers and contribute to the development of innovative solutions that address real-world problems.
 
 Responsibilities:
+Assist in the development and maintenance of software applications.
+Write and debug code to ensure applications are robust and performant.
+. Collaborate with the team to design software system architecture.
+Test and document software solutions.
+Stay updated with the latest industry trends and technologies to integrate into ongoing projects.
 
-1. Web3 Development: Assist in designing and developing user-friendly, responsive, and efficient front-end interfaces for Web3 applications using modern technologies such as React, JavaScript, and Web3 libraries.
+Qualifications:
+Currently pursuing or recently graduated in Computer Science, Software Engineering, or a related field.
+Strong foundation in software development and proficiency in programming languages such as JavaScript, Python, or Java.
+Interest and basic understanding of software development lifecycle and methodologies.
+Problem-solving skills and ability to work collaboratively in a team environment.
+Proactive in learning new technologies and concepts related to software development.
 
-2. Integration: Collaborate with backend developers to integrate front-end applications with smart contracts and other Web3 components.
+What We Offer:
+A platform to work on meaningful projects in the software development space.
+Exposure to the venture capital industry and innovative tech projects.
+A dynamic and supportive work environment with mentorship from industry experts.
+Opportunities to develop professional skills and network within the software and VC community.
 
-3. User Experience: Contribute to enhancing the user experience by optimizing application performance and implementing user interface improvements.
-
-4. Testing and Debugging: Conduct testing and debugging to ensure the functionality and reliability of front-end applications.
-
-5. Web3 Integration: Explore and implement Web3 integration features, such as wallet connections, NFT support, and decentralized identity solutions.
-
-6. Learning and Growth: Stay updated with the latest advancements in Web3 technologies and continuously enhance your development skills.
-
-Requirements:
-
-1. Enthusiasm for Web3 technologies and a keen interest in Blockchain, NFT, Metaverse, DeFi, DAO, or related domains.
-
-2. Proficiency in FrontEnd development technologies, including HTML, Tailwind CSS, JavaScript, and modern frameworks like React.
-
-3. Familiarity with Web3 libraries and tools such as Web3.js, ethers.js, or similar.
-
-4. Understanding of smart contracts and Ethereum blockchain is a plus but not mandatory.
-
-5. Strong problem-solving skills and a collaborative mindset to work effectively in a team environment.
-
-6. Creative thinking and the ability to translate design concepts into functional user interfaces.
-
-7. Currently pursuing or recently completed a degree in Computer Science, Web Development, or a related field.
-
-Duration: - This is a 3/6 Months paid internship position.
+Duration: This is a 3-month paid internship position.
 
 How to Apply:
 
-If you are excited about the Web3 revolution and believe you have what it takes to contribute to India Blockchain Summit's success, we'd love to hear from you! Please submit your updated resume/brief cover letter highlighting your interest in the position and relevant skills.
-Join India Blockchain Summit in shaping the future of Web3 and let your passion for innovation flourish in an inspiring and collaborative work environment,
+Please send your resume along with a cover letter detailing your interest in software development and your career aspirations in this field. Include any relevant projects or coursework in software development,
 
-- **Apply here:** [Apply here](https://sumopc.shine.com/jobs/frontend-developer-intern-permanent/india-blockchain-summit-2024/15028277)
+- **Apply here:** [Apply here](https://www.shine.com/jobs/software-developer-intern-permanent/india-blockchain-summit-2024/15028986)
+
+---
+
+## Job 4
+
+- **Job Title:** Blockchain Intern
+- **Company:** Reveation Labs
+- **Location:** N/A, N/A, IN
+- **Job Description:** Position: Blockchain Intern/Trainee
+
+Internship Duration: 6 Months (Full time)
+
+Shift: Evening shift (1.30pm to 10.30pm)
+
+Selected intern's day-to-day responsibilities include:
+• Developing, prototyping, and productionizing business applications using Blockchain technology
+• Conducting research to identify the right tools and protocols for Blockchain network, topology, consensus protocols, performance, data storage, digital signature, tokenization, smart contracts
+• Working knowledge of blockchain platforms (Ethereum, Solana, Polygon Tendermint, etc.)
+
+Company Information:
+
+Reveation Labs (reveation.io) is a rapidly growing technology solutions company headquartered in the USA, founded with the purpose of empowering businesses with technical solutions to unlock maximum potential. Led by management leaders with decades of experience working for Top 20 Fortune companies, we believe in being the ultimate solution providers for our clients and partners, helping them with innovative solutions. We specialize in Blockchain development, Enterprise Applications Development, E-commerce solutions, Cloud Computing, DevOps, Mobile Application Development, and Staff Augmentation.
+
+Why Reveation Labs?
+
+We Truly Believe that where your work matters & as a software company, we know a thing or two about what makes employees happy. When you Join Reveation Labs, you do more than simply switch companies to advance your career. You become part of the Reveation Labs Family, a group of talented people who drive innovation, embrace change & celebrate the global community which is Reveation Labs.
+
+- **Apply here:** [Apply here](https://in.linkedin.com/jobs/view/blockchain-intern-at-reveation-labs-3943941803)
+
+---
+
+## Job 5
+
+- **Job Title:** Blockchain Development Internship
+- **Company:** Sharcon Infrastructure Private Limited
+- **Location:** Mumbai, MH, IN
+- **Job Description:** About the internship:
+Selected intern's day-to-day responsibilities include:
+
+1. Join a team of DApp developers and blockchain engineers in the creation of decentralized applications for gaming platforms.
+
+2. Collaborate with stakeholders to define project requirements, technical specifications, and architecture for blockchain development.
+
+3. Design and implement smart contracts, protocols, and decentralized solutions to enable in-game economies, asset ownership, and user interactions.
+
+4. Oversee the development lifecycle of DApps, including coding, testing, deployment, and maintenance phases.
+
+5. Ensure compliance with security best practices and regulatory guidelines in DApp development and blockchain integration.
+
+6. Provide technical leadership and mentorship to team members, fostering a culture of innovation, collaboration, and continuous improvement.
+
+7. Stay informed about emerging technologies, blockchain trends, and decentralized finance (DeFi) innovations, and incorporate relevant insights into DApp strategies.
+
+8. Communicate effectively with stakeholders, including product managers, designers, and external partners, to align DApp development efforts with project objectives and timelines.
+
+Only those candidates can apply who:
+
+1. are available for full time (in-office) internship
+
+2. can start the internship between 15th May'24 and 19th Jun'24
+
+3. are available for duration of 6 months
+
+4. have relevant skills and interests
+
+Stipend:
+INR ₹ 5,000-10,000 /month
+
+Deadline:
+2024-06-15 23:59:59
+
+Other perks:
+Certificate, Letter of recommendation, Flexible work hours, Informal dress code, Free snacks & beverages
+
+Skills required:
+Java, JavaScript, Node.js, C++ Programming, Blockchain, Ethereum and Hyperledger
+
+About Company:
+We provide services to our clients in the area of personnel selection, recruitment, and training and development
+
+- **Apply here:** [Apply here](https://internshala.com/internship/detail/blockchain-development-internship-in-mumbai-at-sharcon-infrastructure-private-limited1715842023)
 
 ---
 
 
-Updated on: [9/6/2024]
+Updated on: [10/6/2024]
 <!-- #jobEnd -->
