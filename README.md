@@ -4,6 +4,46 @@
 
 ## Job 1
 
+- **Job Title:** Digital Marketing Intern (Blockchain and Web3)
+- **Company:** EtherAuthority
+- **Location:** N/A, N/A, IN
+- **Job Description:** Company Description
+
+A company empowering blockchain businesses to use Blockchain Technology to transform the way they operate. We take pride in serving the marketplace to the best of our ability and strive for 100% customer satisfaction.
+
+Role Description
+
+This is an internship role for a Digital Marketing Intern (Blockchain and Web3) at EtherAuthority. The Digital Marketing Intern will be responsible for assisting in the development and implementation of digital marketing strategies and campaigns for blockchain businesses. The intern will utilize their knowledge of blockchain technology and web3 to create engaging content, manage social media platforms, conduct market research, and analyze marketing data. This is a remote internship position.
+
+Qualifications
+• Strong understanding of digital marketing principles and strategies
+• Familiarity with blockchain technology and web3
+• Experience with social media management and content creation
+• Excellent written and verbal communication skills
+• Ability to work independently and collaboratively in a remote team environment
+• Detail-oriented and highly organized
+• Knowledge of marketing analytics and data interpretation
+• Pursuing a degree in marketing, business, or a related field (or recently graduated)
+
+Day to day activities and Responsibilities
+• Engaging brand enhancement activities on social media
+• Engage with influencers posts and participate in the discussion and convey our branding narrative
+• Learn Branding and SEO and other social media skills using online course.
+• Engage in online communications and convey the narrative of the brand.
+
+Time commitment
+• 1 month (8 hours a day. Monday to Friday)
+
+Remuneration provided
+• ₹ 1000 stipend after completion of the program
+• Performance Bonus (at company's sole discretion)
+
+- **Apply here:** [Apply here](https://in.linkedin.com/jobs/view/digital-marketing-intern-blockchain-and-web3-at-etherauthority-3945383850)
+
+---
+
+## Job 2
+
 - **Job Title:** Blockchain Internship
 - **Company:** Plainsurf Solutions
 - **Location:** N/A, N/A, IN
@@ -75,7 +115,7 @@ Work Location: In person
 
 ---
 
-## Job 2
+## Job 3
 
 - **Job Title:** Blockchain Developer Intern
 - **Company:** Giakaa Capital
@@ -134,7 +174,7 @@ Please send your resume along with a cover letter detailing your interest in blo
 
 ---
 
-## Job 3
+## Job 4
 
 - **Job Title:** Software Developer Intern
 - **Company:** India Blockchain Summit 2024
@@ -179,7 +219,7 @@ Please send your resume along with a cover letter detailing your interest in sof
 
 ---
 
-## Job 4
+## Job 5
 
 - **Job Title:** Blockchain Intern
 - **Company:** Reveation Labs
@@ -207,59 +247,6 @@ We Truly Believe that where your work matters & as a software company, we know a
 
 ---
 
-## Job 5
 
-- **Job Title:** Blockchain Development Internship
-- **Company:** Sharcon Infrastructure Private Limited
-- **Location:** Mumbai, MH, IN
-- **Job Description:** About the internship:
-Selected intern's day-to-day responsibilities include:
-
-1. Join a team of DApp developers and blockchain engineers in the creation of decentralized applications for gaming platforms.
-
-2. Collaborate with stakeholders to define project requirements, technical specifications, and architecture for blockchain development.
-
-3. Design and implement smart contracts, protocols, and decentralized solutions to enable in-game economies, asset ownership, and user interactions.
-
-4. Oversee the development lifecycle of DApps, including coding, testing, deployment, and maintenance phases.
-
-5. Ensure compliance with security best practices and regulatory guidelines in DApp development and blockchain integration.
-
-6. Provide technical leadership and mentorship to team members, fostering a culture of innovation, collaboration, and continuous improvement.
-
-7. Stay informed about emerging technologies, blockchain trends, and decentralized finance (DeFi) innovations, and incorporate relevant insights into DApp strategies.
-
-8. Communicate effectively with stakeholders, including product managers, designers, and external partners, to align DApp development efforts with project objectives and timelines.
-
-Only those candidates can apply who:
-
-1. are available for full time (in-office) internship
-
-2. can start the internship between 15th May'24 and 19th Jun'24
-
-3. are available for duration of 6 months
-
-4. have relevant skills and interests
-
-Stipend:
-INR ₹ 5,000-10,000 /month
-
-Deadline:
-2024-06-15 23:59:59
-
-Other perks:
-Certificate, Letter of recommendation, Flexible work hours, Informal dress code, Free snacks & beverages
-
-Skills required:
-Java, JavaScript, Node.js, C++ Programming, Blockchain, Ethereum and Hyperledger
-
-About Company:
-We provide services to our clients in the area of personnel selection, recruitment, and training and development
-
-- **Apply here:** [Apply here](https://internshala.com/internship/detail/blockchain-development-internship-in-mumbai-at-sharcon-infrastructure-private-limited1715842023)
-
----
-
-
-Updated on: [10/6/2024]
+Updated on: [11/6/2024]
 <!-- #jobEnd -->
