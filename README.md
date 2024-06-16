@@ -136,6 +136,30 @@ Work Location: In person
 
 ## Job 3
 
+- **Job Title:** Blockchain Development Internship in Chennai, Coimbatore, Madurai
+- **Company:** Gateway Software SolutionS
+- **Location:** Coimbatore, TN, IN
+- **Job Description:** As a blockchain development intern at Gateway Software Solutions, you will have the opportunity to work on cutting-edge projects and gain real-world experience in the exciting field of blockchain technology.
+
+Selected Intern's Day-to-day Responsibilities Include
+• Collaborate with our development team to design and implement blockchain solutions
+• Assist in the development and testing of smart contracts and decentralized applications
+• Research and analyze emerging blockchain technologies to recommend best practices
+• Participate in code reviews and provide feedback to improve the overall quality of our products
+• Work closely with senior developers to troubleshoot and resolve technical issues
+• Contribute to the documentation and knowledge sharing within the team
+• Stay updated on industry trends and advancements to help drive innovation within the company
+
+If you are passionate about blockchain technology and eager to learn and grow in a fast-paced environment, then this internship is perfect for you. Join us at Gateway Software Solutions and be a part of revolutionizing the future of technology!
+
+About Company: Gateway Software Solutions (G3S) is a Coimbatore-based software development and ISO 9001:2015 certified delivery partner of Hewlett Packard Enterprises that provides various services and solutions to their clients in the area of software development, especially in ERP, CRM, and mobile application development. We have now expanded our services to include search engine optimization and software testing.
+
+- **Apply here:** [Apply here](https://in.linkedin.com/jobs/view/blockchain-development-internship-in-chennai-coimbatore-madurai-at-gateway-software-solutions-3929187264)
+
+---
+
+## Job 4
+
 - **Job Title:** Software Developer Intern
 - **Company:** India Blockchain Summit 2024
 - **Location:** N/A, N/A, IN
@@ -179,7 +203,7 @@ Please send your resume along with a cover letter detailing your interest in sof
 
 ---
 
-## Job 4
+## Job 5
 
 - **Job Title:** Blockchain Smart Contract Developer R&D Intern
 - **Company:** Catoff
@@ -225,30 +249,6 @@ Flexible work arrangements, including remote options,
 
 ---
 
-## Job 5
 
-- **Job Title:** Blockchain Development Internship in Chennai, Coimbatore, Madurai
-- **Company:** Gateway Software SolutionS
-- **Location:** Coimbatore, TN, IN
-- **Job Description:** As a blockchain development intern at Gateway Software Solutions, you will have the opportunity to work on cutting-edge projects and gain real-world experience in the exciting field of blockchain technology.
-
-Selected Intern's Day-to-day Responsibilities Include
-• Collaborate with our development team to design and implement blockchain solutions
-• Assist in the development and testing of smart contracts and decentralized applications
-• Research and analyze emerging blockchain technologies to recommend best practices
-• Participate in code reviews and provide feedback to improve the overall quality of our products
-• Work closely with senior developers to troubleshoot and resolve technical issues
-• Contribute to the documentation and knowledge sharing within the team
-• Stay updated on industry trends and advancements to help drive innovation within the company
-
-If you are passionate about blockchain technology and eager to learn and grow in a fast-paced environment, then this internship is perfect for you. Join us at Gateway Software Solutions and be a part of revolutionizing the future of technology!
-
-About Company: Gateway Software Solutions (G3S) is a Coimbatore-based software development and ISO 9001:2015 certified delivery partner of Hewlett Packard Enterprises that provides various services and solutions to their clients in the area of software development, especially in ERP, CRM, and mobile application development. We have now expanded our services to include search engine optimization and software testing.
-
-- **Apply here:** [Apply here](https://in.linkedin.com/jobs/view/blockchain-development-internship-in-chennai-coimbatore-madurai-at-gateway-software-solutions-3929187264)
-
----
-
-
-Updated on: [15/6/2024]
+Updated on: [16/6/2024]
 <!-- #jobEnd -->
