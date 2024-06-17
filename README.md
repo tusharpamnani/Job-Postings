@@ -63,6 +63,51 @@ Please send your resume along with a cover letter detailing your interest in blo
 
 ## Job 2
 
+- **Job Title:** Software Developer Intern
+- **Company:** India Blockchain Summit 2024
+- **Location:** N/A, N/A, IN
+- **Job Description:** Job Opportunity: Software Developer Intern at India Blockchain Summit
+
+About India Blockchain Summit:
+
+Join the India Blockchain Summit 2024, a forward-looking event that explores the impact of blockchain on various sectors and initiatives. Held in Delhi, this summit aims to reshape India's digital future while promoting sustainability and women's empowerment. Don't miss out on this opportunity to be part of India's largest blockchain revolution.
+
+Role Overview:
+
+India Blockchain Summit is seeking a motivated Software Developer Intern to join our team. This role is ideal for candidates who are passionate about software development and eager to develop new skills in a cutting-edge field. You will work alongside experienced developers and contribute to the development of innovative solutions that address real-world problems.
+
+Responsibilities:
+Assist in the development and maintenance of software applications.
+Write and debug code to ensure applications are robust and performant.
+. Collaborate with the team to design software system architecture.
+Test and document software solutions.
+Stay updated with the latest industry trends and technologies to integrate into ongoing projects.
+
+Qualifications:
+Currently pursuing or recently graduated in Computer Science, Software Engineering, or a related field.
+Strong foundation in software development and proficiency in programming languages such as JavaScript, Python, or Java.
+Interest and basic understanding of software development lifecycle and methodologies.
+Problem-solving skills and ability to work collaboratively in a team environment.
+Proactive in learning new technologies and concepts related to software development.
+
+What We Offer:
+A platform to work on meaningful projects in the software development space.
+Exposure to the venture capital industry and innovative tech projects.
+A dynamic and supportive work environment with mentorship from industry experts.
+Opportunities to develop professional skills and network within the software and VC community.
+
+Duration: This is a 3-month paid internship position.
+
+How to Apply:
+
+Please send your resume along with a cover letter detailing your interest in software development and your career aspirations in this field. Include any relevant projects or coursework in software development,
+
+- **Apply here:** [Apply here](https://www.shine.com/jobs/software-developer-intern-permanent/india-blockchain-summit-2024/15028986)
+
+---
+
+## Job 3
+
 - **Job Title:** Blockchain Internship
 - **Company:** Plainsurf Solutions
 - **Location:** N/A, N/A, IN
@@ -134,76 +179,7 @@ Work Location: In person
 
 ---
 
-## Job 3
-
-- **Job Title:** Blockchain Development Internship in Chennai, Coimbatore, Madurai
-- **Company:** Gateway Software SolutionS
-- **Location:** Coimbatore, TN, IN
-- **Job Description:** As a blockchain development intern at Gateway Software Solutions, you will have the opportunity to work on cutting-edge projects and gain real-world experience in the exciting field of blockchain technology.
-
-Selected Intern's Day-to-day Responsibilities Include
-• Collaborate with our development team to design and implement blockchain solutions
-• Assist in the development and testing of smart contracts and decentralized applications
-• Research and analyze emerging blockchain technologies to recommend best practices
-• Participate in code reviews and provide feedback to improve the overall quality of our products
-• Work closely with senior developers to troubleshoot and resolve technical issues
-• Contribute to the documentation and knowledge sharing within the team
-• Stay updated on industry trends and advancements to help drive innovation within the company
-
-If you are passionate about blockchain technology and eager to learn and grow in a fast-paced environment, then this internship is perfect for you. Join us at Gateway Software Solutions and be a part of revolutionizing the future of technology!
-
-About Company: Gateway Software Solutions (G3S) is a Coimbatore-based software development and ISO 9001:2015 certified delivery partner of Hewlett Packard Enterprises that provides various services and solutions to their clients in the area of software development, especially in ERP, CRM, and mobile application development. We have now expanded our services to include search engine optimization and software testing.
-
-- **Apply here:** [Apply here](https://in.linkedin.com/jobs/view/blockchain-development-internship-in-chennai-coimbatore-madurai-at-gateway-software-solutions-3929187264)
-
----
-
 ## Job 4
-
-- **Job Title:** Software Developer Intern
-- **Company:** India Blockchain Summit 2024
-- **Location:** N/A, N/A, IN
-- **Job Description:** Job Opportunity: Software Developer Intern at India Blockchain Summit
-
-About India Blockchain Summit:
-
-Join the India Blockchain Summit 2024, a forward-looking event that explores the impact of blockchain on various sectors and initiatives. Held in Delhi, this summit aims to reshape India's digital future while promoting sustainability and women's empowerment. Don't miss out on this opportunity to be part of India's largest blockchain revolution.
-
-Role Overview:
-
-India Blockchain Summit is seeking a motivated Software Developer Intern to join our team. This role is ideal for candidates who are passionate about software development and eager to develop new skills in a cutting-edge field. You will work alongside experienced developers and contribute to the development of innovative solutions that address real-world problems.
-
-Responsibilities:
-Assist in the development and maintenance of software applications.
-Write and debug code to ensure applications are robust and performant.
-. Collaborate with the team to design software system architecture.
-Test and document software solutions.
-Stay updated with the latest industry trends and technologies to integrate into ongoing projects.
-
-Qualifications:
-Currently pursuing or recently graduated in Computer Science, Software Engineering, or a related field.
-Strong foundation in software development and proficiency in programming languages such as JavaScript, Python, or Java.
-Interest and basic understanding of software development lifecycle and methodologies.
-Problem-solving skills and ability to work collaboratively in a team environment.
-Proactive in learning new technologies and concepts related to software development.
-
-What We Offer:
-A platform to work on meaningful projects in the software development space.
-Exposure to the venture capital industry and innovative tech projects.
-A dynamic and supportive work environment with mentorship from industry experts.
-Opportunities to develop professional skills and network within the software and VC community.
-
-Duration: This is a 3-month paid internship position.
-
-How to Apply:
-
-Please send your resume along with a cover letter detailing your interest in software development and your career aspirations in this field. Include any relevant projects or coursework in software development,
-
-- **Apply here:** [Apply here](https://www.shine.com/jobs/software-developer-intern-permanent/india-blockchain-summit-2024/15028986)
-
----
-
-## Job 5
 
 - **Job Title:** Blockchain Smart Contract Developer R&D Intern
 - **Company:** Catoff
@@ -249,6 +225,64 @@ Flexible work arrangements, including remote options,
 
 ---
 
+## Job 5
 
-Updated on: [16/6/2024]
+- **Job Title:** Frontend Developer Intern
+- **Company:** India Blockchain Summit 2024
+- **Location:** N/A, N/A, IN
+- **Job Description:** Job Opportunity: Front End Developer Intern at India Blockchain Summit
+
+Are you passionate about the transformative potential of Web3 technologies in Blockchain, NFT, Metaverse, DeFi, DAO, and other related domains Are you a skilled FrontEnd Developer eager to gain hands-on experience in the Web3 space Look no further! India Blockchain Summit, a leading solution provider in the Web3 realm, is excited to offer an exceptional opportunity for a FrontEnd Developer Web3 Intern to join our innovative team.
+
+About India Blockchain Summit:
+
+Join the India Blockchain Summit 2024, a forward-looking event that explores the impact of blockchain on various sectors and initiatives. Held in Delhi, this summit aims to reshape India's digital future while promoting sustainability and women's empowerment. Don't miss out on this opportunity to be part of India's largest blockchain revolution.
+
+Job Description:
+
+As a Front End Developer Intern at India Blockchain Summit, you will have the unique chance. to collaborate with our talented development team, gaining hands-on experience in building Web3 applications that redefine user experiences. You will be at the forefront of creating intuitive and interactive interfaces that leverage the potential of decentralized technologies.
+
+Responsibilities:
+
+1. Web3 Development: Assist in designing and developing user-friendly, responsive, and efficient front-end interfaces for Web3 applications using modern technologies such as React, JavaScript, and Web3 libraries.
+
+2. Integration: Collaborate with backend developers to integrate front-end applications with smart contracts and other Web3 components.
+
+3. User Experience: Contribute to enhancing the user experience by optimizing application performance and implementing user interface improvements.
+
+4. Testing and Debugging: Conduct testing and debugging to ensure the functionality and reliability of front-end applications.
+
+5. Web3 Integration: Explore and implement Web3 integration features, such as wallet connections, NFT support, and decentralized identity solutions.
+
+6. Learning and Growth: Stay updated with the latest advancements in Web3 technologies and continuously enhance your development skills.
+
+Requirements:
+
+1. Enthusiasm for Web3 technologies and a keen interest in Blockchain, NFT, Metaverse, DeFi, DAO, or related domains.
+
+2. Proficiency in FrontEnd development technologies, including HTML, Tailwind CSS, JavaScript, and modern frameworks like React.
+
+3. Familiarity with Web3 libraries and tools such as Web3.js, ethers.js, or similar.
+
+4. Understanding of smart contracts and Ethereum blockchain is a plus but not mandatory.
+
+5. Strong problem-solving skills and a collaborative mindset to work effectively in a team environment.
+
+6. Creative thinking and the ability to translate design concepts into functional user interfaces.
+
+7. Currently pursuing or recently completed a degree in Computer Science, Web Development, or a related field.
+
+Duration: - This is a 3/6 Months paid internship position.
+
+How to Apply:
+
+If you are excited about the Web3 revolution and believe you have what it takes to contribute to India Blockchain Summit's success, we'd love to hear from you! Please submit your updated resume/brief cover letter highlighting your interest in the position and relevant skills.
+Join India Blockchain Summit in shaping the future of Web3 and let your passion for innovation flourish in an inspiring and collaborative work environment,
+
+- **Apply here:** [Apply here](https://sumopc.shine.com/jobs/frontend-developer-intern-permanent/india-blockchain-summit-2024/15028277)
+
+---
+
+
+Updated on: [17/6/2024]
 <!-- #jobEnd -->
