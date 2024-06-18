@@ -284,5 +284,5 @@ Join India Blockchain Summit in shaping the future of Web3 and let your passion 
 ---
 
 
-Updated on: [17/6/2024]
+Updated on: [18/6/2024]
 <!-- #jobEnd -->
