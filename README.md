@@ -181,6 +181,53 @@ Work Location: In person
 
 ## Job 4
 
+- **Job Title:** Blockchain (Web3) Intern
+- **Company:** Cloud Counselage Pvt. Ltd.
+- **Location:** Mumbai, MH, IN
+- **Job Description:** As a Blockchain Web3 Intern, you will have the opportunity to gain hands-on experience in the exciting and rapidly evolving field of blockchain technology. Under the guidance of experienced mentors, you will contribute to the development, testing, and deployment of cutting-edge decentralized applications and smart contracts. This internship offers a unique chance to work on real-world projects, collaborate with cross-functional teams, and expand your knowledge of blockchain and Web3 technologies.
+
+Responsibilities
+• Assist in the design and implementation of smart contracts using Solidity or other blockchain programming languages
+• Contribute to the development of decentralized applications (dApps) utilizing Web3.js, Ethereum, or other blockchain platforms
+• Participate in code reviews, testing, and debugging to ensure the quality and security of blockchain-based solutions
+• Research and explore emerging trends, protocols, and tools in the blockchain and decentralized finance (DeFi) space
+• Collaborate with team members to brainstorm ideas, solve technical challenges, and optimize performance
+• Document project requirements, workflows, and best practices to support knowledge sharing and future development efforts
+• Stay up-to-date with industry developments, attending workshops, webinars, and conferences as appropriate
+
+Mandatory Requirements
+• Currently enrolled in a Diploma, Bachelor's or Master's degree program in Computer Science, Engineering, or a related field
+• Strong interest in blockchain technology, decentralized systems, and cryptocurrencies
+• Familiarity with programming languages such as JavaScript, Python, or Solidity
+• Basic understanding of blockchain concepts, including smart contracts, consensus mechanisms, and decentralized networks
+
+Preferred Requirements
+• Prior experience with blockchain development tools and frameworks (e.g., Truffle, Ganache, Remix)
+• Knowledge of decentralized finance (DeFi) protocols such as Uniswap, Compound, or MakerDAO
+• Understanding of cryptographic principles and security best practices in blockchain applications
+• Contributions to open-source projects or participation in hackathons related to blockchain technology
+
+Qualities
+• Excellent problem-solving skills and attention to detail
+• Ability to work independently and as part of a team in a fast-paced environment
+• Effective communication and interpersonal skills
+
+Benefits
+• Opportunity to work on innovative projects with experienced mentors
+• Exposure to cutting-edge technologies and best practices in blockchain development
+• Flexible work hours and a supportive team culture
+• Potential for future full-time employment or recommendation for other opportunities based on performance during the internship
+
+Duration: 3 months, 6 months
+
+Location: Onsite, Remote, Hybrid
+
+- **Apply here:** [Apply here](https://in.linkedin.com/jobs/view/blockchain-web3-intern-at-cloud-counselage-pvt-ltd-3896709183)
+
+---
+
+## Job 5
+
 - **Job Title:** Blockchain Smart Contract Developer R&D Intern
 - **Company:** Catoff
 - **Location:** N/A, N/A, IN
@@ -225,64 +272,6 @@ Flexible work arrangements, including remote options,
 
 ---
 
-## Job 5
 
-- **Job Title:** Frontend Developer Intern
-- **Company:** India Blockchain Summit 2024
-- **Location:** N/A, N/A, IN
-- **Job Description:** Job Opportunity: Front End Developer Intern at India Blockchain Summit
-
-Are you passionate about the transformative potential of Web3 technologies in Blockchain, NFT, Metaverse, DeFi, DAO, and other related domains Are you a skilled FrontEnd Developer eager to gain hands-on experience in the Web3 space Look no further! India Blockchain Summit, a leading solution provider in the Web3 realm, is excited to offer an exceptional opportunity for a FrontEnd Developer Web3 Intern to join our innovative team.
-
-About India Blockchain Summit:
-
-Join the India Blockchain Summit 2024, a forward-looking event that explores the impact of blockchain on various sectors and initiatives. Held in Delhi, this summit aims to reshape India's digital future while promoting sustainability and women's empowerment. Don't miss out on this opportunity to be part of India's largest blockchain revolution.
-
-Job Description:
-
-As a Front End Developer Intern at India Blockchain Summit, you will have the unique chance. to collaborate with our talented development team, gaining hands-on experience in building Web3 applications that redefine user experiences. You will be at the forefront of creating intuitive and interactive interfaces that leverage the potential of decentralized technologies.
-
-Responsibilities:
-
-1. Web3 Development: Assist in designing and developing user-friendly, responsive, and efficient front-end interfaces for Web3 applications using modern technologies such as React, JavaScript, and Web3 libraries.
-
-2. Integration: Collaborate with backend developers to integrate front-end applications with smart contracts and other Web3 components.
-
-3. User Experience: Contribute to enhancing the user experience by optimizing application performance and implementing user interface improvements.
-
-4. Testing and Debugging: Conduct testing and debugging to ensure the functionality and reliability of front-end applications.
-
-5. Web3 Integration: Explore and implement Web3 integration features, such as wallet connections, NFT support, and decentralized identity solutions.
-
-6. Learning and Growth: Stay updated with the latest advancements in Web3 technologies and continuously enhance your development skills.
-
-Requirements:
-
-1. Enthusiasm for Web3 technologies and a keen interest in Blockchain, NFT, Metaverse, DeFi, DAO, or related domains.
-
-2. Proficiency in FrontEnd development technologies, including HTML, Tailwind CSS, JavaScript, and modern frameworks like React.
-
-3. Familiarity with Web3 libraries and tools such as Web3.js, ethers.js, or similar.
-
-4. Understanding of smart contracts and Ethereum blockchain is a plus but not mandatory.
-
-5. Strong problem-solving skills and a collaborative mindset to work effectively in a team environment.
-
-6. Creative thinking and the ability to translate design concepts into functional user interfaces.
-
-7. Currently pursuing or recently completed a degree in Computer Science, Web Development, or a related field.
-
-Duration: - This is a 3/6 Months paid internship position.
-
-How to Apply:
-
-If you are excited about the Web3 revolution and believe you have what it takes to contribute to India Blockchain Summit's success, we'd love to hear from you! Please submit your updated resume/brief cover letter highlighting your interest in the position and relevant skills.
-Join India Blockchain Summit in shaping the future of Web3 and let your passion for innovation flourish in an inspiring and collaborative work environment,
-
-- **Apply here:** [Apply here](https://sumopc.shine.com/jobs/frontend-developer-intern-permanent/india-blockchain-summit-2024/15028277)
-
----
-
-
-Updated on: [18/6/2024]
+Updated on: [19/6/2024]
 <!-- #jobEnd -->
