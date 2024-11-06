@@ -4,6 +4,53 @@
 
 ## Job 1
 
+- **Job Title:** Blockchain Developer Intern
+- **Company:** Invest Web3 Forum
+- **Location:** N/A, N/A, IN
+- **Job Description:** Job Opportunity: Blockchain Developer Intern at Web3 Invest Forum
+
+About Web3 Invest Forum:
+
+Hosted at In5 Tech, Dubai, IWF is the UAE’s premier platform for connecting Web3 ventures with capital. By uniting policymakers, investors, entrepreneurs, and industry leaders, IWF fuels investments and drives growth in the Web3 and blockchain space.
+
+Role Overview:
+
+We are looking for an innovative and technically skilled Blockchain Developer Intern to join our team. This role is ideal for a candidate with a strong interest in blockchain technology and decentralized applications. As a Blockchain Developer Intern, you will work closely with our development team to assist in building and maintaining blockchain solutions that contribute to our platform's growth and functionality.
+
+Responsibilities:
+• Assist in the development, testing, and deployment of blockchain-based applications.
+• Work with blockchain technologies like Ethereum, Solana, or Binance Smart Chain.
+• Help design and implement smart contracts and ensure their security.
+• Collaborate with front-end and back-end developers to integrate blockchain solutions.
+• Troubleshoot and debug blockchain-related issues to maintain system integrity.
+• Conduct research on emerging blockchain trends and propose potential implementations.
+
+Qualifications:
+• Currently pursuing or recently graduated with a degree in Computer Science, Blockchain Technology, or a related field.
+• Basic knowledge of blockchain fundamentals and protocols.
+• Familiarity with one or more blockchain platforms (e.g., Ethereum, Solana) and programming languages like Solidity or Rust.
+• Understanding of cryptographic principles and data structures commonly used in blockchain.
+• Basic experience with smart contract development and deployment.
+• Strong analytical and problem-solving skills.
+• Eagerness to learn and adapt to new blockchain technologies.
+
+What We Offer:
+• Hands-on experience in blockchain development and smart contract programming.
+• Exposure to the venture capital industry and blockchain ecosystems.
+• Mentorship from experienced professionals in blockchain and decentralized applications.
+• A flexible, dynamic, and supportive work environment.
+• Duration: This is a 3-month paid internship position.
+
+How to Apply:
+
+Interested candidates should submit their resume and a cover letter detailing their interest in blockchain development, along with any relevant project or code samples.
+
+- **Apply here:** [Apply here](https://in.linkedin.com/jobs/view/blockchain-developer-intern-at-invest-web3-forum-4067155787?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
+
+---
+
+## Job 2
+
 - **Job Title:** Blockchain Internship
 - **Company:** Hashstack
 - **Location:** N/A, KA, IN
@@ -68,7 +115,7 @@ __________________________
 
 ---
 
-## Job 2
+## Job 3
 
 - **Job Title:** Blockchain (Security) Researcher Intern
 - **Company:** Cypherock Wallet
@@ -97,7 +144,7 @@ Requirements:
 
 ---
 
-## Job 3
+## Job 4
 
 - **Job Title:** Paid Internship at Runs.com (Blockchain) with Certificate
 - **Company:** Runs.com
@@ -116,7 +163,7 @@ Register at https://goo.gl/XiY9WF for the first round and the students clearing 
 
 ---
 
-## Job 4
+## Job 5
 
 - **Job Title:** Apply For Internship
 - **Company:** Tokyotechie
@@ -146,25 +193,6 @@ Key Details Of Our Internship Programe
 
 ---
 
-## Job 5
 
-- **Job Title:** Full Stack Developer Intern
-- **Company:** Cypherock
-- **Location:** New Delhi, DL, IN
-- **Job Description:** At Cypherock, We are disrupting the current financial system by increasing the adoption of Blockchain-based digital assets through better key management solutions. We build "Worlds' first products" from India, work at the intersection of Blockchain, Security, Embedded Hardware and Cryptography, and have worked with companies like Google, Blockgeeks, Samsung, Lockheed Martin, Apollo Munich, Bank of America amongst others.
-
-As the primary person responsible for everything Blockchain in the company, we think it will be a great fit if -
-• You love everything Crypto and are passionate to create the World's safest Crypto wallet.
-• You have MERN stack & DevOps experience on AWS.
-• You have reasonable open-source development experience and have shipped production-ready code.
-• You can commit for at least 6 months and you are ideally in your 4th year of college and willing to join full time after the internship if mutually agreed.
-
-If we decide to work together, we believe you would be a key team member who helps in the mass adoption of Crypto for the first billion users.
-
-- **Apply here:** [Apply here](https://cutshort.io/job/Full-Stack-Developer-Intern-Delhi-Gurugram-Noida-Ghaziabad-Cypherock-TXCq1PBJ?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
-
----
-
-
-Updated on: [5/11/2024]
+Updated on: [6/11/2024]
 <!-- #jobEnd -->
