@@ -4,53 +4,6 @@
 
 ## Job 1
 
-- **Job Title:** Blockchain Developer Intern
-- **Company:** Invest Web3 Forum
-- **Location:** N/A, N/A, IN
-- **Job Description:** Job Opportunity: Blockchain Developer Intern at Web3 Invest Forum
-
-About Web3 Invest Forum:
-
-Hosted at In5 Tech, Dubai, IWF is the UAE’s premier platform for connecting Web3 ventures with capital. By uniting policymakers, investors, entrepreneurs, and industry leaders, IWF fuels investments and drives growth in the Web3 and blockchain space.
-
-Role Overview:
-
-We are looking for an innovative and technically skilled Blockchain Developer Intern to join our team. This role is ideal for a candidate with a strong interest in blockchain technology and decentralized applications. As a Blockchain Developer Intern, you will work closely with our development team to assist in building and maintaining blockchain solutions that contribute to our platform's growth and functionality.
-
-Responsibilities:
-• Assist in the development, testing, and deployment of blockchain-based applications.
-• Work with blockchain technologies like Ethereum, Solana, or Binance Smart Chain.
-• Help design and implement smart contracts and ensure their security.
-• Collaborate with front-end and back-end developers to integrate blockchain solutions.
-• Troubleshoot and debug blockchain-related issues to maintain system integrity.
-• Conduct research on emerging blockchain trends and propose potential implementations.
-
-Qualifications:
-• Currently pursuing or recently graduated with a degree in Computer Science, Blockchain Technology, or a related field.
-• Basic knowledge of blockchain fundamentals and protocols.
-• Familiarity with one or more blockchain platforms (e.g., Ethereum, Solana) and programming languages like Solidity or Rust.
-• Understanding of cryptographic principles and data structures commonly used in blockchain.
-• Basic experience with smart contract development and deployment.
-• Strong analytical and problem-solving skills.
-• Eagerness to learn and adapt to new blockchain technologies.
-
-What We Offer:
-• Hands-on experience in blockchain development and smart contract programming.
-• Exposure to the venture capital industry and blockchain ecosystems.
-• Mentorship from experienced professionals in blockchain and decentralized applications.
-• A flexible, dynamic, and supportive work environment.
-• Duration: This is a 3-month paid internship position.
-
-How to Apply:
-
-Interested candidates should submit their resume and a cover letter detailing their interest in blockchain development, along with any relevant project or code samples.
-
-- **Apply here:** [Apply here](https://in.linkedin.com/jobs/view/blockchain-developer-intern-at-invest-web3-forum-4067155787?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
-
----
-
-## Job 2
-
 - **Job Title:** Blockchain Internship
 - **Company:** Hashstack
 - **Location:** N/A, KA, IN
@@ -115,6 +68,53 @@ __________________________
 
 ---
 
+## Job 2
+
+- **Job Title:** Blockchain Developer Intern
+- **Company:** Invest Web3 Forum
+- **Location:** N/A, N/A, IN
+- **Job Description:** Job Opportunity: Blockchain Developer Intern at Web3 Invest Forum
+
+About Web3 Invest Forum:
+
+Hosted at In5 Tech, Dubai, IWF is the UAE’s premier platform for connecting Web3 ventures with capital. By uniting policymakers, investors, entrepreneurs, and industry leaders, IWF fuels investments and drives growth in the Web3 and blockchain space.
+
+Role Overview:
+
+We are looking for an innovative and technically skilled Blockchain Developer Intern to join our team. This role is ideal for a candidate with a strong interest in blockchain technology and decentralized applications. As a Blockchain Developer Intern, you will work closely with our development team to assist in building and maintaining blockchain solutions that contribute to our platform's growth and functionality.
+
+Responsibilities:
+• Assist in the development, testing, and deployment of blockchain-based applications.
+• Work with blockchain technologies like Ethereum, Solana, or Binance Smart Chain.
+• Help design and implement smart contracts and ensure their security.
+• Collaborate with front-end and back-end developers to integrate blockchain solutions.
+• Troubleshoot and debug blockchain-related issues to maintain system integrity.
+• Conduct research on emerging blockchain trends and propose potential implementations.
+
+Qualifications:
+• Currently pursuing or recently graduated with a degree in Computer Science, Blockchain Technology, or a related field.
+• Basic knowledge of blockchain fundamentals and protocols.
+• Familiarity with one or more blockchain platforms (e.g., Ethereum, Solana) and programming languages like Solidity or Rust.
+• Understanding of cryptographic principles and data structures commonly used in blockchain.
+• Basic experience with smart contract development and deployment.
+• Strong analytical and problem-solving skills.
+• Eagerness to learn and adapt to new blockchain technologies.
+
+What We Offer:
+• Hands-on experience in blockchain development and smart contract programming.
+• Exposure to the venture capital industry and blockchain ecosystems.
+• Mentorship from experienced professionals in blockchain and decentralized applications.
+• A flexible, dynamic, and supportive work environment.
+• Duration: This is a 3-month paid internship position.
+
+How to Apply:
+
+Interested candidates should submit their resume and a cover letter detailing their interest in blockchain development, along with any relevant project or code samples.
+
+- **Apply here:** [Apply here](https://in.linkedin.com/jobs/view/blockchain-developer-intern-at-invest-web3-forum-4067155787?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
+
+---
+
 ## Job 3
 
 - **Job Title:** Blockchain (Security) Researcher Intern
@@ -146,25 +146,6 @@ Requirements:
 
 ## Job 4
 
-- **Job Title:** Paid Internship at Runs.com (Blockchain) with Certificate
-- **Company:** Runs.com
-- **Location:** N/A, N/A, IN
-- **Job Description:** "To apply and win a free certificate register at: Registration link : https://goo.gl/XiY9WF
-
-We at Runs.com are a pioneering technology team comprising of researchers from Columbia University and Stanford University in US as well as IIT & IIM. Blockchain is a global phenomenon that is disrupting everything, just the way internet changed since early 2000. We want to educate as many Indian students as possible to learn this cutting edge technology which will be driven by our honorable speakers Dr. Arthur Langer (Director, Center for Technology Management - Columbia University) & Dr. Artit Wangperawong (PhD, Stanford University and Chief Technology Officer, runs.com ) .We request you to pass this information to help students learn new technology which will help in their career.
-
-Qualifications: Graduate in any field with good communication skills
-
-Responsibilities: Assisting the marketing manager in all tasks. Analysing the blockchain industry and working on fundraising, marketing, social media and business development.
-
-Register at https://goo.gl/XiY9WF for the first round and the students clearing this round will be contacted personally for subsequent rounds. Please note that anyone can apply and win a free certificate!"
-
-- **Apply here:** [Apply here](https://cutshort.io/job/Paid-Internship-at-Runs-com-Blockchain-with-Certificate-Anywhere-Runs-com-axcTM3FE?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
-
----
-
-## Job 5
-
 - **Job Title:** Full Stack Developer Intern
 - **Company:** Cypherock
 - **Location:** New Delhi, DL, IN
@@ -183,5 +164,5 @@ If we decide to work together, we believe you would be a key team member who hel
 ---
 
 
-Updated on: [8/11/2024]
+Updated on: [9/11/2024]
 <!-- #jobEnd -->
