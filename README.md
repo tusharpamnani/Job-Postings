@@ -70,48 +70,64 @@ __________________________
 
 ## Job 2
 
-- **Job Title:** Blockchain Developer Intern
-- **Company:** Invest Web3 Forum
+- **Job Title:** Research Internship (Blockchain Storage)
+- **Company:** Supra
 - **Location:** N/A, N/A, IN
-- **Job Description:** Job Opportunity: Blockchain Developer Intern at Web3 Invest Forum
+- **Job Description:** Who We Are
 
-About Web3 Invest Forum:
+Supra is pioneering the future of information services in global markets. As an exciting, ambitious, and well-funded startup with unique technical capabilities, we aim to be a future leader in decentralized data. Our team includes professionals, academics, and advisors with experience from leading institutions such as Purdue University, University of Cambridge, University of Pennsylvania, Columbia University, and University of Oxford. Additionally, our industry experience includes prestigious companies like JPMorgan Chase & Co., Qualcomm, ConsenSys, and Binance. Based in Switzerland with a remote-first policy, our globally distributed team spans over 35 countries. We are dedicated to solving the Oracle Dilemma through innovative solutions in consensus mechanisms, real-time data services, decentralized finance (DeFi), and Layer 1 (L1) technologies.
 
-Hosted at In5 Tech, Dubai, IWF is the UAE’s premier platform for connecting Web3 ventures with capital. By uniting policymakers, investors, entrepreneurs, and industry leaders, IWF fuels investments and drives growth in the Web3 and blockchain space.
+Trust, kindness, honesty, and a commitment to ethical, decentralized technologies are the cornerstones of our culture.
 
-Role Overview:
+What we're looking for
 
-We are looking for an innovative and technically skilled Blockchain Developer Intern to join our team. This role is ideal for a candidate with a strong interest in blockchain technology and decentralized applications. As a Blockchain Developer Intern, you will work closely with our development team to assist in building and maintaining blockchain solutions that contribute to our platform's growth and functionality.
+Blockchains are an excellent solution for storing data; however, the main limitation is performance when storing and querying the blockchain state in persistent storage (database). The blockchain node stores the data (state) in specific data structures in the database. The most commonly used databases by popular blockchains are RocksDB, LevelDB, LMDB, or the flavor of these DBs. The most commonly used data structures to store states are Ethereum Merkle trees, Consensys Bonsai trees, Erigon approach, Verkle trees, Avax Firewood, etc.
 
-Responsibilities:
-• Assist in the development, testing, and deployment of blockchain-based applications.
-• Work with blockchain technologies like Ethereum, Solana, or Binance Smart Chain.
-• Help design and implement smart contracts and ensure their security.
-• Collaborate with front-end and back-end developers to integrate blockchain solutions.
-• Troubleshoot and debug blockchain-related issues to maintain system integrity.
-• Conduct research on emerging blockchain trends and propose potential implementations.
+The person in this role would be required to study data structures for storing the MoveVM-based blockchain's current and archival state on the database. So the objective is to study data structures and the underlying storage layer, experimenting and benchmarking existing implementations such as Ethereum Merkle trees, Consensys bonsai trees, the Erigon approach, replacing Merkle trees with Verkle trees, other data structure-level innovations, and faster and more efficient access from the storage layer. Essentially, these tasks involve understanding the existing codebase, testing the existing codebase via mocks and drivers, integrating and testing the best-performing data structure and database with Supra Codebase, and even refactoring parts of the code when necessary.
 
-Qualifications:
-• Currently pursuing or recently graduated with a degree in Computer Science, Blockchain Technology, or a related field.
-• Basic knowledge of blockchain fundamentals and protocols.
-• Familiarity with one or more blockchain platforms (e.g., Ethereum, Solana) and programming languages like Solidity or Rust.
-• Understanding of cryptographic principles and data structures commonly used in blockchain.
-• Basic experience with smart contract development and deployment.
-• Strong analytical and problem-solving skills.
-• Eagerness to learn and adapt to new blockchain technologies.
+Are you the right person for this role?
 
-What We Offer:
-• Hands-on experience in blockchain development and smart contract programming.
-• Exposure to the venture capital industry and blockchain ecosystems.
-• Mentorship from experienced professionals in blockchain and decentralized applications.
-• A flexible, dynamic, and supportive work environment.
-• Duration: This is a 3-month paid internship position.
+The ideal candidate for us has:
 
-How to Apply:
+Essential:
+• Very good command over Rust programming.
+• Knowledge and experience with Rust testing tools and testing methodologies.
+• Very good with debugging.
 
-Interested candidates should submit their resume and a cover letter detailing their interest in blockchain development, along with any relevant project or code samples.
+Desirable:
+• Async programming/ tokio runtime in Rust
+• Familiarity with Key Store DB technologies like RocksDB
+• Knowledge of Ethereum and other popular blockchains
+• Familiarity with data structures amenable for parallel execution
 
-- **Apply here:** [Apply here](https://in.linkedin.com/jobs/view/blockchain-developer-intern-at-invest-web3-forum-4067155787?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
+Duration: >= 6 months based on mutual agreement
+
+What's In It For You
+
+Joining Supra means joining a fast-growing startup with a diverse and dynamic team. Every role is impactful, allowing you to engage in meaningful work that contributes to our success.
+
+You will enjoy the flexibility of a fully remote environment with adaptable working hours, enabling you to work from anywhere globally.
+• Competitive Compensation: We offer competitive compensation packages aligned with market standards.
+• Work-Life Balance: Eligible team members have access to flexible paid time off, sick leave, and other time-off options, adjusted in line with local regulations.
+• National Holidays: We recognize national holidays specific to each team member's country and provide paid leave in accordance with local guidelines.
+• Health Benefits: Comprehensive health coverage options, including medical, dental, and vision benefits, are available to full-time employees where applicable.
+
+Getting Started with Supra
+
+We believe in giving you the space to settle in. Your first month is about orientation and learning:
+• Engage with your team to understand our business, vision, mission, and strategic goals.
+• Enhance your skills to navigate the evolving DeFi landscape.
+• Absorb our core values and establish connections with your colleagues through one-on-one meetings.
+• Familiarize yourself with the tools and processes vital to our operations.
+• Analyze our product offerings and contribute to discussions that shape our future.
+
+We're here to support your integration and ensure you have the resources you need!
+
+Looking Ahead
+
+Regular check-ins with your manager will help align your priorities with our team and company goals, setting you up for success. At Supra, you're not just joining a company but embarking on a journey to enhance blockchain technology with a team of exceptional individuals.
+
+- **Apply here:** [Apply here](https://in.linkedin.com/jobs/view/research-internship-blockchain-storage-at-supra-4068293220?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
 
 ---
 
@@ -164,5 +180,5 @@ If we decide to work together, we believe you would be a key team member who hel
 ---
 
 
-Updated on: [11/11/2024]
+Updated on: [12/11/2024]
 <!-- #jobEnd -->
