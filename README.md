@@ -162,6 +162,73 @@ Requirements:
 
 ## Job 4
 
+- **Job Title:** Backend Developer Intern
+- **Company:** Rejolut
+- **Location:** Mumbai, MH, IN
+- **Job Description:** Rejolut is among the fastest-growing and award winning Tech companies working on leading technologies namely Blockchain, Machine Learning & Artificial Intelligence, Complex mobile & Web Apps, IoT, etc.Rejolut is a venture-backed company with clients in over several countries namely Malaysia Airlines,gba global,my-earth,biomes, Dlg-hub,etc.
+
+We are planning to expand our team to explore new opportunities and looking for creative, enthusiastic, and passionate individuals to join our team.
+
+Job Description
+• Engage in Node.js back-end development with MongoDB
+• Work on Backend programming
+• Work on databases
+• Coordinate with front end teams for overall project overview
+• Create User stories and UML, documentation of the business goals
+
+Requirements
+• Must have knowledge of Node.Js, HTML, CSS
+• Knowledge of git and AWS
+• Proficient in Data Structures and Algorithms
+• Good in Object oriented design
+• Ability to work independently and manage the entire backend of all platforms associated with Rejolut
+• Exemplary tasks – Explore something new every day!
+• Responsibility – Bring in your own ideas and get supported in executing them.
+• Fun – Experience a family culture & celebrate with the founders & team.
+• Team – Be a part of a high-performance & cultural diverse team
+
+Specifications:
+• Freshers can apply
+• Students in their last semester or passed out in 2020 can also apply
+
+Details:
+• Working days: Monday to Friday
+• Timings: 11:00 am to 7:00 pm
+• Duration of internship: 6 months/PPO(Performance Basis)
+
+Job Types: Full-time, Internship
+Stipend: INR 10,000 -15000 / per month
+
+Please apply only if -
+• You are available for the above said duration.
+• You prefer to work in a fast paced environment with growth & learning opportunities
+• If you have not applied for an internship before with us.
+• have relevant skills and interests
+
+About us:
+Rejolut - As a Career Differentiator
+- We are a young and dynamic team who are obsessed with solving futuristic and evolutionary business problems at scale with the next generation technology like blockchain, crypto and machine learning. Focuses on empowering people across the globe to be technically efficient, making advancements in technology and providing new capabilities that were previously thought impossible.
+- We provide exposure to higher learning opportunities so that you can work on complex and cutting edge technology like React, React Native, Flutter, NodeJS, Python, Go, Svelte, WebAssembly. Strong expertise in blockchain and crypto technology and working with the networks like Hedera Hashgraph, Tezos, BlockApps, Algorand, Cardano.
+- We maintain high end transparency with clients and employees as Visibility unlocks Efficiency and trust unlocks Visibility.
+- Company is backed by two technology Co-founders, well-versed with consumer applications and their work has been downloaded millions of times and have led teams in leadership positions in companies like Samsung, Purplle, Loyalty Rewardz.
+
+Benefits :
+• Health Insurance
+• Work from Home
+• Fast growth and more visibility into the company
+• Experience to work on the latest technology
+• Competitive Learning Environment with supportive co-workers
+• Employee friendly HR Policies
+• Paid leaves up to certain limits
+• Liberal working atmosphere
+• Get mentored by the best in the industry
+
+- **Apply here:** [Apply here](https://cutshort.io/job/Backend-Developer-Intern-Mumbai-Rejolut-Technology-Solutions-Pvt-Ltd--STcZ3r00?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
+
+---
+
+## Job 5
+
 - **Job Title:** Full Stack Developer Intern
 - **Company:** Cypherock
 - **Location:** New Delhi, DL, IN
@@ -180,5 +247,5 @@ If we decide to work together, we believe you would be a key team member who hel
 ---
 
 
-Updated on: [13/11/2024]
+Updated on: [14/11/2024]
 <!-- #jobEnd -->
