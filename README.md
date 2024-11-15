@@ -70,6 +70,35 @@ __________________________
 
 ## Job 2
 
+- **Job Title:** Blockchain (Security) Researcher Intern
+- **Company:** Cypherock Wallet
+- **Location:** Gurugram, HR, IN
+- **Job Description:** At Cypherock, We are disrupting the current financial system by increasing the adoption of Blockchain-based digital assets through better key management solutions. We build "Worlds' first products" from India, work at the intersection of Blockchain, Security, Embedded Hardware & Cryptography and have worked with companies like Google, Blockgeeks, Samsung, Lockheed Martin, Apollo Munich, Bank of America amongst others.
+
+As the primary person responsible for researching security systems, you will :
+• work on a system to create a secure MPC based self custody solution that is affordable, decentralised, works for all crypto and uses our secure hardware for best security
+• write the algorithms of the recovery system we are building for the digital assets.
+• design cryptographically secure protocols.
+• create and maintain open-source projects
+• get inspired to create breakthrough technologies.
+• get opportunity to publish research papers.
+• work on blockchain and security protocols
+
+Requirements:
+• excel at data structures, algorithms and mathematics
+• experience in reading and implementing cryptography research
+• reverse engineering & pro-googling
+• have prior experience in developing and researching modern cryptography
+• excellent code documentation and communication skills
+• expertise with low-level programming, computer architecture
+• knowledge of ECC, RSA, MPC and Sharing schemes will be preferred and firmware, git, Blockchain & hardware will be a plus.
+
+- **Apply here:** [Apply here](https://wellfound.com/jobs/2804601-blockchain-security-researcher-intern?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
+
+---
+
+## Job 3
+
 - **Job Title:** Research Internship (Blockchain Storage)
 - **Company:** Supra
 - **Location:** N/A, N/A, IN
@@ -128,35 +157,6 @@ Looking Ahead
 Regular check-ins with your manager will help align your priorities with our team and company goals, setting you up for success. At Supra, you're not just joining a company but embarking on a journey to enhance blockchain technology with a team of exceptional individuals.
 
 - **Apply here:** [Apply here](https://in.linkedin.com/jobs/view/research-internship-blockchain-storage-at-supra-4068293220?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
-
----
-
-## Job 3
-
-- **Job Title:** Blockchain (Security) Researcher Intern
-- **Company:** Cypherock Wallet
-- **Location:** Gurugram, HR, IN
-- **Job Description:** At Cypherock, We are disrupting the current financial system by increasing the adoption of Blockchain-based digital assets through better key management solutions. We build "Worlds' first products" from India, work at the intersection of Blockchain, Security, Embedded Hardware & Cryptography and have worked with companies like Google, Blockgeeks, Samsung, Lockheed Martin, Apollo Munich, Bank of America amongst others.
-
-As the primary person responsible for researching security systems, you will :
-• work on a system to create a secure MPC based self custody solution that is affordable, decentralised, works for all crypto and uses our secure hardware for best security
-• write the algorithms of the recovery system we are building for the digital assets.
-• design cryptographically secure protocols.
-• create and maintain open-source projects
-• get inspired to create breakthrough technologies.
-• get opportunity to publish research papers.
-• work on blockchain and security protocols
-
-Requirements:
-• excel at data structures, algorithms and mathematics
-• experience in reading and implementing cryptography research
-• reverse engineering & pro-googling
-• have prior experience in developing and researching modern cryptography
-• excellent code documentation and communication skills
-• expertise with low-level programming, computer architecture
-• knowledge of ECC, RSA, MPC and Sharing schemes will be preferred and firmware, git, Blockchain & hardware will be a plus.
-
-- **Apply here:** [Apply here](https://wellfound.com/jobs/2804601-blockchain-security-researcher-intern?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
 
 ---
 
@@ -247,5 +247,5 @@ If we decide to work together, we believe you would be a key team member who hel
 ---
 
 
-Updated on: [14/11/2024]
+Updated on: [15/11/2024]
 <!-- #jobEnd -->
