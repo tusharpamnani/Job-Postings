@@ -98,67 +98,6 @@ About Company: Zeeshan Shaikh Training System is a hand-holding organization tha
 
 ## Job 3
 
-- **Job Title:** Intern | Blockchain Developer
-- **Company:** The Blockjet Technologies
-- **Location:** N/A, N/A, N/A
-- **Job Description:** **~ what we are looking for ~**
--understanding with Javascript and Node.js + TypeScript , Express JS
--Familiar with JS tools
--Experience writing code from scratch
--Thrive in a fast-paced working environment, owning deadlines and striving for efficiency
--Familiarity with GIT, Jira, Redmine, or similar project management and issue tracking software
--Working knowledge of design principles, typography, user interfaces, Web standards and usability
--Familiar with interaction design and information architecture methods and principles
-• *~Job requirements~**
-- good in data structure and algorithm
-- willing to learn solidity web3 and blockchain technologies
-- Handson with Node js and express.js
-- working in a young, ambitious, and international team
-- good to have experience building an API from scratch
-- Are interested in security and its best practices
-
-- **Apply here:** [Apply here](https://cutshort.io/job/Intern-Blockchain-Developer-Bengaluru-Bangalore-The-Blockjet-Technologies-YLzgaEUL?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
-
----
-
-## Job 4
-
-- **Job Title:** Blockchain Development
-- **Company:** QuadB Tech
-- **Location:** N/A, N/A, N/A
-- **Job Description:** About the internship
-
-Selected intern's day-to-day responsibilities include:
-
-1. Participate during the product design phases, analyze requirements, and propose innovative and alternative solutions
-2. Collaborate on architecture definitions, always thinking of solutions that are scalable and secure
-3. Develop quality web3 JS/TS code for smart contract interactions
-4. Handle the integration of Web3 scripts on front-end application
-5. Oversee the journey of the project from scratch to production
-6. Create technical documentation
-
-Who can apply
-
-Only those candidates can apply who:
-
-1. are available for the work from home job/internship
-
-2. can start the work from home job/internship between 12th Nov'24 and 17th Dec'24
-
-3. are available for duration of 6 months
-
-4. have relevant skills and interests
-
-QuadB Technologies, India's leading technology and marketing service provider, specializes in blockchain development, app development, financial investment, social media engagement, brand building, and film production. We empower clients to become market leaders through our innovative and diverse solutions.
-
-Our unique problem-solving approach, driven by a talented and collaborative team, inspires creativity and growth for everyone connected to us. We're dedicated to pushing boundaries and fostering a culture of continuous learning. Join QuadB Technologies on this exciting journey as we unlock new horizons, challenge the status quo, and shape a brighter future together.
-
-- **Apply here:** [Apply here](https://boostgrad.com/job/v/blockchain-development/jobrlb120b4477c01348f89d096d13c65c74b4509b1a3?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
-
----
-
-## Job 5
-
 - **Job Title:** Blockchain Development Internship
 - **Company:** Zeeshan Shaikh Training System
 - **Location:** N/A, N/A, N/A
@@ -230,6 +169,85 @@ Zeeshan Shaikh Training System is a hand-holding organization that implements pr
 
 ---
 
+## Job 4
 
-Updated on: [17/11/2024]
+- **Job Title:** Blockchain Development
+- **Company:** QuadB Tech
+- **Location:** N/A, N/A, N/A
+- **Job Description:** About the internship
+
+Selected intern's day-to-day responsibilities include:
+
+1. Participate during the product design phases, analyze requirements, and propose innovative and alternative solutions
+2. Collaborate on architecture definitions, always thinking of solutions that are scalable and secure
+3. Develop quality web3 JS/TS code for smart contract interactions
+4. Handle the integration of Web3 scripts on front-end application
+5. Oversee the journey of the project from scratch to production
+6. Create technical documentation
+
+Who can apply
+
+Only those candidates can apply who:
+
+1. are available for the work from home job/internship
+
+2. can start the work from home job/internship between 12th Nov'24 and 17th Dec'24
+
+3. are available for duration of 6 months
+
+4. have relevant skills and interests
+
+QuadB Technologies, India's leading technology and marketing service provider, specializes in blockchain development, app development, financial investment, social media engagement, brand building, and film production. We empower clients to become market leaders through our innovative and diverse solutions.
+
+Our unique problem-solving approach, driven by a talented and collaborative team, inspires creativity and growth for everyone connected to us. We're dedicated to pushing boundaries and fostering a culture of continuous learning. Join QuadB Technologies on this exciting journey as we unlock new horizons, challenge the status quo, and shape a brighter future together.
+
+- **Apply here:** [Apply here](https://boostgrad.com/job/v/blockchain-development/jobrlb120b4477c01348f89d096d13c65c74b4509b1a3?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
+
+---
+
+## Job 5
+
+- **Job Title:** Creative Intern - Crypto
+- **Company:** Nazer Apps
+- **Location:** N/A, N/A, N/A
+- **Job Description:** Job Description:
+
+We are seeking a highly creative and passionate Creative Intern to contribute to the branding and online presence of an exciting meme coin project. If you love combining art, animation, and humor with internet culture, this is a unique opportunity to showcase your skills while gaining valuable experience in the crypto space.
+
+As a Creative Intern, you will have the freedom to create eye-catching visuals, animations, and videos that will help establish the meme coin’s identity and engage online communities.
+
+This is a fully remote internship for those who are looking to build their portfolio, gain exposure, and leave their creative mark on an innovative project.
+
+Responsibilities:
+• Design engaging and original artwork, memes, and visuals aligned with the project’s branding and vision.
+• Create short, dynamic animations and videos for social media and marketing campaigns.
+• Collaborate with the team to brainstorm and develop creative ideas for campaigns and content.
+• Stay up-to-date with trends in cryptocurrency, memes, and online culture to ensure relevance and appeal.
+• Contribute to establishing a strong, memorable online presence for the meme coin.
+• Qualifications:
+• Proficiency in digital art, animation, and video editing tools (e.g., Adobe Creative Suite, After Effects, Blender, etc.).
+• A strong sense of humor and an understanding of meme culture.
+• Passion for cryptocurrency, blockchain, and internet culture.
+• A creative, proactive approach with the ability to work independently.
+• Portfolio showcasing your art, animations, or creative projects (required).
+• Why Join Us?
+• Gain hands-on experience working on a cutting-edge crypto project.
+• Build your portfolio with creative content that reaches a global audience.
+• Work remotely with flexible hours.
+• Be part of a fun, innovative, and collaborative team.
+
+This internship is unpaid but provides an excellent opportunity to develop your skills, build your portfolio, and make connections in the exciting world of cryptocurrency and blockchain.
+
+Location: Fully Remote (open to candidates worldwide)
+
+How to Apply: Submit your resume and a link to your portfolio or examples of your work.
+
+Note: this internship is possible to be later a full time job position.
+
+- **Apply here:** [Apply here](https://in.linkedin.com/jobs/view/creative-intern-crypto-at-nazer-apps-4078532939?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
+
+---
+
+
+Updated on: [18/11/2024]
 <!-- #jobEnd -->
