@@ -207,47 +207,44 @@ Our unique problem-solving approach, driven by a talented and collaborative team
 
 ## Job 5
 
-- **Job Title:** Creative Intern - Crypto
-- **Company:** Nazer Apps
+- **Job Title:** Digital Marketing Intern (Blockchain and Web3)
+- **Company:** EtherAuthority
 - **Location:** N/A, N/A, N/A
-- **Job Description:** Job Description:
+- **Job Description:** Company Description
 
-We are seeking a highly creative and passionate Creative Intern to contribute to the branding and online presence of an exciting meme coin project. If you love combining art, animation, and humor with internet culture, this is a unique opportunity to showcase your skills while gaining valuable experience in the crypto space.
+A company empowering blockchain businesses to use Blockchain Technology to transform the way they operate. We take pride in serving the marketplace to the best of our ability and strive for 100% customer satisfaction.
 
-As a Creative Intern, you will have the freedom to create eye-catching visuals, animations, and videos that will help establish the meme coin’s identity and engage online communities.
+Role Description
 
-This is a fully remote internship for those who are looking to build their portfolio, gain exposure, and leave their creative mark on an innovative project.
+This is an internship role for a Digital Marketing Intern (Blockchain and Web3) at EtherAuthority. The Digital Marketing Intern will be responsible for assisting in the development and implementation of digital marketing strategies and campaigns for blockchain businesses. The intern will utilize their knowledge of blockchain technology and web3 to create engaging content, manage social media platforms, conduct market research, and analyze marketing data. This is a remote internship position.
 
-Responsibilities:
-• Design engaging and original artwork, memes, and visuals aligned with the project’s branding and vision.
-• Create short, dynamic animations and videos for social media and marketing campaigns.
-• Collaborate with the team to brainstorm and develop creative ideas for campaigns and content.
-• Stay up-to-date with trends in cryptocurrency, memes, and online culture to ensure relevance and appeal.
-• Contribute to establishing a strong, memorable online presence for the meme coin.
-• Qualifications:
-• Proficiency in digital art, animation, and video editing tools (e.g., Adobe Creative Suite, After Effects, Blender, etc.).
-• A strong sense of humor and an understanding of meme culture.
-• Passion for cryptocurrency, blockchain, and internet culture.
-• A creative, proactive approach with the ability to work independently.
-• Portfolio showcasing your art, animations, or creative projects (required).
-• Why Join Us?
-• Gain hands-on experience working on a cutting-edge crypto project.
-• Build your portfolio with creative content that reaches a global audience.
-• Work remotely with flexible hours.
-• Be part of a fun, innovative, and collaborative team.
+Qualifications
+• Strong understanding of digital marketing principles and strategies
+• Familiarity with blockchain technology and web3
+• Experience with social media management and content creation
+• Excellent written and verbal communication skills
+• Ability to work independently and collaboratively in a remote team environment
+• Detail-oriented and highly organized
+• Knowledge of marketing analytics and data interpretation
+• Pursuing a degree in marketing, business, or a related field (or recently graduated)
 
-This internship is unpaid but provides an excellent opportunity to develop your skills, build your portfolio, and make connections in the exciting world of cryptocurrency and blockchain.
+Day to day activities and Responsibilities
+• Engaging brand enhancement activities on social media
+• Engage with influencers posts and participate in the discussion and convey our branding narrative
+• Learn Branding and SEO and other social media skills using online course.
+• Engage in online communications and convey the narrative of the brand.
 
-Location: Fully Remote (open to candidates worldwide)
+Time commitment
+• 1 month (8 hours a day. Monday to Friday)
 
-How to Apply: Submit your resume and a link to your portfolio or examples of your work.
+Remuneration provided
+• ₹ 5000 stipend after completion of the program
+• Performance Bonus (at company's sole discretion)
 
-Note: this internship is possible to be later a full time job position.
-
-- **Apply here:** [Apply here](https://in.linkedin.com/jobs/view/creative-intern-crypto-at-nazer-apps-4078532939?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
+- **Apply here:** [Apply here](https://in.linkedin.com/jobs/view/digital-marketing-intern-blockchain-and-web3-at-etherauthority-4066368942?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
 
 ---
 
 
-Updated on: [18/11/2024]
+Updated on: [19/11/2024]
 <!-- #jobEnd -->
