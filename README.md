@@ -110,25 +110,6 @@ Remuneration provided
 
 ## Job 3
 
-- **Job Title:** Blockchain Researcher Intern
-- **Company:** Cypherock Wallet
-- **Location:** N/A, N/A, N/A
-- **Job Description:** At Cypherock, We are disrupting the current financial system by increasing the adoption of Blockchain-based digital assets through better key management solutions. We build "Worlds' first products" from India, work at the intersection of Blockchain, Security, Embedded Hardware & Cryptography and have worked with companies like Google, Blockgeeks, Samsung, Lockheed Martin, Apollo Munich, Bank of America amongst others.
-
-As the primary person responsible for researching Crypto, we think it will be a great fit if -
-• You can curate content on twitter/reddit to supercharge business development.
-• Spend most of your day on Twitter/Reddit/Product Hunt
-• You love to read about different Crypto protocols, Cryptography and whitepapers.
-• You are a pro-googler.
-
-If we decide to work together, we believe you would be key team member who helps the company achieve hockey stick growth that it needs to succeed.
-
-- **Apply here:** [Apply here](https://wellfound.com/jobs/533359-blockchain-researcher-intern?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
-
----
-
-## Job 4
-
 - **Job Title:** Research Internship (Blockchain Storage)
 - **Company:** Supra
 - **Location:** N/A, N/A, N/A
@@ -190,7 +171,7 @@ Regular check-ins with your manager will help align your priorities with our tea
 
 ---
 
-## Job 5
+## Job 4
 
 - **Job Title:** Full Stack Developer Intern
 - **Company:** Cypherock
@@ -212,5 +193,5 @@ Skills:- Express, DevOps, Blockchain, Wallet (Blockchain), TypeScript, Amazon We
 ---
 
 
-Updated on: [20/11/2024]
+Updated on: [21/11/2024]
 <!-- #jobEnd -->
