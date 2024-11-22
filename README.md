@@ -110,6 +110,27 @@ Remuneration provided
 
 ## Job 3
 
+- **Job Title:** Full Stack Developer Intern
+- **Company:** Cypherock
+- **Location:** N/A, N/A, N/A
+- **Job Description:** At Cypherock, We are disrupting the current financial system by increasing the adoption of Blockchain-based digital assets through better key management solutions. We build "Worlds' first products" from India, work at the intersection of Blockchain, Security, Embedded Hardware and Cryptography, and have worked with companies like Google, Blockgeeks, Samsung, Lockheed Martin, Apollo Munich, Bank of America amongst others.
+
+As the primary person responsible for everything Blockchain in the company, we think it will be a great fit if -
+• You love everything Crypto and are passionate to create the World's safest Crypto wallet.
+• You have MERN stack & DevOps experience on AWS.
+• You have reasonable open-source development experience and have shipped production-ready code.
+• You can commit for at least 6 months and you are ideally in your 4th year of college and willing to join full time after the internship if mutually agreed.
+
+If we decide to work together, we believe you would be a key team member who helps in the mass adoption of Crypto for the first billion users.
+
+Skills:- Express, DevOps, Blockchain, Wallet (Blockchain), TypeScript, Amazon Web Services (AWS), Web3js, GitHub and Bitcoin
+
+- **Apply here:** [Apply here](https://in.linkedin.com/jobs/view/full-stack-developer-intern-at-cypherock-3627620001?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
+
+---
+
+## Job 4
+
 - **Job Title:** Research Internship (Blockchain Storage)
 - **Company:** Supra
 - **Location:** N/A, N/A, N/A
@@ -171,27 +192,6 @@ Regular check-ins with your manager will help align your priorities with our tea
 
 ---
 
-## Job 4
 
-- **Job Title:** Full Stack Developer Intern
-- **Company:** Cypherock
-- **Location:** N/A, N/A, N/A
-- **Job Description:** At Cypherock, We are disrupting the current financial system by increasing the adoption of Blockchain-based digital assets through better key management solutions. We build "Worlds' first products" from India, work at the intersection of Blockchain, Security, Embedded Hardware and Cryptography, and have worked with companies like Google, Blockgeeks, Samsung, Lockheed Martin, Apollo Munich, Bank of America amongst others.
-
-As the primary person responsible for everything Blockchain in the company, we think it will be a great fit if -
-• You love everything Crypto and are passionate to create the World's safest Crypto wallet.
-• You have MERN stack & DevOps experience on AWS.
-• You have reasonable open-source development experience and have shipped production-ready code.
-• You can commit for at least 6 months and you are ideally in your 4th year of college and willing to join full time after the internship if mutually agreed.
-
-If we decide to work together, we believe you would be a key team member who helps in the mass adoption of Crypto for the first billion users.
-
-Skills:- Express, DevOps, Blockchain, Wallet (Blockchain), TypeScript, Amazon Web Services (AWS), Web3js, GitHub and Bitcoin
-
-- **Apply here:** [Apply here](https://in.linkedin.com/jobs/view/full-stack-developer-intern-at-cypherock-3627620001?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
-
----
-
-
-Updated on: [21/11/2024]
+Updated on: [22/11/2024]
 <!-- #jobEnd -->
