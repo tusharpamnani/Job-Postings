@@ -70,66 +70,78 @@ __________________________
 
 ## Job 2
 
-- **Job Title:** Digital Marketing Intern (Blockchain and Web3)
-- **Company:** EtherAuthority
+- **Job Title:** Blockchain Development Internship
+- **Company:** Zeeshan Shaikh Training System
 - **Location:** N/A, N/A, US
-- **Job Description:** Company Description
+- **Job Description:** About the internship:
+Selected intern's day-to-day responsibilities include:
 
-A company empowering blockchain businesses to use Blockchain Technology to transform the way they operate. We take pride in serving the marketplace to the best of our ability and strive for 100% customer satisfaction.
+1. Define the need for blockchain and its functions in the organization
 
-Role Description
+2. Design, develop, and test blockchain systems
 
-This is an internship role for a Digital Marketing Intern (Blockchain and Web3) at EtherAuthority. The Digital Marketing Intern will be responsible for assisting in the development and implementation of digital marketing strategies and campaigns for blockchain businesses. The intern will utilize their knowledge of blockchain technology and web3 to create engaging content, manage social media platforms, conduct market research, and analyze marketing data. This is a remote internship position.
+3. Develop application functionality using various coding languages
 
-Qualifications
-• Strong understanding of digital marketing principles and strategies
-• Familiarity with blockchain technology and web3
-• Experience with social media management and content creation
-• Excellent written and verbal communication skills
-• Ability to work independently and collaboratively in a remote team environment
-• Detail-oriented and highly organized
-• Knowledge of marketing analytics and data interpretation
-• Pursuing a degree in marketing, business, or a related field (or recently graduated)
+4. Write efficient and modular code
 
-Day to day activities and Responsibilities
-• Engaging brand enhancement activities on social media
-• Engage with influencers posts and participate in the discussion and convey our branding narrative
-• Learn Branding and SEO and other social media skills using online course.
-• Engage in online communications and convey the narrative of the brand.
+5. Set security measures against various types of cybercrimes
 
-Time commitment
-• 1 month (8 hours a day. Monday to Friday)
+6. Utilize cryptography techniques to protect against hackers and other cyberattacks
 
-Remuneration provided
-• ₹ 5000 stipend after completion of the program
-• Performance Bonus (at company's sole discretion)
+7. Maintain client and server-side applications
 
-- **Apply here:** [Apply here](https://in.linkedin.com/jobs/view/digital-marketing-intern-blockchain-and-web3-at-etherauthority-4066368942?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
+8. Secure the blockchain network with new technologies
+
+9. Enlighten fellow team members on blockchain technology
+
+10. Prepare documentation on the blockchain development processes
+
+11. Attend meetings, brainstorming sessions, and daily stand-ups to enhance knowledge of new technologies
+
+12. Adhere to all rules and regulations of data protection for digital payments
+
+13. Stay updated with the latest crypto technologies for data protection
+
+14. Work on UI/UX Design
+
+15. Build smart contract development on solidity
+
+Who can apply
+
+Only those candidates can apply who:
+
+1. are available for full time (in-office) internship
+
+2. can start the internship between 31st Oct'24 and 5th Dec'24
+
+3. are available for duration of 3 months
+
+4. are from or open to relocate to Ahmedabad, Udaipur and neighboring cities
+
+5. have relevant skills and interests
+• Women wanting to start/restart their career can also apply.
+• Freshers looking for jobs may also apply
+
+Stipend:
+INR ₹ 10,000 /month
+
+Deadline:
+2024-12-01 23:59:59
+
+Other perks:
+Certificate, Letter of recommendation, Job offer
+
+Skills required:
+Java, HTML, JavaScript, Python, Adobe Photoshop, .NET, SQL, Django, Node.js, MS SQL Server, LARAVEL, C++ Programming, Golang, ReactJS, Kotlin, Blockchain, Ethereum, Hyperledger, Solidity and HTML&CSS
+
+About Company:
+Zeeshan Shaikh Training System is a hand-holding organization that implements processes for efficiency in day-to-day tasks for effective performance. We are helping the workforce become skilled & educated and helping the companies become effective in their performance through continuous learning and development.
+
+- **Apply here:** [Apply here](https://internshala.com/internship/detail/blockchain-development-internship-in-multiple-locations-at-zeeshan-shaikh-training-system1730446344?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
 
 ---
 
 ## Job 3
-
-- **Job Title:** Full Stack Developer Intern
-- **Company:** Cypherock
-- **Location:** N/A, N/A, US
-- **Job Description:** At Cypherock, We are disrupting the current financial system by increasing the adoption of Blockchain-based digital assets through better key management solutions. We build "Worlds' first products" from India, work at the intersection of Blockchain, Security, Embedded Hardware and Cryptography, and have worked with companies like Google, Blockgeeks, Samsung, Lockheed Martin, Apollo Munich, Bank of America amongst others.
-
-As the primary person responsible for everything Blockchain in the company, we think it will be a great fit if -
-• You love everything Crypto and are passionate to create the World's safest Crypto wallet.
-• You have MERN stack & DevOps experience on AWS.
-• You have reasonable open-source development experience and have shipped production-ready code.
-• You can commit for at least 6 months and you are ideally in your 4th year of college and willing to join full time after the internship if mutually agreed.
-
-If we decide to work together, we believe you would be a key team member who helps in the mass adoption of Crypto for the first billion users.
-
-Skills:- Express, DevOps, Blockchain, Wallet (Blockchain), TypeScript, Amazon Web Services (AWS), Web3js, GitHub and Bitcoin
-
-- **Apply here:** [Apply here](https://in.linkedin.com/jobs/view/full-stack-developer-intern-at-cypherock-3627620001?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
-
----
-
-## Job 4
 
 - **Job Title:** Research Internship (Blockchain Storage)
 - **Company:** Supra
@@ -192,6 +204,27 @@ Regular check-ins with your manager will help align your priorities with our tea
 
 ---
 
+## Job 4
+
+- **Job Title:** Full Stack Developer Intern
+- **Company:** Cypherock
+- **Location:** N/A, N/A, US
+- **Job Description:** At Cypherock, We are disrupting the current financial system by increasing the adoption of Blockchain-based digital assets through better key management solutions. We build "Worlds' first products" from India, work at the intersection of Blockchain, Security, Embedded Hardware and Cryptography, and have worked with companies like Google, Blockgeeks, Samsung, Lockheed Martin, Apollo Munich, Bank of America amongst others.
+
+As the primary person responsible for everything Blockchain in the company, we think it will be a great fit if -
+• You love everything Crypto and are passionate to create the World's safest Crypto wallet.
+• You have MERN stack & DevOps experience on AWS.
+• You have reasonable open-source development experience and have shipped production-ready code.
+• You can commit for at least 6 months and you are ideally in your 4th year of college and willing to join full time after the internship if mutually agreed.
+
+If we decide to work together, we believe you would be a key team member who helps in the mass adoption of Crypto for the first billion users.
+
+Skills:- Express, DevOps, Blockchain, Wallet (Blockchain), TypeScript, Amazon Web Services (AWS), Web3js, GitHub and Bitcoin
+
+- **Apply here:** [Apply here](https://in.linkedin.com/jobs/view/full-stack-developer-intern-at-cypherock-3627620001?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
+
+---
+
 ## Job 5
 
 - **Job Title:** Full Stack Developer Intern
@@ -212,5 +245,5 @@ If we decide to work together, we believe you would be a key team member who hel
 ---
 
 
-Updated on: [23/11/2024]
+Updated on: [24/11/2024]
 <!-- #jobEnd -->
