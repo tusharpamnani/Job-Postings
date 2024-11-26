@@ -168,68 +168,64 @@ Zeeshan Shaikh Training System is a hand-holding organization that implements pr
 
 ## Job 4
 
-- **Job Title:** Backend Developer Intern
-- **Company:** Rejolut
+- **Job Title:** Research Internship (Blockchain Storage)
+- **Company:** Supra
 - **Location:** N/A, N/A, US
-- **Job Description:** Rejolut is among the fastest-growing and award winning Tech companies working on leading technologies namely Blockchain, Machine Learning & Artificial Intelligence, Complex mobile & Web Apps, IoT, etc.Rejolut is a venture-backed company with clients in over several countries namely Malaysia Airlines,gba global,my-earth,biomes, Dlg-hub,etc.
+- **Job Description:** Who We Are
 
-We are planning to expand our team to explore new opportunities and looking for creative, enthusiastic, and passionate individuals to join our team.
+Supra is pioneering the future of information services in global markets. As an exciting, ambitious, and well-funded startup with unique technical capabilities, we aim to be a future leader in decentralized data. Our team includes professionals, academics, and advisors with experience from leading institutions such as Purdue University, University of Cambridge, University of Pennsylvania, Columbia University, and University of Oxford. Additionally, our industry experience includes prestigious companies like JPMorgan Chase & Co., Qualcomm, ConsenSys, and Binance. Based in Switzerland with a remote-first policy, our globally distributed team spans over 35 countries. We are dedicated to solving the Oracle Dilemma through innovative solutions in consensus mechanisms, real-time data services, decentralized finance (DeFi), and Layer 1 (L1) technologies.
 
-Job Description
-• Engage in Node.js back-end development with MongoDB
-• Work on Backend programming
-• Work on databases
-• Coordinate with front end teams for overall project overview
-• Create User stories and UML, documentation of the business goals
+Trust, kindness, honesty, and a commitment to ethical, decentralized technologies are the cornerstones of our culture.
 
-Requirements
-• Must have knowledge of Node.Js, HTML, CSS
-• Knowledge of git and AWS
-• Proficient in Data Structures and Algorithms
-• Good in Object oriented design
-• Ability to work independently and manage the entire backend of all platforms associated with Rejolut
-• Exemplary tasks – Explore something new every day!
-• Responsibility – Bring in your own ideas and get supported in executing them.
-• Fun – Experience a family culture & celebrate with the founders & team.
-• Team – Be a part of a high-performance & cultural diverse team
+What we're looking for
 
-Specifications:
-• Freshers can apply
-• Students in their last semester or passed out in 2020 can also apply
+Blockchains are an excellent solution for storing data; however, the main limitation is performance when storing and querying the blockchain state in persistent storage (database). The blockchain node stores the data (state) in specific data structures in the database. The most commonly used databases by popular blockchains are RocksDB, LevelDB, LMDB, or the flavor of these DBs. The most commonly used data structures to store states are Ethereum Merkle trees, Consensys Bonsai trees, Erigon approach, Verkle trees, Avax Firewood, etc.
 
-Details:
-• Working days: Monday to Friday
-• Timings: 11:00 am to 7:00 pm
-• Duration of internship: 6 months/PPO(Performance Basis)
+The person in this role would be required to study data structures for storing the MoveVM-based blockchain's current and archival state on the database. So the objective is to study data structures and the underlying storage layer, experimenting and benchmarking existing implementations such as Ethereum Merkle trees, Consensys bonsai trees, the Erigon approach, replacing Merkle trees with Verkle trees, other data structure-level innovations, and faster and more efficient access from the storage layer. Essentially, these tasks involve understanding the existing codebase, testing the existing codebase via mocks and drivers, integrating and testing the best-performing data structure and database with Supra Codebase, and even refactoring parts of the code when necessary.
 
-Job Types: Full-time, Internship
-Stipend: INR 10,000 -15000 / per month
+Are you the right person for this role
 
-Please apply only if -
-• You are available for the above said duration.
-• You prefer to work in a fast paced environment with growth & learning opportunities
-• If you have not applied for an internship before with us.
-• have relevant skills and interests
+The ideal candidate for us has:
 
-About us:
-Rejolut - As a Career Differentiator
-- We are a young and dynamic team who are obsessed with solving futuristic and evolutionary business problems at scale with the next generation technology like blockchain, crypto and machine learning. Focuses on empowering people across the globe to be technically efficient, making advancements in technology and providing new capabilities that were previously thought impossible.
-- We provide exposure to higher learning opportunities so that you can work on complex and cutting edge technology like React, React Native, Flutter, NodeJS, Python, Go, Svelte, WebAssembly. Strong expertise in blockchain and crypto technology and working with the networks like Hedera Hashgraph, Tezos, BlockApps, Algorand, Cardano.
-- We maintain high end transparency with clients and employees as Visibility unlocks Efficiency and trust unlocks Visibility.
-- Company is backed by two technology Co-founders, well-versed with consumer applications and their work has been downloaded millions of times and have led teams in leadership positions in companies like Samsung, Purplle, Loyalty Rewardz.
+Essential:
+Very good command over Rust programming.
+Knowledge and experience with Rust testing tools and testing methodologies.
+Very good with debugging.
 
-Benefits :
-• Health Insurance
-• Work from Home
-• Fast growth and more visibility into the company
-• Experience to work on the latest technology
-• Competitive Learning Environment with supportive co-workers
-• Employee friendly HR Policies
-• Paid leaves up to certain limits
-• Liberal working atmosphere
-• Get mentored by the best in the industry
+Desirable:
+Async programming/ tokio runtime in Rust
+Familiarity with Key Store DB technologies like RocksDB
+Knowledge of Ethereum and other popular blockchains
+Familiarity with data structures amenable for parallel execution
 
-- **Apply here:** [Apply here](https://cutshort.io/job/Backend-Developer-Intern-Mumbai-Rejolut-Technology-Solutions-Pvt-Ltd--STcZ3r00?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
+Duration: >= 6 months based on mutual agreement
+
+What's In It For You
+
+Joining Supra means joining a fast-growing startup with a diverse and dynamic team. Every role is impactful, allowing you to engage in meaningful work that contributes to our success.
+
+You will enjoy the flexibility of a fully remote environment with adaptable working hours, enabling you to work from anywhere globally.
+Competitive Compensation: We offer competitive compensation packages aligned with market standards.
+Work-Life Balance: Eligible team members have access to flexible paid time off, sick leave, and other time-off options, adjusted in line with local regulations.
+National Holidays: We recognize national holidays specific to each team member's country and provide paid leave in accordance with local guidelines.
+Health Benefits: Comprehensive health coverage options, including medical, dental, and vision benefits, are available to full-time employees where applicable.
+
+Getting Started with Supra
+
+We believe in giving you the space to settle in. Your first month is about orientation and learning:
+Engage with your team to understand our business, vision, mission, and strategic goals.
+Enhance your skills to navigate the evolving DeFi landscape.
+Absorb our core values and establish connections with your colleagues through one-on-one meetings.
+Familiarize yourself with the tools and processes vital to our operations.
+Analyze our product offerings and contribute to discussions that shape our future.
+
+We're here to support your integration and ensure you have the resources you need!
+
+Looking Ahead
+
+Regular check-ins with your manager will help align your priorities with our team and company goals, setting you up for success. At Supra, you're not just joining a company but embarking on a journey to enhance blockchain technology with a team of exceptional individuals.,
+
+- **Apply here:** [Apply here](https://www.shine.com/jobs/research-internship-blockchain-storage/supra/16131179?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
 
 ---
 
@@ -255,5 +251,5 @@ Skills:- Express, DevOps, Blockchain, Wallet (Blockchain), TypeScript, Amazon We
 ---
 
 
-Updated on: [25/11/2024]
+Updated on: [26/11/2024]
 <!-- #jobEnd -->
