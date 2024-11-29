@@ -194,5 +194,5 @@ Note : If you're a recent graduate, we offer comprehensive training to help you 
 ---
 
 
-Updated on: [28/11/2024]
+Updated on: [29/11/2024]
 <!-- #jobEnd -->
