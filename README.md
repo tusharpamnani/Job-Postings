@@ -70,34 +70,6 @@ __________________________
 
 ## Job 2
 
-- **Job Title:** Blockchain Development Internship in Udaipur, Ahmedabad
-- **Company:** Zeeshan Shaikh Training System
-- **Location:** N/A, N/A, US
-- **Job Description:** Selected Intern's Day-to-day Responsibilities Include
-• Define the need for blockchain and its functions in the organization
-• Design, develop, and test blockchain systems
-• Develop application functionality using various coding languages
-• Write efficient and modular code
-• Set security measures against various types of cybercrimes
-• Utilize cryptography techniques to protect against hackers and other cyberattacks
-• Maintain client and server-side applications
-• Secure the blockchain network with new technologies
-• Enlighten fellow team members on blockchain technology
-• Prepare documentation on the blockchain development processes
-• Attend meetings, brainstorming sessions, and daily stand-ups to enhance knowledge of new technologies
-• Adhere to all rules and regulations of data protection for digital payments
-• Stay updated with the latest crypto technologies for data protection
-• Work on UI/UX Design
-• Build smart contract development on solidity
-
-About Company: Zeeshan Shaikh Training System is a hand-holding organization that implements processes for efficiency in day-to-day tasks for effective performance. We are helping the workforce become skilled & educated and helping the companies become effective in their performance through continuous learning and development.
-
-- **Apply here:** [Apply here](https://in.linkedin.com/jobs/view/blockchain-development-internship-in-udaipur-ahmedabad-at-zeeshan-shaikh-training-system-4066895022?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
-
----
-
-## Job 3
-
 - **Job Title:** Intern | Blockchain Developer
 - **Company:** The Blockjet Technologies
 - **Location:** Bengaluru, Karnataka, IN
@@ -118,6 +90,33 @@ About Company: Zeeshan Shaikh Training System is a hand-holding organization tha
 - Are interested in security and its best practices
 
 - **Apply here:** [Apply here](https://cutshort.io/job/Intern-Blockchain-Developer-Bengaluru-Bangalore-The-Blockjet-Technologies-YLzgaEUL?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
+
+---
+
+## Job 3
+
+- **Job Title:** Blockchain Development Internship in Udaipur, Ahmedabad
+- **Company:** Zeeshan Shaikh Training System
+- **Location:** N/A, N/A, US
+- **Job Description:** Selected Intern's Day-to-day Responsibilities Include
+Define the need for blockchain and its functions in the organization
+Design, develop, and test blockchain systems
+Develop application functionality using various coding languages
+Write efficient and modular code
+Set security measures against various types of cybercrimes
+Utilize cryptography techniques to protect against hackers and other cyberattacks
+Maintain client and server-side applications
+Secure the blockchain network with new technologies
+Enlighten fellow team members on blockchain technology
+Prepare documentation on the blockchain development processes
+Attend meetings, brainstorming sessions, and daily stand-ups to enhance knowledge of new technologies
+Stay updated with the latest crypto technologies for data protection
+Work on UI/UX Design
+Build smart contract development on solidity
+
+About Company: Zeeshan Shaikh Training System is a hand-holding organization that implements processes for efficiency in day-to-day tasks for effective performance. We are helping the workforce become skilled & educated and helping the companies become effective in their performance through continuous learning and development.,
+
+- **Apply here:** [Apply here](https://www.shine.com/jobs/blockchain-development-internship-in-udaipur-ahmedabad/zeeshan-shaikh-training-system/16184508?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
 
 ---
 
@@ -210,5 +209,5 @@ Regular check-ins with your manager will help align your priorities with our tea
 ---
 
 
-Updated on: [3/12/2024]
+Updated on: [4/12/2024]
 <!-- #jobEnd -->
