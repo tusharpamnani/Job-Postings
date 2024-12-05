@@ -72,7 +72,7 @@ __________________________
 
 - **Job Title:** Intern | Blockchain Developer
 - **Company:** The Blockjet Technologies
-- **Location:** Bengaluru, Karnataka, IN
+- **Location:** N/A, N/A, US
 - **Job Description:** **~ what we are looking for ~**
 -understanding with Javascript and Node.js + TypeScript , Express JS
 -Familiar with JS tools
@@ -94,6 +94,31 @@ __________________________
 ---
 
 ## Job 3
+
+- **Job Title:** Full-stack Blockchain Developer for Fresher/Intern
+- **Company:** iGuru Learning Solutions
+- **Location:** N/A, N/A, US
+- **Job Description:** Role Description
+
+This is a full-time on-site role as a Full-stack Blockchain Developer at iGuru Learning Solutions in Pune. The role involves day-to-day tasks related to building and maintaining blockchain applications and infrastructure.
+
+Qualifications
+Proficiency in blockchain technologies
+Experience in developing decentralized applications (dApps) and smart contracts
+Knowledge of front-end technologies like HTML, CSS, and JavaScript for interface development
+Familiarity with back-end development using languages such as Node.js, Python, or Java
+Understanding of cryptography and cybersecurity principles in blockchain
+Strong problem-solving skills and ability to work in a team environment
+Bachelor's degree in Computer Science, Engineering, or related field
+Previous experience in blockchain projects or certifications is a plus
+
+Note : If you're a recent graduate, we offer comprehensive training to help you develop the skills needed to excel in full-stack and blockchain real-world projects.,
+
+- **Apply here:** [Apply here](https://www.shine.com/jobs/full-stack-blockchain-developer-for-fresher-intern/iguru-learning-solutions/15894464?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
+
+---
+
+## Job 4
 
 - **Job Title:** Blockchain Development Internship in Udaipur, Ahmedabad
 - **Company:** Zeeshan Shaikh Training System
@@ -117,31 +142,6 @@ Build smart contract development on solidity
 About Company: Zeeshan Shaikh Training System is a hand-holding organization that implements processes for efficiency in day-to-day tasks for effective performance. We are helping the workforce become skilled & educated and helping the companies become effective in their performance through continuous learning and development.,
 
 - **Apply here:** [Apply here](https://www.shine.com/jobs/blockchain-development-internship-in-udaipur-ahmedabad/zeeshan-shaikh-training-system/16184508?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
-
----
-
-## Job 4
-
-- **Job Title:** Full-stack Blockchain Developer for Fresher/Intern
-- **Company:** iGuru Learning Solutions
-- **Location:** N/A, N/A, US
-- **Job Description:** Role Description
-
-This is a full-time on-site role as a Full-stack Blockchain Developer at iGuru Learning Solutions in Pune. The role involves day-to-day tasks related to building and maintaining blockchain applications and infrastructure.
-
-Qualifications
-Proficiency in blockchain technologies
-Experience in developing decentralized applications (dApps) and smart contracts
-Knowledge of front-end technologies like HTML, CSS, and JavaScript for interface development
-Familiarity with back-end development using languages such as Node.js, Python, or Java
-Understanding of cryptography and cybersecurity principles in blockchain
-Strong problem-solving skills and ability to work in a team environment
-Bachelor's degree in Computer Science, Engineering, or related field
-Previous experience in blockchain projects or certifications is a plus
-
-Note : If you're a recent graduate, we offer comprehensive training to help you develop the skills needed to excel in full-stack and blockchain real-world projects.,
-
-- **Apply here:** [Apply here](https://www.shine.com/jobs/full-stack-blockchain-developer-for-fresher-intern/iguru-learning-solutions/15894464?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
 
 ---
 
@@ -209,5 +209,5 @@ Regular check-ins with your manager will help align your priorities with our tea
 ---
 
 
-Updated on: [4/12/2024]
+Updated on: [5/12/2024]
 <!-- #jobEnd -->
