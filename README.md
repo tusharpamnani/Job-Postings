@@ -70,9 +70,69 @@ __________________________
 
 ## Job 2
 
+- **Job Title:** Blockchain Developer Intern
+- **Company:** Tarality Ecosystems Private Limited
+- **Location:** N/A, N/A, US
+- **Job Description:** Position Title: Blockchain Development Intern
+Location: Noida
+Duration: 6 months
+Stipend: 8-10k
+Reporting to: Blockchain Development Lead
+
+Eligibility Criteria: 60% throughout the academic career ( No Backlog )
+
+About Us:
+
+At Tarality Ecosystem, we are pioneers in developing innovative blockchain solutions. We are looking for passionate graduates to join our team as Blockchain Development Interns during our campus drive. If you are eager to work with cutting-edge technologies and be part of the blockchain revolution, this is the opportunity for you!
+
+Key Responsibilities:
+• Assist in developing and deploying blockchain applications.
+• Support the design and architecture of decentralized applications.
+• Work with smart contracts and blockchain protocols.
+• Conduct research and stay updated on blockchain trends and technologies.
+• Collaborate with the development team to troubleshoot and optimize blockchain systems.
+
+Skills & Qualifications:
+• Currently pursuing or recently graduated with a degree in Computer Science, Engineering, or related fields.
+• Basic knowledge of blockchain concepts, cryptocurrency, and smart contracts.
+• Familiarity with programming languages.
+• Problem-solving mindset with an ability to work independently.
+• Strong analytical skills and attention to detail.
+
+Job Types: Full-time, Permanent, Internship
+
+Pay: ₹8,000.00 - ₹10,000.00 per month
+
+Location Type:
+• In-person
+
+Schedule:
+• Day shift
+• Morning shift
+• Weekend availability
+
+Education:
+• Bachelor's (Preferred)
+
+Experience:
+• total work: 1 year (Required)
+• software development: 1 year (Required)
+• HTML5: 1 year (Preferred)
+
+Work Location: In person
+
+Speak with the employer
++91 9870140590
+
+- **Apply here:** [Apply here](https://www.glassdoor.co.in/job-listing/blockchain-developer-intern-tarality-ecosystems-private-limited-JV_KO0,27_KE28,63.htm?jl=1009553562789&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
+
+---
+
+## Job 3
+
 - **Job Title:** Intern | Blockchain Developer
 - **Company:** The Blockjet Technologies
-- **Location:** N/A, N/A, US
+- **Location:** Bengaluru, Karnataka, IN
 - **Job Description:** **~ what we are looking for ~**
 -understanding with Javascript and Node.js + TypeScript , Express JS
 -Familiar with JS tools
@@ -93,7 +153,7 @@ __________________________
 
 ---
 
-## Job 3
+## Job 4
 
 - **Job Title:** Full-stack Blockchain Developer for Fresher/Intern
 - **Company:** iGuru Learning Solutions
@@ -118,96 +178,36 @@ Note : If you're a recent graduate, we offer comprehensive training to help you 
 
 ---
 
-## Job 4
-
-- **Job Title:** Blockchain Development Internship in Udaipur, Ahmedabad
-- **Company:** Zeeshan Shaikh Training System
-- **Location:** N/A, N/A, US
-- **Job Description:** Selected Intern's Day-to-day Responsibilities Include
-Define the need for blockchain and its functions in the organization
-Design, develop, and test blockchain systems
-Develop application functionality using various coding languages
-Write efficient and modular code
-Set security measures against various types of cybercrimes
-Utilize cryptography techniques to protect against hackers and other cyberattacks
-Maintain client and server-side applications
-Secure the blockchain network with new technologies
-Enlighten fellow team members on blockchain technology
-Prepare documentation on the blockchain development processes
-Attend meetings, brainstorming sessions, and daily stand-ups to enhance knowledge of new technologies
-Stay updated with the latest crypto technologies for data protection
-Work on UI/UX Design
-Build smart contract development on solidity
-
-About Company: Zeeshan Shaikh Training System is a hand-holding organization that implements processes for efficiency in day-to-day tasks for effective performance. We are helping the workforce become skilled & educated and helping the companies become effective in their performance through continuous learning and development.,
-
-- **Apply here:** [Apply here](https://www.shine.com/jobs/blockchain-development-internship-in-udaipur-ahmedabad/zeeshan-shaikh-training-system/16184508?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
-
----
-
 ## Job 5
 
-- **Job Title:** Research Internship (Blockchain Storage)
-- **Company:** Supra
+- **Job Title:** Apply For Internship
+- **Company:** Tokyotechie
 - **Location:** N/A, N/A, US
-- **Job Description:** Who We Are
+- **Job Description:** Location
+• INDIA - Pune, Mumbai, Bangalore, Chennai, Kolkata & Delhi
+• USA - New York, Los Angeles, Chicago, Houston, Phoenix, Philadelphia, Boston, Dallas, San Jose
+• UAE - Dubai, Abu Dhabi, Sharjah
+• Germany - Berlin, Frankfurt, Munich, Sttugard
+• Singapore
 
-Supra is pioneering the future of information services in global markets. As an exciting, ambitious, and well-funded startup with unique technical capabilities, we aim to be a future leader in decentralized data. Our team includes professionals, academics, and advisors with experience from leading institutions such as Purdue University, University of Cambridge, University of Pennsylvania, Columbia University, and University of Oxford. Additionally, our industry experience includes prestigious companies like JPMorgan Chase & Co., Qualcomm, ConsenSys, and Binance. Based in Switzerland with a remote-first policy, our globally distributed team spans over 35 countries. We are dedicated to solving the Oracle Dilemma through innovative solutions in consensus mechanisms, real-time data services, decentralized finance (DeFi), and Layer 1 (L1) technologies.
+For Colleges or Institute or Individual Candidate
 
-Trust, kindness, honesty, and a commitment to ethical, decentralized technologies are the cornerstones of our culture.
+Key Details Of Our Internship Programe
+• Duration:3-6 months internship program
+• Eligibility: Pursuing Graduattion (Secured Throughout First Class) Good communication with get things done approach
+• Benefits:
+• Internship certificate from Esteemed Private Limited company
+• Job opportunities for star performer on completion of internship
+• Gaining practical experience
+• Networking opportunities
+• TokyoTechie is a leading blockchain development & Audit company, to extend an invitation to collaborate with your esteemed college on an internship program for our product launch. We are keen to offer valuable learning opportunities to students and foster a mutually beneficial partnership between academia and industry. Our internship program aims to provide students with hands-on experience, allowing them to apply their theoretical knowledge in a practical setting. We believe that partnering with College will enable us to identify and nurture talented individuals while contributing to their educational and professional growth.
+• we are committed to providing adequate support and guidance to ensure that interns have enriching experience during their time with us. We believe that collaborating on this internship program will not only benefit the students but also strengthen the ties between our organizations. We are confident that together, we can create a dynamic and engaging learning environment that prepares students for future success in their chosen fields. We would appreciate the opportunity to further discuss this collaboration and address any questions or concerns you may have. Please feel free to contact us and send the candidates resume on our below email id
+• Send Your Resume On - hr@tokyotechie.com or click on Apply Now button and fill the informaiotn such as name, email, contact no., Upload your resume and click on send
 
-What we're looking for
-
-Blockchains are an excellent solution for storing data; however, the main limitation is performance when storing and querying the blockchain state in persistent storage (database). The blockchain node stores the data (state) in specific data structures in the database. The most commonly used databases by popular blockchains are RocksDB, LevelDB, LMDB, or the flavor of these DBs. The most commonly used data structures to store states are Ethereum Merkle trees, Consensys Bonsai trees, Erigon approach, Verkle trees, Avax Firewood, etc.
-
-The person in this role would be required to study data structures for storing the MoveVM-based blockchain's current and archival state on the database. So the objective is to study data structures and the underlying storage layer, experimenting and benchmarking existing implementations such as Ethereum Merkle trees, Consensys bonsai trees, the Erigon approach, replacing Merkle trees with Verkle trees, other data structure-level innovations, and faster and more efficient access from the storage layer. Essentially, these tasks involve understanding the existing codebase, testing the existing codebase via mocks and drivers, integrating and testing the best-performing data structure and database with Supra Codebase, and even refactoring parts of the code when necessary.
-
-Are you the right person for this role
-
-The ideal candidate for us has:
-
-Essential:
-Very good command over Rust programming.
-Knowledge and experience with Rust testing tools and testing methodologies.
-Very good with debugging.
-
-Desirable:
-Async programming/ tokio runtime in Rust
-Familiarity with Key Store DB technologies like RocksDB
-Knowledge of Ethereum and other popular blockchains
-Familiarity with data structures amenable for parallel execution
-
-Duration: >= 6 months based on mutual agreement
-
-What's In It For You
-
-Joining Supra means joining a fast-growing startup with a diverse and dynamic team. Every role is impactful, allowing you to engage in meaningful work that contributes to our success.
-
-You will enjoy the flexibility of a fully remote environment with adaptable working hours, enabling you to work from anywhere globally.
-Competitive Compensation: We offer competitive compensation packages aligned with market standards.
-Work-Life Balance: Eligible team members have access to flexible paid time off, sick leave, and other time-off options, adjusted in line with local regulations.
-National Holidays: We recognize national holidays specific to each team member's country and provide paid leave in accordance with local guidelines.
-Health Benefits: Comprehensive health coverage options, including medical, dental, and vision benefits, are available to full-time employees where applicable.
-
-Getting Started with Supra
-
-We believe in giving you the space to settle in. Your first month is about orientation and learning:
-Engage with your team to understand our business, vision, mission, and strategic goals.
-Enhance your skills to navigate the evolving DeFi landscape.
-Absorb our core values and establish connections with your colleagues through one-on-one meetings.
-Familiarize yourself with the tools and processes vital to our operations.
-Analyze our product offerings and contribute to discussions that shape our future.
-
-We're here to support your integration and ensure you have the resources you need!
-
-Looking Ahead
-
-Regular check-ins with your manager will help align your priorities with our team and company goals, setting you up for success. At Supra, you're not just joining a company but embarking on a journey to enhance blockchain technology with a team of exceptional individuals.,
-
-- **Apply here:** [Apply here](https://www.shine.com/jobs/research-internship-blockchain-storage/supra/16131179?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
+- **Apply here:** [Apply here](https://in.indeed.com/viewjob?jk=d50ab8bebe144585&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
 
 ---
 
 
-Updated on: [5/12/2024]
+Updated on: [6/12/2024]
 <!-- #jobEnd -->
