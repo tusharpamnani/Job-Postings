@@ -209,5 +209,5 @@ Key Details Of Our Internship Programe
 ---
 
 
-Updated on: [6/12/2024]
+Updated on: [7/12/2024]
 <!-- #jobEnd -->
