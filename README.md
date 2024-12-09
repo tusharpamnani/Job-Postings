@@ -132,7 +132,7 @@ Speak with the employer
 
 - **Job Title:** Intern | Blockchain Developer
 - **Company:** The Blockjet Technologies
-- **Location:** N/A, N/A, US
+- **Location:** Bengaluru, Karnataka, IN
 - **Job Description:** **~ what we are looking for ~**
 -understanding with Javascript and Node.js + TypeScript , Express JS
 -Familiar with JS tools
@@ -209,5 +209,5 @@ Key Details Of Our Internship Programe
 ---
 
 
-Updated on: [8/12/2024]
+Updated on: [9/12/2024]
 <!-- #jobEnd -->
