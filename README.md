@@ -180,34 +180,15 @@ Note : If you're a recent graduate, we offer comprehensive training to help you 
 
 ## Job 5
 
-- **Job Title:** Apply For Internship
-- **Company:** Tokyotechie
+- **Job Title:** Block chain
+- **Company:** DR ITM LIMITED
 - **Location:** N/A, N/A, US
-- **Job Description:** Location
-• INDIA - Pune, Mumbai, Bangalore, Chennai, Kolkata & Delhi
-• USA - New York, Los Angeles, Chicago, Houston, Phoenix, Philadelphia, Boston, Dallas, San Jose
-• UAE - Dubai, Abu Dhabi, Sharjah
-• Germany - Berlin, Frankfurt, Munich, Sttugard
-• Singapore
+- **Job Description:** We are going to hire blockchain developers for the government project on the role of DR ITM Limited
 
-For Colleges or Institute or Individual Candidate
-
-Key Details Of Our Internship Programe
-• Duration:3-6 months internship program
-• Eligibility: Pursuing Graduattion (Secured Throughout First Class) Good communication with get things done approach
-• Benefits:
-• Internship certificate from Esteemed Private Limited company
-• Job opportunities for star performer on completion of internship
-• Gaining practical experience
-• Networking opportunities
-• TokyoTechie is a leading blockchain development & Audit company, to extend an invitation to collaborate with your esteemed college on an internship program for our product launch. We are keen to offer valuable learning opportunities to students and foster a mutually beneficial partnership between academia and industry. Our internship program aims to provide students with hands-on experience, allowing them to apply their theoretical knowledge in a practical setting. We believe that partnering with College will enable us to identify and nurture talented individuals while contributing to their educational and professional growth.
-• we are committed to providing adequate support and guidance to ensure that interns have enriching experience during their time with us. We believe that collaborating on this internship program will not only benefit the students but also strengthen the ties between our organizations. We are confident that together, we can create a dynamic and engaging learning environment that prepares students for future success in their chosen fields. We would appreciate the opportunity to further discuss this collaboration and address any questions or concerns you may have. Please feel free to contact us and send the candidates resume on our below email id
-• Send Your Resume On - hr@tokyotechie.com or click on Apply Now button and fill the informaiotn such as name, email, contact no., Upload your resume and click on send
-
-- **Apply here:** [Apply here](https://in.indeed.com/viewjob?jk=d50ab8bebe144585&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
+- **Apply here:** [Apply here](https://cutshort.io/job/Block-chain-Jaipur-DR-ITM-LIMITED-oryMcylk?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
 
 ---
 
 
-Updated on: [9/12/2024]
+Updated on: [10/12/2024]
 <!-- #jobEnd -->
