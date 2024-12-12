@@ -70,35 +70,6 @@ __________________________
 
 ## Job 2
 
-- **Job Title:** Blockchain Intern
-- **Company:** Laika AI
-- **Location:** N/A, N/A, US
-- **Job Description:** Company Description
-
-Laika AI is a leading provider of AI tools and services, dedicated to simplifying tasks and driving innovation in the digital landscape. With a focus on Web3 technologies, Laika AI is at the forefront of decentralized applications, optimizing strategies and enhancing security. Join us on the journey to redefine the boundaries of AI and unlock new opportunities in the digital age.
-
-Stipend - ₹15k/month
-
-Role Description
-
-This is a remote internship role for a Blockchain Analyst at Laika AI. As a Blockchain Analyst, you will be involved in tasks related to blockchain analysis, cryptocurrency research, and financial analysis within the Web3 ecosystem.
-
-Qualifications
-• Blockchain Analysis and Cryptocurrency skills
-• Analytical Skills
-• Finance knowledge
-• Understanding of Blockchain technology
-• Ability to work remotely and independently
-• Strong problem-solving skills
-• Experience with decentralized finance (DeFi) and non-fungible tokens (NFTs) is a plus
-• Bachelor's degree in Finance, Computer Science, or related field
-
-- **Apply here:** [Apply here](https://in.linkedin.com/jobs/view/blockchain-intern-at-laika-ai-4095099735?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
-
----
-
-## Job 3
-
 - **Job Title:** Intern | Blockchain Developer
 - **Company:** The Blockjet Technologies
 - **Location:** Bengaluru, Karnataka, IN
@@ -122,7 +93,7 @@ Qualifications
 
 ---
 
-## Job 4
+## Job 3
 
 - **Job Title:** Research Internship (Blockchain Storage)
 - **Company:** Supra
@@ -185,7 +156,7 @@ Regular check-ins with your manager will help align your priorities with our tea
 
 ---
 
-## Job 5
+## Job 4
 
 - **Job Title:** Apply For Internship
 - **Company:** Tokyotechie
@@ -215,6 +186,27 @@ Key Details Of Our Internship Programe
 
 ---
 
+## Job 5
 
-Updated on: [11/12/2024]
+- **Job Title:** Full Stack Developer Intern
+- **Company:** Cypherock
+- **Location:** Ghaziabad, Uttar Pradesh, IN
+- **Job Description:** At Cypherock, We are disrupting the current financial system by increasing the adoption of Blockchain-based digital assets through better key management solutions. We build "Worlds' first products" from India, work at the intersection of Blockchain, Security, Embedded Hardware and Cryptography, and have worked with companies like Google, Blockgeeks, Samsung, Lockheed Martin, Apollo Munich, Bank of America amongst others.
+
+As the primary person responsible for everything Blockchain in the company, we think it will be a great fit if -
+• You love everything Crypto and are passionate to create the World's safest Crypto wallet.
+• You have MERN stack & DevOps experience on AWS.
+• You have reasonable open-source development experience and have shipped production-ready code.
+• You can commit for at least 6 months and you are ideally in your 4th year of college and willing to join full time after the internship if mutually agreed.
+
+If we decide to work together, we believe you would be a key team member who helps in the mass adoption of Crypto for the first billion users.
+
+Skills:- Express, DevOps, Blockchain, Wallet (Blockchain), TypeScript, Amazon Web Services (AWS), Web3js, GitHub and Bitcoin
+
+- **Apply here:** [Apply here](https://in.linkedin.com/jobs/view/full-stack-developer-intern-at-cypherock-3627620001?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
+
+---
+
+
+Updated on: [12/12/2024]
 <!-- #jobEnd -->
