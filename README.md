@@ -4,6 +4,31 @@
 
 ## Job 1
 
+- **Job Title:** Intern | Blockchain Developer
+- **Company:** The Blockjet Technologies
+- **Location:** Bengaluru, Karnataka, IN
+- **Job Description:** **~ what we are looking for ~**
+-understanding with Javascript and Node.js + TypeScript , Express JS
+-Familiar with JS tools
+-Experience writing code from scratch
+-Thrive in a fast-paced working environment, owning deadlines and striving for efficiency
+-Familiarity with GIT, Jira, Redmine, or similar project management and issue tracking software
+-Working knowledge of design principles, typography, user interfaces, Web standards and usability
+-Familiar with interaction design and information architecture methods and principles
+• *~Job requirements~**
+- good in data structure and algorithm
+- willing to learn solidity web3 and blockchain technologies
+- Handson with Node js and express.js
+- working in a young, ambitious, and international team
+- good to have experience building an API from scratch
+- Are interested in security and its best practices
+
+- **Apply here:** [Apply here](https://cutshort.io/job/Intern-Blockchain-Developer-Bengaluru-Bangalore-The-Blockjet-Technologies-YLzgaEUL?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
+
+---
+
+## Job 2
+
 - **Job Title:** Blockchain Researcher Intern
 - **Company:** Cypherock Wallet
 - **Location:** N/A, N/A, US
@@ -21,7 +46,7 @@ If we decide to work together, we believe you would be key team member who helps
 
 ---
 
-## Job 2
+## Job 3
 
 - **Job Title:** Apply For Internship
 - **Company:** Tokyotechie
@@ -51,11 +76,11 @@ Key Details Of Our Internship Programe
 
 ---
 
-## Job 3
+## Job 4
 
 - **Job Title:** Full Stack Developer Intern
 - **Company:** Cypherock
-- **Location:** N/A, N/A, US
+- **Location:** Ghaziabad, Uttar Pradesh, IN
 - **Job Description:** At Cypherock, We are disrupting the current financial system by increasing the adoption of Blockchain-based digital assets through better key management solutions. We build "Worlds' first products" from India, work at the intersection of Blockchain, Security, Embedded Hardware and Cryptography, and have worked with companies like Google, Blockgeeks, Samsung, Lockheed Martin, Apollo Munich, Bank of America amongst others.
 
 As the primary person responsible for everything Blockchain in the company, we think it will be a great fit if -
@@ -72,7 +97,7 @@ Skills:- Express, DevOps, Blockchain, Wallet (Blockchain), TypeScript, Amazon We
 
 ---
 
-## Job 4
+## Job 5
 
 - **Job Title:** Full Stack Developer Intern
 - **Company:** Cypherock
@@ -92,5 +117,5 @@ If we decide to work together, we believe you would be a key team member who hel
 ---
 
 
-Updated on: [13/12/2024]
+Updated on: [14/12/2024]
 <!-- #jobEnd -->
