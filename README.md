@@ -72,7 +72,7 @@ __________________________
 
 - **Job Title:** Intern | Blockchain Developer
 - **Company:** The Blockjet Technologies
-- **Location:** Bengaluru, Karnataka, IN
+- **Location:** N/A, N/A, US
 - **Job Description:** **~ what we are looking for ~**
 -understanding with Javascript and Node.js + TypeScript , Express JS
 -Familiar with JS tools
@@ -177,34 +177,38 @@ Regular check-ins with your manager will help align your priorities with our tea
 
 ## Job 5
 
-- **Job Title:** Apply For Internship
-- **Company:** Tokyotechie
+- **Job Title:** NodeJS & Solidity (Contract / Internship)
+- **Company:** StreamNFT
 - **Location:** N/A, N/A, US
-- **Job Description:** Location
-• INDIA - Pune, Mumbai, Bangalore, Chennai, Kolkata & Delhi
-• USA - New York, Los Angeles, Chicago, Houston, Phoenix, Philadelphia, Boston, Dallas, San Jose
-• UAE - Dubai, Abu Dhabi, Sharjah
-• Germany - Berlin, Frankfurt, Munich, Sttugard
-• Singapore
+- **Job Description:** Company Description
 
-For Colleges or Institute or Individual Candidate
+StreamNFT is a company building Scalable Infrastructure for the NFT economy, offering innovative protocols like No Collateral P2P rent, Ephemeral NFTs, P2P loans, and a Utility portal. They introduced ERC-7066 for conditional ownership rights transfer on-chain, supporting usecases like Ticketing, Subscriptions, etc. Their protocols include Rent Protocol for interest generation, Loan Protocol for decentralized NFT-backed loans, and Utility Protocol for exclusive rewards to NFT holders.
 
-Key Details Of Our Internship Programe
-• Duration:3-6 months internship program
-• Eligibility: Pursuing Graduattion (Secured Throughout First Class) Good communication with get things done approach
-• Benefits:
-• Internship certificate from Esteemed Private Limited company
-• Job opportunities for star performer on completion of internship
-• Gaining practical experience
-• Networking opportunities
-• TokyoTechie is a leading blockchain development & Audit company, to extend an invitation to collaborate with your esteemed college on an internship program for our product launch. We are keen to offer valuable learning opportunities to students and foster a mutually beneficial partnership between academia and industry. Our internship program aims to provide students with hands-on experience, allowing them to apply their theoretical knowledge in a practical setting. We believe that partnering with College will enable us to identify and nurture talented individuals while contributing to their educational and professional growth.
-• we are committed to providing adequate support and guidance to ensure that interns have enriching experience during their time with us. We believe that collaborating on this internship program will not only benefit the students but also strengthen the ties between our organizations. We are confident that together, we can create a dynamic and engaging learning environment that prepares students for future success in their chosen fields. We would appreciate the opportunity to further discuss this collaboration and address any questions or concerns you may have. Please feel free to contact us and send the candidates resume on our below email id
-• Send Your Resume On - hr@tokyotechie.com or click on Apply Now button and fill the informaiotn such as name, email, contact no., Upload your resume and click on send
+Role Description
 
-- **Apply here:** [Apply here](https://in.indeed.com/viewjob?jk=d50ab8bebe144585&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
+We are looking for a talented Blockchain and Backend Enthusiasts to join our growing team at StreamNFT. The ideal candidate will have a strong background in blockchain development, particularly with Ethereum-based technologies, and be proficient in backend development using Node.js. You will play a crucial role in building and maintaining our decentralized applications, smart contracts, and backend systems that power the StreamNFT platform.
+Design, develop, and deploy smart contracts on the Ethereum blockchain using Solidity, Ethers.js, and Hardhat.
+Utilize Foundry and Hardhat for testing, debugging, and deploying smart contracts.
+Integrate smart contracts with frontend applications through Node.js and Ethers.js.
+Develop and maintain backend services that interact with blockchain networks and off-chain data.
+Collaborate with the frontend development team to ensure seamless integration between backend services and user-facing applications.
+Optimize and secure smart contracts to ensure high performance and reliability.
+Stay updated with the latest blockchain technologies, trends, and best practices to drive innovation within the company.
+Participate in code reviews, technical discussions, and architecture design sessions.
+Work closely with cross-functional teams to define and implement new features and products.
+
+Qualifications
+Proficient in Solidity with a strong understanding of smart contract development and deployment.
+Experience with Ethers.js for interacting with the Ethereum blockchain.
+Familiarity with Hardhat and Foundry for smart contract testing, debugging, and deployment.
+Strong proficiency in Node.js and related frameworks.
+Experience with building and consuming RESTful APIs and/or GraphQL.
+Knowledge of database systems such as MongoDB, PostgreSQL, or similar.,
+
+- **Apply here:** [Apply here](https://www.shine.com/jobs/nodejs-solidity-contract-internship/streamnft/16110301?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
 
 ---
 
 
-Updated on: [15/12/2024]
+Updated on: [16/12/2024]
 <!-- #jobEnd -->
