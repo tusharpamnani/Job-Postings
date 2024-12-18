@@ -158,40 +158,6 @@ Regular check-ins with your manager will help align your priorities with our tea
 
 ## Job 4
 
-- **Job Title:** NodeJS & Solidity (Contract / Internship)
-- **Company:** StreamNFT
-- **Location:** N/A, N/A, US
-- **Job Description:** Company Description
-
-StreamNFT is a company building Scalable Infrastructure for the NFT economy, offering innovative protocols like No Collateral P2P rent, Ephemeral NFTs, P2P loans, and a Utility portal. They introduced ERC-7066 for conditional ownership rights transfer on-chain, supporting usecases like Ticketing, Subscriptions, etc. Their protocols include Rent Protocol for interest generation, Loan Protocol for decentralized NFT-backed loans, and Utility Protocol for exclusive rewards to NFT holders.
-
-Role Description
-
-We are looking for a talented Blockchain and Backend Enthusiasts to join our growing team at StreamNFT. The ideal candidate will have a strong background in blockchain development, particularly with Ethereum-based technologies, and be proficient in backend development using Node.js. You will play a crucial role in building and maintaining our decentralized applications, smart contracts, and backend systems that power the StreamNFT platform.
-Design, develop, and deploy smart contracts on the Ethereum blockchain using Solidity, Ethers.js, and Hardhat.
-Utilize Foundry and Hardhat for testing, debugging, and deploying smart contracts.
-Integrate smart contracts with frontend applications through Node.js and Ethers.js.
-Develop and maintain backend services that interact with blockchain networks and off-chain data.
-Collaborate with the frontend development team to ensure seamless integration between backend services and user-facing applications.
-Optimize and secure smart contracts to ensure high performance and reliability.
-Stay updated with the latest blockchain technologies, trends, and best practices to drive innovation within the company.
-Participate in code reviews, technical discussions, and architecture design sessions.
-Work closely with cross-functional teams to define and implement new features and products.
-
-Qualifications
-Proficient in Solidity with a strong understanding of smart contract development and deployment.
-Experience with Ethers.js for interacting with the Ethereum blockchain.
-Familiarity with Hardhat and Foundry for smart contract testing, debugging, and deployment.
-Strong proficiency in Node.js and related frameworks.
-Experience with building and consuming RESTful APIs and/or GraphQL.
-Knowledge of database systems such as MongoDB, PostgreSQL, or similar.,
-
-- **Apply here:** [Apply here](https://www.shine.com/jobs/nodejs-solidity-contract-internship/streamnft/16110301?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
-
----
-
-## Job 5
-
 - **Job Title:** Apply For Internship
 - **Company:** Tokyotechie
 - **Location:** N/A, N/A, US
@@ -220,6 +186,27 @@ Key Details Of Our Internship Programe
 
 ---
 
+## Job 5
 
-Updated on: [17/12/2024]
+- **Job Title:** Full Stack Developer Intern
+- **Company:** Cypherock
+- **Location:** Ghaziabad, Uttar Pradesh, IN
+- **Job Description:** At Cypherock, We are disrupting the current financial system by increasing the adoption of Blockchain-based digital assets through better key management solutions. We build "Worlds' first products" from India, work at the intersection of Blockchain, Security, Embedded Hardware and Cryptography, and have worked with companies like Google, Blockgeeks, Samsung, Lockheed Martin, Apollo Munich, Bank of America amongst others.
+
+As the primary person responsible for everything Blockchain in the company, we think it will be a great fit if -
+• You love everything Crypto and are passionate to create the World's safest Crypto wallet.
+• You have MERN stack & DevOps experience on AWS.
+• You have reasonable open-source development experience and have shipped production-ready code.
+• You can commit for at least 6 months and you are ideally in your 4th year of college and willing to join full time after the internship if mutually agreed.
+
+If we decide to work together, we believe you would be a key team member who helps in the mass adoption of Crypto for the first billion users.
+
+Skills:- Express, DevOps, Blockchain, Wallet (Blockchain), TypeScript, Amazon Web Services (AWS), Web3js, GitHub and Bitcoin
+
+- **Apply here:** [Apply here](https://in.linkedin.com/jobs/view/full-stack-developer-intern-at-cypherock-3627620001?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
+
+---
+
+
+Updated on: [18/12/2024]
 <!-- #jobEnd -->
