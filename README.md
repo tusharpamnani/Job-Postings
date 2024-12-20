@@ -95,44 +95,64 @@ __________________________
 
 ## Job 3
 
-- **Job Title:** Blockchain  Developer
-- **Company:** Laika AI
+- **Job Title:** Research Internship (Blockchain Storage)
+- **Company:** Supra
 - **Location:** N/A, N/A, US
-- **Job Description:** Company Overview. Laika AI is a leading provider of AI-driven tools and services, pushing the envelope in Web3 technologies. Focused on decentralizing digital services, Laika AI is pioneering new ways to innovate in blockchain and decentralized applications. Our goal is to transform the digital landscape by simplifying complex tasks, optimizing strategies, and improving security. As part of our team, you’ll have the opportunity to contribute to groundbreaking advancements in AI and blockchain technology.
+- **Job Description:** Who We Are
 
-Role Overview
+Supra is pioneering the future of information services in global markets. As an exciting, ambitious, and well-funded startup with unique technical capabilities, we aim to be a future leader in decentralized data. Our team includes professionals, academics, and advisors with experience from leading institutions such as Purdue University, University of Cambridge, University of Pennsylvania, Columbia University, and University of Oxford. Additionally, our industry experience includes prestigious companies like JPMorgan Chase & Co., Qualcomm, ConsenSys, and Binance. Based in Switzerland with a remote-first policy, our globally distributed team spans over 35 countries. We are dedicated to solving the Oracle Dilemma through innovative solutions in consensus mechanisms, real-time data services, decentralized finance (DeFi), and Layer 1 (L1) technologies.
 
-As a Blockchain Intern, your role will primarily involve blockchain analysis, cryptocurrency research, and financial analysis in the Web3 ecosystem. You will gain hands-on experience in the exciting world of decentralized finance (DeFi), blockchain security, and blockchain-driven innovations.
+Trust, kindness, honesty, and a commitment to ethical, decentralized technologies are the cornerstones of our culture.
 
-Responsibilities
-• Analyze blockchain networks, cryptocurrencies, and Web3 technologies to extract valuable insights.
-• Conduct research on the latest blockchain trends, DeFi platforms, NFTs, and cryptocurrency market dynamics.
-• Contribute to the development of strategies that enhance blockchain security and optimize decentralized applications (dApps).
-• Assist in financial modeling and analysis for blockchain-based projects and initiatives.
+What we're looking for
 
-Work closely with team members to propose new ideas and improve the company’s offerings in the blockchain space.
+Blockchains are an excellent solution for storing data; however, the main limitation is performance when storing and querying the blockchain state in persistent storage (database). The blockchain node stores the data (state) in specific data structures in the database. The most commonly used databases by popular blockchains are RocksDB, LevelDB, LMDB, or the flavor of these DBs. The most commonly used data structures to store states are Ethereum Merkle trees, Consensys Bonsai trees, Erigon approach, Verkle trees, Avax Firewood, etc.
 
-Qualifications
-• Understanding of blockchain technology and how it powers decentralized applications.
-• Analytical skills, with a keen interest in cryptocurrency and blockchain finance.
-• Strong problem-solving ability, with a passion for working independently in a remote environment.
-• Ability to quickly learn and apply new concepts in blockchain analysis and Web3 technologies.
+The person in this role would be required to study data structures for storing the MoveVM-based blockchain's current and archival state on the database. So the objective is to study data structures and the underlying storage layer, experimenting and benchmarking existing implementations such as Ethereum Merkle trees, Consensys bonsai trees, the Erigon approach, replacing Merkle trees with Verkle trees, other data structure-level innovations, and faster and more efficient access from the storage layer. Essentially, these tasks involve understanding the existing codebase, testing the existing codebase via mocks and drivers, integrating and testing the best-performing data structure and database with Supra Codebase, and even refactoring parts of the code when necessary.
 
-Preferred Skills
-• Experience with DeFi (Decentralized Finance), NFTs (Non-Fungible Tokens), and smart contracts.
-• Knowledge of cryptocurrency trading, markets, and financial analysis within the blockchain ecosystem.
+Are you the right person for this role
 
-Educational Background
-• Bachelor’s degree (or currently enrolled) in Finance, Computer Science, Engineering, or a related field.
+The ideal candidate for us has:
 
-Benefits
-• Gain in-depth exposure to the rapidly evolving world of Web3 and blockchain technologies.
-• Hands-on experience with DeFi, NFTs, and blockchain applications.
-• Remote work flexibility and the chance to develop professional skills in a fast-growing sector.
+Essential:
+Very good command over Rust programming.
+Knowledge and experience with Rust testing tools and testing methodologies.
+Very good with debugging.
 
-How to Apply. Click on the Easy Apply button to submit your application today. Be part of the next generation of blockchain innovators at Laika AI!
+Desirable:
+Async programming/ tokio runtime in Rust
+Familiarity with Key Store DB technologies like RocksDB
+Knowledge of Ethereum and other popular blockchains
+Familiarity with data structures amenable for parallel execution
 
-- **Apply here:** [Apply here](https://web3universe.today/job/blockchain-developer-101/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
+Duration: >= 6 months based on mutual agreement
+
+What's In It For You
+
+Joining Supra means joining a fast-growing startup with a diverse and dynamic team. Every role is impactful, allowing you to engage in meaningful work that contributes to our success.
+
+You will enjoy the flexibility of a fully remote environment with adaptable working hours, enabling you to work from anywhere globally.
+Competitive Compensation: We offer competitive compensation packages aligned with market standards.
+Work-Life Balance: Eligible team members have access to flexible paid time off, sick leave, and other time-off options, adjusted in line with local regulations.
+National Holidays: We recognize national holidays specific to each team member's country and provide paid leave in accordance with local guidelines.
+Health Benefits: Comprehensive health coverage options, including medical, dental, and vision benefits, are available to full-time employees where applicable.
+
+Getting Started with Supra
+
+We believe in giving you the space to settle in. Your first month is about orientation and learning:
+Engage with your team to understand our business, vision, mission, and strategic goals.
+Enhance your skills to navigate the evolving DeFi landscape.
+Absorb our core values and establish connections with your colleagues through one-on-one meetings.
+Familiarize yourself with the tools and processes vital to our operations.
+Analyze our product offerings and contribute to discussions that shape our future.
+
+We're here to support your integration and ensure you have the resources you need!
+
+Looking Ahead
+
+Regular check-ins with your manager will help align your priorities with our team and company goals, setting you up for success. At Supra, you're not just joining a company but embarking on a journey to enhance blockchain technology with a team of exceptional individuals.,
+
+- **Apply here:** [Apply here](https://www.shine.com/jobs/research-internship-blockchain-storage/supra/16131179?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
 
 ---
 
@@ -168,56 +188,25 @@ Key Details Of Our Internship Programe
 
 ## Job 5
 
-- **Job Title:** Blockchain Development Internship In Ahmedabad Udaipur At Zeeshan Shaikh Training System Job in Zeeshan Shaikh Training System at Udaipurahmedabad
-- **Company:** Zeeshan Shaikh Training System
-- **Location:** N/A, N/A, US
-- **Job Description:** Selected intern's day-to-day responsibilities include:
+- **Job Title:** Full Stack Developer Intern
+- **Company:** Cypherock
+- **Location:** Ghaziabad, Uttar Pradesh, IN
+- **Job Description:** At Cypherock, We are disrupting the current financial system by increasing the adoption of Blockchain-based digital assets through better key management solutions. We build "Worlds' first products" from India, work at the intersection of Blockchain, Security, Embedded Hardware and Cryptography, and have worked with companies like Google, Blockgeeks, Samsung, Lockheed Martin, Apollo Munich, Bank of America amongst others.
 
-1. Define the need for blockchain and its functions in the organization
+As the primary person responsible for everything Blockchain in the company, we think it will be a great fit if -
+• You love everything Crypto and are passionate to create the World's safest Crypto wallet.
+• You have MERN stack & DevOps experience on AWS.
+• You have reasonable open-source development experience and have shipped production-ready code.
+• You can commit for at least 6 months and you are ideally in your 4th year of college and willing to join full time after the internship if mutually agreed.
 
-2. Design, develop, and test blockchain systems
+If we decide to work together, we believe you would be a key team member who helps in the mass adoption of Crypto for the first billion users.
 
-3. Develop application functionality using various coding languages
+Skills:- Express, DevOps, Blockchain, Wallet (Blockchain), TypeScript, Amazon Web Services (AWS), Web3js, GitHub and Bitcoin
 
-4. Write efficient and modular code
-
-5. Set security measures against various types of cybercrimes
-
-6. Utilize cryptography techniques to protect against hackers and other cyberattacks
-
-7. Maintain client and server-side applications
-
-8. Secure the blockchain network with new technologies
-
-9. Enlighten fellow team members on blockchain technology
-
-10. Prepare documentation on the blockchain development processes
-
-11. Attend meetings, brainstorming sessions, and daily stand-ups to enhance knowledge of new technologies
-
-12. Adhere to all rules and regulations of data protection for digital payments
-
-13. Stay updated with the latest crypto technologies for data protection
-
-14. Work on UI/UX Design
-
-15. Build smart contract development on solidity
-
-Candidate Profile
-• are Available For Full Time (in-office) Internship
-• have Relevant Skills And Interests
-• can Start The Internship Between 31st Oct'24 And 5th Dec'24
-• are Available For Duration Of 3 Months
-• have Already Graduated Or Are Currently In Any Year Of Study
-• Are From Udaipur, Ahmedabad
-• females Willing To Start/restart Their Career May Also Apply
-
-Education : Any Graduate / Post Graduate
-
-- **Apply here:** [Apply here](https://www.yuvajobs.com/jobs-vacancy-blockchain-development-internship-in-ahmedabad-udaipur-at-zeeshan-shaikh-training-system-zeeshan-shaikh-training-system-19396441.html?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
+- **Apply here:** [Apply here](https://in.linkedin.com/jobs/view/full-stack-developer-intern-at-cypherock-3627620001?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
 
 ---
 
 
-Updated on: [19/12/2024]
+Updated on: [20/12/2024]
 <!-- #jobEnd -->
