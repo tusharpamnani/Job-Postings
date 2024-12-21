@@ -72,7 +72,7 @@ __________________________
 
 - **Job Title:** Intern | Blockchain Developer
 - **Company:** The Blockjet Technologies
-- **Location:** Bengaluru, Karnataka, IN
+- **Location:** N/A, N/A, US
 - **Job Description:** **~ what we are looking for ~**
 -understanding with Javascript and Node.js + TypeScript , Express JS
 -Familiar with JS tools
@@ -94,6 +94,49 @@ __________________________
 ---
 
 ## Job 3
+
+- **Job Title:** Blockchain  Developer
+- **Company:** Laika AI
+- **Location:** N/A, N/A, US
+- **Job Description:** Company Overview. Laika AI is a leading provider of AI-driven tools and services, pushing the envelope in Web3 technologies. Focused on decentralizing digital services, Laika AI is pioneering new ways to innovate in blockchain and decentralized applications. Our goal is to transform the digital landscape by simplifying complex tasks, optimizing strategies, and improving security. As part of our team, you’ll have the opportunity to contribute to groundbreaking advancements in AI and blockchain technology.
+
+Role Overview
+
+As a Blockchain Intern, your role will primarily involve blockchain analysis, cryptocurrency research, and financial analysis in the Web3 ecosystem. You will gain hands-on experience in the exciting world of decentralized finance (DeFi), blockchain security, and blockchain-driven innovations.
+
+Responsibilities
+• Analyze blockchain networks, cryptocurrencies, and Web3 technologies to extract valuable insights.
+• Conduct research on the latest blockchain trends, DeFi platforms, NFTs, and cryptocurrency market dynamics.
+• Contribute to the development of strategies that enhance blockchain security and optimize decentralized applications (dApps).
+• Assist in financial modeling and analysis for blockchain-based projects and initiatives.
+
+Work closely with team members to propose new ideas and improve the company’s offerings in the blockchain space.
+
+Qualifications
+• Understanding of blockchain technology and how it powers decentralized applications.
+• Analytical skills, with a keen interest in cryptocurrency and blockchain finance.
+• Strong problem-solving ability, with a passion for working independently in a remote environment.
+• Ability to quickly learn and apply new concepts in blockchain analysis and Web3 technologies.
+
+Preferred Skills
+• Experience with DeFi (Decentralized Finance), NFTs (Non-Fungible Tokens), and smart contracts.
+• Knowledge of cryptocurrency trading, markets, and financial analysis within the blockchain ecosystem.
+
+Educational Background
+• Bachelor’s degree (or currently enrolled) in Finance, Computer Science, Engineering, or a related field.
+
+Benefits
+• Gain in-depth exposure to the rapidly evolving world of Web3 and blockchain technologies.
+• Hands-on experience with DeFi, NFTs, and blockchain applications.
+• Remote work flexibility and the chance to develop professional skills in a fast-growing sector.
+
+How to Apply. Click on the Easy Apply button to submit your application today. Be part of the next generation of blockchain innovators at Laika AI!
+
+- **Apply here:** [Apply here](https://web3universe.today/job/blockchain-developer-101/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
+
+---
+
+## Job 4
 
 - **Job Title:** Research Internship (Blockchain Storage)
 - **Company:** Supra
@@ -156,7 +199,7 @@ Regular check-ins with your manager will help align your priorities with our tea
 
 ---
 
-## Job 4
+## Job 5
 
 - **Job Title:** Apply For Internship
 - **Company:** Tokyotechie
@@ -186,27 +229,6 @@ Key Details Of Our Internship Programe
 
 ---
 
-## Job 5
 
-- **Job Title:** Full Stack Developer Intern
-- **Company:** Cypherock
-- **Location:** Ghaziabad, Uttar Pradesh, IN
-- **Job Description:** At Cypherock, We are disrupting the current financial system by increasing the adoption of Blockchain-based digital assets through better key management solutions. We build "Worlds' first products" from India, work at the intersection of Blockchain, Security, Embedded Hardware and Cryptography, and have worked with companies like Google, Blockgeeks, Samsung, Lockheed Martin, Apollo Munich, Bank of America amongst others.
-
-As the primary person responsible for everything Blockchain in the company, we think it will be a great fit if -
-• You love everything Crypto and are passionate to create the World's safest Crypto wallet.
-• You have MERN stack & DevOps experience on AWS.
-• You have reasonable open-source development experience and have shipped production-ready code.
-• You can commit for at least 6 months and you are ideally in your 4th year of college and willing to join full time after the internship if mutually agreed.
-
-If we decide to work together, we believe you would be a key team member who helps in the mass adoption of Crypto for the first billion users.
-
-Skills:- Express, DevOps, Blockchain, Wallet (Blockchain), TypeScript, Amazon Web Services (AWS), Web3js, GitHub and Bitcoin
-
-- **Apply here:** [Apply here](https://in.linkedin.com/jobs/view/full-stack-developer-intern-at-cypherock-3627620001?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
-
----
-
-
-Updated on: [20/12/2024]
+Updated on: [21/12/2024]
 <!-- #jobEnd -->
