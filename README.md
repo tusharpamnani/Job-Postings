@@ -4,6 +4,53 @@
 
 ## Job 1
 
+- **Job Title:** Blockchain Developer Intern
+- **Company:** Hubnex Labs
+- **Location:** N/A, N/A, US
+- **Job Description:** Job Description: Blockchain Developer Intern (Unpaid)
+
+Location: Remote
+
+Type: Internship (6 months, Unpaid)
+
+At Hubnex Labs, we’re at the forefront of technological innovation, and we’re looking for passionate and motivated Blockchain Developer Interns to join our team. This is a great opportunity to dive into the world of blockchain technology, gain hands-on experience, and contribute to real-world projects in a fast-paced startup environment.
+
+Key Responsibilities
+• Blockchain Development: Assist in the development and deployment of blockchain-based applications and smart contracts.
+• Blockchain Research: Support the team in researching emerging blockchain technologies, trends, and protocols.
+• Smart Contract Creation: Work on writing, testing, and deploying smart contracts using languages like Solidity or similar.
+• Integration: Help integrate blockchain solutions into existing systems and platforms.
+• Security Audits: Participate in blockchain security audits to identify vulnerabilities and ensure safe deployment.
+• Collaboration: Work closely with cross-functional teams (e.g., frontend, backend, and product teams) to develop integrated blockchain solutions.
+• Documentation: Assist in maintaining documentation for blockchain projects, including codebase, API docs, and user guides.
+
+What We’re Looking For
+• Interest in Blockchain Technology: A strong passion for blockchain, cryptocurrencies, and decentralized applications (dApps).
+• Programming Skills: Familiarity with languages like JavaScript, Solidity, Python, or Go for blockchain development.
+• Problem-Solving Skills: Ability to think critically and work through complex technical challenges.
+• Willingness to Learn: Eagerness to dive deep into blockchain technologies and stay up-to-date with industry trends.
+• Detail-Oriented: Ability to write clean, efficient, and well-documented code.
+• Team Player: Strong collaboration and communication skills in a remote team environment.
+
+What You’ll Gain
+• Hands-on experience working with blockchain technologies and smart contracts.
+• Opportunity to work on cutting-edge blockchain projects.
+• Mentorship from experienced blockchain developers and engineers.
+• Certificate of completion and a recommendation letter upon successful completion of the internship.
+• Potential to transition into a paid role based on performance.
+
+Duration: 6 months (Unpaid)
+
+If you’re eager to build your career in blockchain development and want to make an impact in a growing startup, apply now!
+
+Note: This is a unpaid internship.Skills: smart contracts,blockchain development,collaboration,communication,go,blockchain,solidity,problem-solving,python,javascript
+
+- **Apply here:** [Apply here](https://in.linkedin.com/jobs/view/blockchain-developer-intern-at-hubnex-labs-4102653074?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
+
+---
+
+## Job 2
+
 - **Job Title:** Blockchain Internship
 - **Company:** Hashstack
 - **Location:** N/A, N/A, US
@@ -68,11 +115,11 @@ __________________________
 
 ---
 
-## Job 2
+## Job 3
 
 - **Job Title:** Intern | Blockchain Developer
 - **Company:** The Blockjet Technologies
-- **Location:** N/A, N/A, US
+- **Location:** Bengaluru, Karnataka, IN
 - **Job Description:** **~ what we are looking for ~**
 -understanding with Javascript and Node.js + TypeScript , Express JS
 -Familiar with JS tools
@@ -93,7 +140,7 @@ __________________________
 
 ---
 
-## Job 3
+## Job 4
 
 - **Job Title:** Blockchain  Developer
 - **Company:** Laika AI
@@ -136,69 +183,6 @@ How to Apply. Click on the Easy Apply button to submit your application today. B
 
 ---
 
-## Job 4
-
-- **Job Title:** Research Internship (Blockchain Storage)
-- **Company:** Supra
-- **Location:** N/A, N/A, US
-- **Job Description:** Who We Are
-
-Supra is pioneering the future of information services in global markets. As an exciting, ambitious, and well-funded startup with unique technical capabilities, we aim to be a future leader in decentralized data. Our team includes professionals, academics, and advisors with experience from leading institutions such as Purdue University, University of Cambridge, University of Pennsylvania, Columbia University, and University of Oxford. Additionally, our industry experience includes prestigious companies like JPMorgan Chase & Co., Qualcomm, ConsenSys, and Binance. Based in Switzerland with a remote-first policy, our globally distributed team spans over 35 countries. We are dedicated to solving the Oracle Dilemma through innovative solutions in consensus mechanisms, real-time data services, decentralized finance (DeFi), and Layer 1 (L1) technologies.
-
-Trust, kindness, honesty, and a commitment to ethical, decentralized technologies are the cornerstones of our culture.
-
-What we're looking for
-
-Blockchains are an excellent solution for storing data; however, the main limitation is performance when storing and querying the blockchain state in persistent storage (database). The blockchain node stores the data (state) in specific data structures in the database. The most commonly used databases by popular blockchains are RocksDB, LevelDB, LMDB, or the flavor of these DBs. The most commonly used data structures to store states are Ethereum Merkle trees, Consensys Bonsai trees, Erigon approach, Verkle trees, Avax Firewood, etc.
-
-The person in this role would be required to study data structures for storing the MoveVM-based blockchain's current and archival state on the database. So the objective is to study data structures and the underlying storage layer, experimenting and benchmarking existing implementations such as Ethereum Merkle trees, Consensys bonsai trees, the Erigon approach, replacing Merkle trees with Verkle trees, other data structure-level innovations, and faster and more efficient access from the storage layer. Essentially, these tasks involve understanding the existing codebase, testing the existing codebase via mocks and drivers, integrating and testing the best-performing data structure and database with Supra Codebase, and even refactoring parts of the code when necessary.
-
-Are you the right person for this role
-
-The ideal candidate for us has:
-
-Essential:
-Very good command over Rust programming.
-Knowledge and experience with Rust testing tools and testing methodologies.
-Very good with debugging.
-
-Desirable:
-Async programming/ tokio runtime in Rust
-Familiarity with Key Store DB technologies like RocksDB
-Knowledge of Ethereum and other popular blockchains
-Familiarity with data structures amenable for parallel execution
-
-Duration: >= 6 months based on mutual agreement
-
-What's In It For You
-
-Joining Supra means joining a fast-growing startup with a diverse and dynamic team. Every role is impactful, allowing you to engage in meaningful work that contributes to our success.
-
-You will enjoy the flexibility of a fully remote environment with adaptable working hours, enabling you to work from anywhere globally.
-Competitive Compensation: We offer competitive compensation packages aligned with market standards.
-Work-Life Balance: Eligible team members have access to flexible paid time off, sick leave, and other time-off options, adjusted in line with local regulations.
-National Holidays: We recognize national holidays specific to each team member's country and provide paid leave in accordance with local guidelines.
-Health Benefits: Comprehensive health coverage options, including medical, dental, and vision benefits, are available to full-time employees where applicable.
-
-Getting Started with Supra
-
-We believe in giving you the space to settle in. Your first month is about orientation and learning:
-Engage with your team to understand our business, vision, mission, and strategic goals.
-Enhance your skills to navigate the evolving DeFi landscape.
-Absorb our core values and establish connections with your colleagues through one-on-one meetings.
-Familiarize yourself with the tools and processes vital to our operations.
-Analyze our product offerings and contribute to discussions that shape our future.
-
-We're here to support your integration and ensure you have the resources you need!
-
-Looking Ahead
-
-Regular check-ins with your manager will help align your priorities with our team and company goals, setting you up for success. At Supra, you're not just joining a company but embarking on a journey to enhance blockchain technology with a team of exceptional individuals.,
-
-- **Apply here:** [Apply here](https://www.shine.com/jobs/research-internship-blockchain-storage/supra/16131179?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
-
----
-
 ## Job 5
 
 - **Job Title:** Apply For Internship
@@ -230,5 +214,5 @@ Key Details Of Our Internship Programe
 ---
 
 
-Updated on: [21/12/2024]
+Updated on: [22/12/2024]
 <!-- #jobEnd -->
