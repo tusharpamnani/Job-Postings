@@ -117,6 +117,59 @@ Note: This is a unpaid internship.Skills: smart contracts,blockchain development
 
 ## Job 3
 
+- **Job Title:** Blockchain (Web3) Intern
+- **Company:** Cloud Counselage Pvt Ltd
+- **Location:** N/A, N/A, US
+- **Job Description:** TO GET TIMELY UPDATES ON JOB OPENINGS, FEEL FREE TO JOIN OUR COMMUNITY @ https://www.industryacademiacommunity.com (4L+ MEMBERS FROM 35+ COUNTRIES)
+
+Job Overview:
+
+As a Blockchain Web3 Intern, you will have the opportunity to gain hands-on experience in the exciting and rapidly evolving field of blockchain technology. Under the guidance of experienced mentors, you will contribute to the development, testing, and deployment of cutting-edge decentralized applications and smart contracts. This internship offers a unique chance to work on real-world projects, collaborate with cross-functional teams, and expand your knowledge of blockchain and Web3 technologies.
+
+Responsibilities:
+• Assist in the design and implementation of smart contracts using Solidity or other blockchain programming languages
+• Contribute to the development of decentralized applications (dApps) utilizing Web3.js, Ethereum, or other blockchain platforms
+• Participate in code reviews, testing, and debugging to ensure the quality and security of blockchain-based solutions
+• Research and explore emerging trends, protocols, and tools in the blockchain and decentralized finance (DeFi) space
+• Collaborate with team members to brainstorm ideas, solve technical challenges, and optimize performance
+• Document project requirements, workflows, and best practices to support knowledge-sharing and future development efforts
+• Stay up-to-date with industry developments, attending workshops, webinars, and conferences as appropriate
+
+Mandatory Requirements:
+• Currently enrolled in a Diploma, Bachelor's or Master's degree program in Computer Science, Engineering, or a related field
+• Strong interest in blockchain technology, decentralized systems, and cryptocurrencies
+• Familiarity with programming languages such as JavaScript, Python, or Solidity
+• Basic understanding of blockchain concepts, including smart contracts, consensus mechanisms, and decentralized networks
+
+Preferred Requirements:
+• Prior experience with blockchain development tools and frameworks (e.g., Truffle, Ganache, Remix)
+• Knowledge of decentralized finance (DeFi) protocols such as Uniswap, Compound, or MakerDAO
+• Understanding of cryptographic principles and security best practices in blockchain applications
+• Contributions to open-source projects or participation in hackathons related to blockchain technology
+
+Qualities:
+• Excellent problem-solving skills and attention to detail
+• Ability to work independently and as part of a team in a fast-paced environment
+• Effective communication and interpersonal skills
+
+Benefits:
+• Opportunity to work on innovative projects with experienced mentors
+• Exposure to cutting-edge technologies and best practices in blockchain development
+• Flexible work hours and a supportive team culture
+• Potential for future full-time employment or recommendation for other opportunities based on performance during the internship
+
+Job Location: Remote/Hybrid/In-Office
+
+Note: To accomplish our vision, our Flagship Event 'IAC VISION 2030' would provide employment and career opportunities for millions of job-ready interns, freshers and professionals in our Industry Academia Community (IAC).
+
+By submitting your application you accept the Terms and Conditions.
+
+- **Apply here:** [Apply here](https://www.careers-page.com/cloud-counselage-pvt-ltd/job/L7377W75?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
+
+---
+
+## Job 4
+
 - **Job Title:** Intern | Blockchain Developer
 - **Company:** The Blockjet Technologies
 - **Location:** Bengaluru, Karnataka, IN
@@ -140,7 +193,7 @@ Note: This is a unpaid internship.Skills: smart contracts,blockchain development
 
 ---
 
-## Job 4
+## Job 5
 
 - **Job Title:** Blockchain  Developer
 - **Company:** Laika AI
@@ -183,36 +236,6 @@ How to Apply. Click on the Easy Apply button to submit your application today. B
 
 ---
 
-## Job 5
 
-- **Job Title:** Apply For Internship
-- **Company:** Tokyotechie
-- **Location:** N/A, N/A, US
-- **Job Description:** Location
-• INDIA - Pune, Mumbai, Bangalore, Chennai, Kolkata & Delhi
-• USA - New York, Los Angeles, Chicago, Houston, Phoenix, Philadelphia, Boston, Dallas, San Jose
-• UAE - Dubai, Abu Dhabi, Sharjah
-• Germany - Berlin, Frankfurt, Munich, Sttugard
-• Singapore
-
-For Colleges or Institute or Individual Candidate
-
-Key Details Of Our Internship Programe
-• Duration:3-6 months internship program
-• Eligibility: Pursuing Graduattion (Secured Throughout First Class) Good communication with get things done approach
-• Benefits:
-• Internship certificate from Esteemed Private Limited company
-• Job opportunities for star performer on completion of internship
-• Gaining practical experience
-• Networking opportunities
-• TokyoTechie is a leading blockchain development & Audit company, to extend an invitation to collaborate with your esteemed college on an internship program for our product launch. We are keen to offer valuable learning opportunities to students and foster a mutually beneficial partnership between academia and industry. Our internship program aims to provide students with hands-on experience, allowing them to apply their theoretical knowledge in a practical setting. We believe that partnering with College will enable us to identify and nurture talented individuals while contributing to their educational and professional growth.
-• we are committed to providing adequate support and guidance to ensure that interns have enriching experience during their time with us. We believe that collaborating on this internship program will not only benefit the students but also strengthen the ties between our organizations. We are confident that together, we can create a dynamic and engaging learning environment that prepares students for future success in their chosen fields. We would appreciate the opportunity to further discuss this collaboration and address any questions or concerns you may have. Please feel free to contact us and send the candidates resume on our below email id
-• Send Your Resume On - hr@tokyotechie.com or click on Apply Now button and fill the informaiotn such as name, email, contact no., Upload your resume and click on send
-
-- **Apply here:** [Apply here](https://in.indeed.com/viewjob?jk=d50ab8bebe144585&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
-
----
-
-
-Updated on: [24/12/2024]
+Updated on: [25/12/2024]
 <!-- #jobEnd -->
