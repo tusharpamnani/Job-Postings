@@ -4,6 +4,53 @@
 
 ## Job 1
 
+- **Job Title:** Blockchain Developer Intern
+- **Company:** Hubnex Labs
+- **Location:** N/A, N/A, US
+- **Job Description:** Job Description: Blockchain Developer Intern (Unpaid)
+
+Location: Remote
+
+Type: Internship (6 months, Unpaid)
+
+At Hubnex Labs, we’re at the forefront of technological innovation, and we’re looking for passionate and motivated Blockchain Developer Interns to join our team. This is a great opportunity to dive into the world of blockchain technology, gain hands-on experience, and contribute to real-world projects in a fast-paced startup environment.
+
+Key Responsibilities
+• Blockchain Development: Assist in the development and deployment of blockchain-based applications and smart contracts.
+• Blockchain Research: Support the team in researching emerging blockchain technologies, trends, and protocols.
+• Smart Contract Creation: Work on writing, testing, and deploying smart contracts using languages like Solidity or similar.
+• Integration: Help integrate blockchain solutions into existing systems and platforms.
+• Security Audits: Participate in blockchain security audits to identify vulnerabilities and ensure safe deployment.
+• Collaboration: Work closely with cross-functional teams (e.g., frontend, backend, and product teams) to develop integrated blockchain solutions.
+• Documentation: Assist in maintaining documentation for blockchain projects, including codebase, API docs, and user guides.
+
+What We’re Looking For
+• Interest in Blockchain Technology: A strong passion for blockchain, cryptocurrencies, and decentralized applications (dApps).
+• Programming Skills: Familiarity with languages like JavaScript, Solidity, Python, or Go for blockchain development.
+• Problem-Solving Skills: Ability to think critically and work through complex technical challenges.
+• Willingness to Learn: Eagerness to dive deep into blockchain technologies and stay up-to-date with industry trends.
+• Detail-Oriented: Ability to write clean, efficient, and well-documented code.
+• Team Player: Strong collaboration and communication skills in a remote team environment.
+
+What You’ll Gain
+• Hands-on experience working with blockchain technologies and smart contracts.
+• Opportunity to work on cutting-edge blockchain projects.
+• Mentorship from experienced blockchain developers and engineers.
+• Certificate of completion and a recommendation letter upon successful completion of the internship.
+• Potential to transition into a paid role based on performance.
+
+Duration: 6 months (Unpaid)
+
+If you’re eager to build your career in blockchain development and want to make an impact in a growing startup, apply now!
+
+Note: This is a unpaid internship.Skills: smart contracts,blockchain development,collaboration,communication,go,blockchain,solidity,problem-solving,python,javascript
+
+- **Apply here:** [Apply here](https://in.linkedin.com/jobs/view/blockchain-developer-intern-at-hubnex-labs-4102653074?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
+
+---
+
+## Job 2
+
 - **Job Title:** Blockchain Internship
 - **Company:** Hashstack
 - **Location:** N/A, N/A, US
@@ -68,107 +115,7 @@ __________________________
 
 ---
 
-## Job 2
-
-- **Job Title:** Blockchain Developer Intern
-- **Company:** Hubnex Labs
-- **Location:** N/A, N/A, US
-- **Job Description:** Job Description: Blockchain Developer Intern (Unpaid)
-
-Location: Remote
-
-Type: Internship (6 months, Unpaid)
-
-At Hubnex Labs, we’re at the forefront of technological innovation, and we’re looking for passionate and motivated Blockchain Developer Interns to join our team. This is a great opportunity to dive into the world of blockchain technology, gain hands-on experience, and contribute to real-world projects in a fast-paced startup environment.
-
-Key Responsibilities
-• Blockchain Development: Assist in the development and deployment of blockchain-based applications and smart contracts.
-• Blockchain Research: Support the team in researching emerging blockchain technologies, trends, and protocols.
-• Smart Contract Creation: Work on writing, testing, and deploying smart contracts using languages like Solidity or similar.
-• Integration: Help integrate blockchain solutions into existing systems and platforms.
-• Security Audits: Participate in blockchain security audits to identify vulnerabilities and ensure safe deployment.
-• Collaboration: Work closely with cross-functional teams (e.g., frontend, backend, and product teams) to develop integrated blockchain solutions.
-• Documentation: Assist in maintaining documentation for blockchain projects, including codebase, API docs, and user guides.
-
-What We’re Looking For
-• Interest in Blockchain Technology: A strong passion for blockchain, cryptocurrencies, and decentralized applications (dApps).
-• Programming Skills: Familiarity with languages like JavaScript, Solidity, Python, or Go for blockchain development.
-• Problem-Solving Skills: Ability to think critically and work through complex technical challenges.
-• Willingness to Learn: Eagerness to dive deep into blockchain technologies and stay up-to-date with industry trends.
-• Detail-Oriented: Ability to write clean, efficient, and well-documented code.
-• Team Player: Strong collaboration and communication skills in a remote team environment.
-
-What You’ll Gain
-• Hands-on experience working with blockchain technologies and smart contracts.
-• Opportunity to work on cutting-edge blockchain projects.
-• Mentorship from experienced blockchain developers and engineers.
-• Certificate of completion and a recommendation letter upon successful completion of the internship.
-• Potential to transition into a paid role based on performance.
-
-Duration: 6 months (Unpaid)
-
-If you’re eager to build your career in blockchain development and want to make an impact in a growing startup, apply now!
-
-Note: This is a unpaid internship.Skills: smart contracts,blockchain development,collaboration,communication,go,blockchain,solidity,problem-solving,python,javascript
-
-- **Apply here:** [Apply here](https://in.linkedin.com/jobs/view/blockchain-developer-intern-at-hubnex-labs-4102653074?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
-
----
-
 ## Job 3
-
-- **Job Title:** Blockchain (Web3) Intern
-- **Company:** Cloud Counselage Pvt Ltd
-- **Location:** N/A, N/A, US
-- **Job Description:** TO GET TIMELY UPDATES ON JOB OPENINGS, FEEL FREE TO JOIN OUR COMMUNITY @ https://www.industryacademiacommunity.com (4L+ MEMBERS FROM 35+ COUNTRIES)
-
-Job Overview:
-
-As a Blockchain Web3 Intern, you will have the opportunity to gain hands-on experience in the exciting and rapidly evolving field of blockchain technology. Under the guidance of experienced mentors, you will contribute to the development, testing, and deployment of cutting-edge decentralized applications and smart contracts. This internship offers a unique chance to work on real-world projects, collaborate with cross-functional teams, and expand your knowledge of blockchain and Web3 technologies.
-
-Responsibilities:
-• Assist in the design and implementation of smart contracts using Solidity or other blockchain programming languages
-• Contribute to the development of decentralized applications (dApps) utilizing Web3.js, Ethereum, or other blockchain platforms
-• Participate in code reviews, testing, and debugging to ensure the quality and security of blockchain-based solutions
-• Research and explore emerging trends, protocols, and tools in the blockchain and decentralized finance (DeFi) space
-• Collaborate with team members to brainstorm ideas, solve technical challenges, and optimize performance
-• Document project requirements, workflows, and best practices to support knowledge-sharing and future development efforts
-• Stay up-to-date with industry developments, attending workshops, webinars, and conferences as appropriate
-
-Mandatory Requirements:
-• Currently enrolled in a Diploma, Bachelor's or Master's degree program in Computer Science, Engineering, or a related field
-• Strong interest in blockchain technology, decentralized systems, and cryptocurrencies
-• Familiarity with programming languages such as JavaScript, Python, or Solidity
-• Basic understanding of blockchain concepts, including smart contracts, consensus mechanisms, and decentralized networks
-
-Preferred Requirements:
-• Prior experience with blockchain development tools and frameworks (e.g., Truffle, Ganache, Remix)
-• Knowledge of decentralized finance (DeFi) protocols such as Uniswap, Compound, or MakerDAO
-• Understanding of cryptographic principles and security best practices in blockchain applications
-• Contributions to open-source projects or participation in hackathons related to blockchain technology
-
-Qualities:
-• Excellent problem-solving skills and attention to detail
-• Ability to work independently and as part of a team in a fast-paced environment
-• Effective communication and interpersonal skills
-
-Benefits:
-• Opportunity to work on innovative projects with experienced mentors
-• Exposure to cutting-edge technologies and best practices in blockchain development
-• Flexible work hours and a supportive team culture
-• Potential for future full-time employment or recommendation for other opportunities based on performance during the internship
-
-Job Location: Remote/Hybrid/In-Office
-
-Note: To accomplish our vision, our Flagship Event 'IAC VISION 2030' would provide employment and career opportunities for millions of job-ready interns, freshers and professionals in our Industry Academia Community (IAC).
-
-By submitting your application you accept the Terms and Conditions.
-
-- **Apply here:** [Apply here](https://www.careers-page.com/cloud-counselage-pvt-ltd/job/L7377W75?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
-
----
-
-## Job 4
 
 - **Job Title:** Intern | Blockchain Developer
 - **Company:** The Blockjet Technologies
@@ -193,7 +140,7 @@ By submitting your application you accept the Terms and Conditions.
 
 ---
 
-## Job 5
+## Job 4
 
 - **Job Title:** Blockchain  Developer
 - **Company:** Laika AI
@@ -236,6 +183,36 @@ How to Apply. Click on the Easy Apply button to submit your application today. B
 
 ---
 
+## Job 5
 
-Updated on: [25/12/2024]
+- **Job Title:** Apply For Internship
+- **Company:** Tokyotechie
+- **Location:** N/A, N/A, US
+- **Job Description:** Location
+• INDIA - Pune, Mumbai, Bangalore, Chennai, Kolkata & Delhi
+• USA - New York, Los Angeles, Chicago, Houston, Phoenix, Philadelphia, Boston, Dallas, San Jose
+• UAE - Dubai, Abu Dhabi, Sharjah
+• Germany - Berlin, Frankfurt, Munich, Sttugard
+• Singapore
+
+For Colleges or Institute or Individual Candidate
+
+Key Details Of Our Internship Programe
+• Duration:3-6 months internship program
+• Eligibility: Pursuing Graduattion (Secured Throughout First Class) Good communication with get things done approach
+• Benefits:
+• Internship certificate from Esteemed Private Limited company
+• Job opportunities for star performer on completion of internship
+• Gaining practical experience
+• Networking opportunities
+• TokyoTechie is a leading blockchain development & Audit company, to extend an invitation to collaborate with your esteemed college on an internship program for our product launch. We are keen to offer valuable learning opportunities to students and foster a mutually beneficial partnership between academia and industry. Our internship program aims to provide students with hands-on experience, allowing them to apply their theoretical knowledge in a practical setting. We believe that partnering with College will enable us to identify and nurture talented individuals while contributing to their educational and professional growth.
+• we are committed to providing adequate support and guidance to ensure that interns have enriching experience during their time with us. We believe that collaborating on this internship program will not only benefit the students but also strengthen the ties between our organizations. We are confident that together, we can create a dynamic and engaging learning environment that prepares students for future success in their chosen fields. We would appreciate the opportunity to further discuss this collaboration and address any questions or concerns you may have. Please feel free to contact us and send the candidates resume on our below email id
+• Send Your Resume On - hr@tokyotechie.com or click on Apply Now button and fill the informaiotn such as name, email, contact no., Upload your resume and click on send
+
+- **Apply here:** [Apply here](https://in.indeed.com/viewjob?jk=d50ab8bebe144585&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
+
+---
+
+
+Updated on: [26/12/2024]
 <!-- #jobEnd -->
