@@ -185,34 +185,51 @@ How to Apply. Click on the Easy Apply button to submit your application today. B
 
 ## Job 5
 
-- **Job Title:** Apply For Internship
-- **Company:** Tokyotechie
-- **Location:** N/A, N/A, US
-- **Job Description:** Location
-• INDIA - Pune, Mumbai, Bangalore, Chennai, Kolkata & Delhi
-• USA - New York, Los Angeles, Chicago, Houston, Phoenix, Philadelphia, Boston, Dallas, San Jose
-• UAE - Dubai, Abu Dhabi, Sharjah
-• Germany - Berlin, Frankfurt, Munich, Sttugard
-• Singapore
+- **Job Title:** Blockchain Intern
+- **Company:** Blockdudes
+- **Location:** Faridabad, Haryana, IN
+- **Job Description:** Job Title. Blockchain Intern
 
-For Colleges or Institute or Individual Candidate
+Company Description
 
-Key Details Of Our Internship Programe
-• Duration:3-6 months internship program
-• Eligibility: Pursuing Graduattion (Secured Throughout First Class) Good communication with get things done approach
-• Benefits:
-• Internship certificate from Esteemed Private Limited company
-• Job opportunities for star performer on completion of internship
-• Gaining practical experience
-• Networking opportunities
-• TokyoTechie is a leading blockchain development & Audit company, to extend an invitation to collaborate with your esteemed college on an internship program for our product launch. We are keen to offer valuable learning opportunities to students and foster a mutually beneficial partnership between academia and industry. Our internship program aims to provide students with hands-on experience, allowing them to apply their theoretical knowledge in a practical setting. We believe that partnering with College will enable us to identify and nurture talented individuals while contributing to their educational and professional growth.
-• we are committed to providing adequate support and guidance to ensure that interns have enriching experience during their time with us. We believe that collaborating on this internship program will not only benefit the students but also strengthen the ties between our organizations. We are confident that together, we can create a dynamic and engaging learning environment that prepares students for future success in their chosen fields. We would appreciate the opportunity to further discuss this collaboration and address any questions or concerns you may have. Please feel free to contact us and send the candidates resume on our below email id
-• Send Your Resume On - hr@tokyotechie.com or click on Apply Now button and fill the informaiotn such as name, email, contact no., Upload your resume and click on send
+Blockdudes is a pioneering force in the realm of blockchain technology, driving impactful innovations that resonate globally. We invite passionate and talented individuals to join our team and contribute to shaping the future of blockchain.
 
-- **Apply here:** [Apply here](https://in.indeed.com/viewjob?jk=d50ab8bebe144585&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
+Role Description
+
+This is a full-time, paid internship opportunity located in Faridabad, NCR, with a focus on Blockchain Development. As a Blockchain Intern, you will play a crucial role in our projects under the mentorship of industry experts, gaining hands-on experience in the dynamic field of blockchain technology.
+
+Responsibilities
+• Assist in the development and design of cutting-edge blockchain solutions.
+• Engage in software development, programming, and testing related to blockchain technology.
+• Participate in the entire software development lifecycle, gaining exposure to various stages of development.
+• Collaborate with the team to deliver high-quality blockchain applications.
+
+Qualifications
+• Demonstrated proficiency in software development and programming.
+• Familiarity with programming languages such as Golang, Rust, Python, Javascript, Java, or C++.
+• Ability to work effectively in a team-based environment.
+• Strong problem-solving skills and analytical thinking.
+• Excellent written and verbal communication skills.
+• Genuine interest and enthusiasm for blockchain technology and its applications.
+• Currently pursuing or recently completed a degree in Computer Science, Software Engineering, or a related field.
+
+Preferred but Not Required
+• Prior experience with blockchain.
+• Understanding of decentralized technologies and smart contracts.
+• Familiarity with software development tools like Git, JIRA, and Confluence.
+
+What We Offer
+• A paid internship opportunity with a competitive stipend.
+• An innovative and supportive work environment.
+
+Opportunities for professional growth and skill development in blockchain technology.
+
+If you are an enthusiastic individual with a passion for blockchain and a desire to contribute to groundbreaking projects, we encourage you to apply. Join us on this exciting journey as we shape the future of blockchain technology together.
+
+- **Apply here:** [Apply here](https://web3universe.today/job/blockchain-intern/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
 
 ---
 
 
-Updated on: [26/12/2024]
+Updated on: [27/12/2024]
 <!-- #jobEnd -->
