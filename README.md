@@ -4,53 +4,6 @@
 
 ## Job 1
 
-- **Job Title:** Blockchain Developer Intern
-- **Company:** Hubnex Labs
-- **Location:** N/A, N/A, US
-- **Job Description:** Job Description: Blockchain Developer Intern (Unpaid)
-
-Location: Remote
-
-Type: Internship (6 months, Unpaid)
-
-At Hubnex Labs, we’re at the forefront of technological innovation, and we’re looking for passionate and motivated Blockchain Developer Interns to join our team. This is a great opportunity to dive into the world of blockchain technology, gain hands-on experience, and contribute to real-world projects in a fast-paced startup environment.
-
-Key Responsibilities
-• Blockchain Development: Assist in the development and deployment of blockchain-based applications and smart contracts.
-• Blockchain Research: Support the team in researching emerging blockchain technologies, trends, and protocols.
-• Smart Contract Creation: Work on writing, testing, and deploying smart contracts using languages like Solidity or similar.
-• Integration: Help integrate blockchain solutions into existing systems and platforms.
-• Security Audits: Participate in blockchain security audits to identify vulnerabilities and ensure safe deployment.
-• Collaboration: Work closely with cross-functional teams (e.g., frontend, backend, and product teams) to develop integrated blockchain solutions.
-• Documentation: Assist in maintaining documentation for blockchain projects, including codebase, API docs, and user guides.
-
-What We’re Looking For
-• Interest in Blockchain Technology: A strong passion for blockchain, cryptocurrencies, and decentralized applications (dApps).
-• Programming Skills: Familiarity with languages like JavaScript, Solidity, Python, or Go for blockchain development.
-• Problem-Solving Skills: Ability to think critically and work through complex technical challenges.
-• Willingness to Learn: Eagerness to dive deep into blockchain technologies and stay up-to-date with industry trends.
-• Detail-Oriented: Ability to write clean, efficient, and well-documented code.
-• Team Player: Strong collaboration and communication skills in a remote team environment.
-
-What You’ll Gain
-• Hands-on experience working with blockchain technologies and smart contracts.
-• Opportunity to work on cutting-edge blockchain projects.
-• Mentorship from experienced blockchain developers and engineers.
-• Certificate of completion and a recommendation letter upon successful completion of the internship.
-• Potential to transition into a paid role based on performance.
-
-Duration: 6 months (Unpaid)
-
-If you’re eager to build your career in blockchain development and want to make an impact in a growing startup, apply now!
-
-Note: This is a unpaid internship.Skills: smart contracts,blockchain development,collaboration,communication,go,blockchain,solidity,problem-solving,python,javascript
-
-- **Apply here:** [Apply here](https://in.linkedin.com/jobs/view/blockchain-developer-intern-at-hubnex-labs-4102653074?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
-
----
-
-## Job 2
-
 - **Job Title:** Blockchain Internship
 - **Company:** Hashstack
 - **Location:** N/A, N/A, US
@@ -115,7 +68,132 @@ __________________________
 
 ---
 
+## Job 2
+
+- **Job Title:** Blockchain Developer Intern
+- **Company:** Hubnex Labs
+- **Location:** N/A, N/A, US
+- **Job Description:** Job Description: Blockchain Developer Intern (Unpaid)
+
+Location: Remote
+
+Type: Internship (6 months, Unpaid)
+
+At Hubnex Labs, we’re at the forefront of technological innovation, and we’re looking for passionate and motivated Blockchain Developer Interns to join our team. This is a great opportunity to dive into the world of blockchain technology, gain hands-on experience, and contribute to real-world projects in a fast-paced startup environment.
+
+Key Responsibilities
+• Blockchain Development: Assist in the development and deployment of blockchain-based applications and smart contracts.
+• Blockchain Research: Support the team in researching emerging blockchain technologies, trends, and protocols.
+• Smart Contract Creation: Work on writing, testing, and deploying smart contracts using languages like Solidity or similar.
+• Integration: Help integrate blockchain solutions into existing systems and platforms.
+• Security Audits: Participate in blockchain security audits to identify vulnerabilities and ensure safe deployment.
+• Collaboration: Work closely with cross-functional teams (e.g., frontend, backend, and product teams) to develop integrated blockchain solutions.
+• Documentation: Assist in maintaining documentation for blockchain projects, including codebase, API docs, and user guides.
+
+What We’re Looking For
+• Interest in Blockchain Technology: A strong passion for blockchain, cryptocurrencies, and decentralized applications (dApps).
+• Programming Skills: Familiarity with languages like JavaScript, Solidity, Python, or Go for blockchain development.
+• Problem-Solving Skills: Ability to think critically and work through complex technical challenges.
+• Willingness to Learn: Eagerness to dive deep into blockchain technologies and stay up-to-date with industry trends.
+• Detail-Oriented: Ability to write clean, efficient, and well-documented code.
+• Team Player: Strong collaboration and communication skills in a remote team environment.
+
+What You’ll Gain
+• Hands-on experience working with blockchain technologies and smart contracts.
+• Opportunity to work on cutting-edge blockchain projects.
+• Mentorship from experienced blockchain developers and engineers.
+• Certificate of completion and a recommendation letter upon successful completion of the internship.
+• Potential to transition into a paid role based on performance.
+
+Duration: 6 months (Unpaid)
+
+If you’re eager to build your career in blockchain development and want to make an impact in a growing startup, apply now!
+
+Note: This is a unpaid internship.Skills: smart contracts,blockchain development,collaboration,communication,go,blockchain,solidity,problem-solving,python,javascript
+
+- **Apply here:** [Apply here](https://in.linkedin.com/jobs/view/blockchain-developer-intern-at-hubnex-labs-4102653074?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
+
+---
+
 ## Job 3
+
+- **Job Title:** Blockchain (Web3) Intern
+- **Company:** Cloud Counselage Pvt Ltd
+- **Location:** N/A, N/A, US
+- **Job Description:** TO GET TIMELY UPDATES ON JOB OPENINGS, FEEL FREE TO JOIN OUR COMMUNITY @ https://www.industryacademiacommunity.com (4L+ MEMBERS FROM 35+ COUNTRIES)
+
+Job Overview:
+
+As a Blockchain Web3 Intern, you will have the opportunity to gain hands-on experience in the exciting and rapidly evolving field of blockchain technology. Under the guidance of experienced mentors, you will contribute to the development, testing, and deployment of cutting-edge decentralized applications and smart contracts. This internship offers a unique chance to work on real-world projects, collaborate with cross-functional teams, and expand your knowledge of blockchain and Web3 technologies.
+
+Responsibilities:
+• Assist in the design and implementation of smart contracts using Solidity or other blockchain programming languages
+• Contribute to the development of decentralized applications (dApps) utilizing Web3.js, Ethereum, or other blockchain platforms
+• Participate in code reviews, testing, and debugging to ensure the quality and security of blockchain-based solutions
+• Research and explore emerging trends, protocols, and tools in the blockchain and decentralized finance (DeFi) space
+• Collaborate with team members to brainstorm ideas, solve technical challenges, and optimize performance
+• Document project requirements, workflows, and best practices to support knowledge-sharing and future development efforts
+• Stay up-to-date with industry developments, attending workshops, webinars, and conferences as appropriate
+
+Mandatory Requirements:
+• Currently enrolled in a Diploma, Bachelor's or Master's degree program in Computer Science, Engineering, or a related field
+• Strong interest in blockchain technology, decentralized systems, and cryptocurrencies
+• Familiarity with programming languages such as JavaScript, Python, or Solidity
+• Basic understanding of blockchain concepts, including smart contracts, consensus mechanisms, and decentralized networks
+
+Preferred Requirements:
+• Prior experience with blockchain development tools and frameworks (e.g., Truffle, Ganache, Remix)
+• Knowledge of decentralized finance (DeFi) protocols such as Uniswap, Compound, or MakerDAO
+• Understanding of cryptographic principles and security best practices in blockchain applications
+• Contributions to open-source projects or participation in hackathons related to blockchain technology
+
+Qualities:
+• Excellent problem-solving skills and attention to detail
+• Ability to work independently and as part of a team in a fast-paced environment
+• Effective communication and interpersonal skills
+
+Benefits:
+• Opportunity to work on innovative projects with experienced mentors
+• Exposure to cutting-edge technologies and best practices in blockchain development
+• Flexible work hours and a supportive team culture
+• Potential for future full-time employment or recommendation for other opportunities based on performance during the internship
+
+Job Location: Remote/Hybrid/In-Office
+
+Note: To accomplish our vision, our Flagship Event 'IAC VISION 2030' would provide employment and career opportunities for millions of job-ready interns, freshers and professionals in our Industry Academia Community (IAC).
+
+By submitting your application you accept the Terms and Conditions.
+
+- **Apply here:** [Apply here](https://www.careers-page.com/cloud-counselage-pvt-ltd/job/L7377W75?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
+
+---
+
+## Job 4
+
+- **Job Title:** Marketing & Business Development Intern
+- **Company:** SecureDApp - Blockchain & Web3 Security
+- **Location:** N/A, N/A, US
+- **Job Description:** Company Description
+
+SecureDApp is a blockchain security company that focuses on providing comprehensive security solutions to companies in the web3 space. With expertise in identifying vulnerabilities in smart contracts and enhancing blockchain network security, SecureDApp goes beyond securing initial development to ensure ongoing protection. Our team of professionals is dedicated to innovation, proactive security measures, and empowering companies in the web3 ecosystem.
+
+Role Description
+
+This is a remote internship role for a Marketing & Business Development Intern at SecureDApp - Blockchain & Web3 Security. The intern will be responsible for tasks related to communication, market research, sales, marketing strategy, and customer service in support of business development initiatives.
+
+Qualifications
+• Strong Communication and Customer Service skills
+• Experience in Market Research
+• Sales and Marketing Strategy abilities
+• Interest in blockchain technology and web3 security
+• Ability to work independently and remotely
+• Pursuing a degree in Business, Marketing, or related field
+
+- **Apply here:** [Apply here](https://in.linkedin.com/jobs/view/marketing-business-development-intern-at-securedapp-blockchain-web3-security-4110531807?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
+
+---
+
+## Job 5
 
 - **Job Title:** Intern | Blockchain Developer
 - **Company:** The Blockjet Technologies
@@ -140,96 +218,6 @@ __________________________
 
 ---
 
-## Job 4
 
-- **Job Title:** Blockchain  Developer
-- **Company:** Laika AI
-- **Location:** N/A, N/A, US
-- **Job Description:** Company Overview. Laika AI is a leading provider of AI-driven tools and services, pushing the envelope in Web3 technologies. Focused on decentralizing digital services, Laika AI is pioneering new ways to innovate in blockchain and decentralized applications. Our goal is to transform the digital landscape by simplifying complex tasks, optimizing strategies, and improving security. As part of our team, you’ll have the opportunity to contribute to groundbreaking advancements in AI and blockchain technology.
-
-Role Overview
-
-As a Blockchain Intern, your role will primarily involve blockchain analysis, cryptocurrency research, and financial analysis in the Web3 ecosystem. You will gain hands-on experience in the exciting world of decentralized finance (DeFi), blockchain security, and blockchain-driven innovations.
-
-Responsibilities
-• Analyze blockchain networks, cryptocurrencies, and Web3 technologies to extract valuable insights.
-• Conduct research on the latest blockchain trends, DeFi platforms, NFTs, and cryptocurrency market dynamics.
-• Contribute to the development of strategies that enhance blockchain security and optimize decentralized applications (dApps).
-• Assist in financial modeling and analysis for blockchain-based projects and initiatives.
-
-Work closely with team members to propose new ideas and improve the company’s offerings in the blockchain space.
-
-Qualifications
-• Understanding of blockchain technology and how it powers decentralized applications.
-• Analytical skills, with a keen interest in cryptocurrency and blockchain finance.
-• Strong problem-solving ability, with a passion for working independently in a remote environment.
-• Ability to quickly learn and apply new concepts in blockchain analysis and Web3 technologies.
-
-Preferred Skills
-• Experience with DeFi (Decentralized Finance), NFTs (Non-Fungible Tokens), and smart contracts.
-• Knowledge of cryptocurrency trading, markets, and financial analysis within the blockchain ecosystem.
-
-Educational Background
-• Bachelor’s degree (or currently enrolled) in Finance, Computer Science, Engineering, or a related field.
-
-Benefits
-• Gain in-depth exposure to the rapidly evolving world of Web3 and blockchain technologies.
-• Hands-on experience with DeFi, NFTs, and blockchain applications.
-• Remote work flexibility and the chance to develop professional skills in a fast-growing sector.
-
-How to Apply. Click on the Easy Apply button to submit your application today. Be part of the next generation of blockchain innovators at Laika AI!
-
-- **Apply here:** [Apply here](https://web3universe.today/job/blockchain-developer-101/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
-
----
-
-## Job 5
-
-- **Job Title:** Blockchain Intern
-- **Company:** Blockdudes
-- **Location:** Faridabad, Haryana, IN
-- **Job Description:** Job Title. Blockchain Intern
-
-Company Description
-
-Blockdudes is a pioneering force in the realm of blockchain technology, driving impactful innovations that resonate globally. We invite passionate and talented individuals to join our team and contribute to shaping the future of blockchain.
-
-Role Description
-
-This is a full-time, paid internship opportunity located in Faridabad, NCR, with a focus on Blockchain Development. As a Blockchain Intern, you will play a crucial role in our projects under the mentorship of industry experts, gaining hands-on experience in the dynamic field of blockchain technology.
-
-Responsibilities
-• Assist in the development and design of cutting-edge blockchain solutions.
-• Engage in software development, programming, and testing related to blockchain technology.
-• Participate in the entire software development lifecycle, gaining exposure to various stages of development.
-• Collaborate with the team to deliver high-quality blockchain applications.
-
-Qualifications
-• Demonstrated proficiency in software development and programming.
-• Familiarity with programming languages such as Golang, Rust, Python, Javascript, Java, or C++.
-• Ability to work effectively in a team-based environment.
-• Strong problem-solving skills and analytical thinking.
-• Excellent written and verbal communication skills.
-• Genuine interest and enthusiasm for blockchain technology and its applications.
-• Currently pursuing or recently completed a degree in Computer Science, Software Engineering, or a related field.
-
-Preferred but Not Required
-• Prior experience with blockchain.
-• Understanding of decentralized technologies and smart contracts.
-• Familiarity with software development tools like Git, JIRA, and Confluence.
-
-What We Offer
-• A paid internship opportunity with a competitive stipend.
-• An innovative and supportive work environment.
-
-Opportunities for professional growth and skill development in blockchain technology.
-
-If you are an enthusiastic individual with a passion for blockchain and a desire to contribute to groundbreaking projects, we encourage you to apply. Join us on this exciting journey as we shape the future of blockchain technology together.
-
-- **Apply here:** [Apply here](https://web3universe.today/job/blockchain-intern/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
-
----
-
-
-Updated on: [27/12/2024]
+Updated on: [28/12/2024]
 <!-- #jobEnd -->
