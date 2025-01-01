@@ -142,22 +142,65 @@ Note: This is a unpaid internship.Skills: smart contracts,blockchain development
 
 ## Job 4
 
-- **Job Title:** Blockchain Development Internship in Ahmedabad (Hybrid)
-- **Company:** Codeminto
+- **Job Title:** Blockchain Developer
+- **Company:** Askgalore Digital
 - **Location:** N/A, N/A, US
-- **Job Description:** Selected Intern's Day-to-day Responsibilities Include
-• Build and audit smart contracts using Solidity and Rust.
-• Develop and optimize front-end applications for blockchain projects using React.js.
-• Contribute to the creation and deployment of EVM and Solana-based dApps.
-• Integrate smart contracts with React-based dApps to ensure a seamless user experience.
-• Research and implement the latest blockchain tools and trends in Web3.
-• Debug, test, and deploy blockchain projects for real-world applications.
-• Collaborate with senior developers to enhance and optimize blockchain infrastructure.
-• Document processes, write reports, and maintain detailed project records.
+- **Job Description:** As a Blockchain Developer at Askgalore Digital India Pvt. Ltd, you will drive the development of high-performance, scalable backend systems powering our web applications. Collaborating with cross-functional teams, you will build and maintain APIs, backend services, and blockchain-based solutions tailored to meet our business needs.
 
-About Company: Codeminto is a premier development agency specializing in cutting-edge solutions in blockchain development, smart contract internal audits, EVM dApps, Solana dApps, AI, AI agents, and GenAI development. With over 7 years of experience in blockchain technology, we deliver secure, scalable, and innovative solutions for businesses of all sizes. Our expert team is committed to helping clients harness the potential of decentralized technologies and artificial intelligence to create impactful, future-ready products. We work across various blockchain platforms and AI frameworks to provide tailored solutions that drive success and enhance user experiences. At Codeminto, we focus on building transparent, long-term relationships with our clients, ensuring every project is completed with the highest quality, security, and reliability standards. Join us to explore limitless possibilities with Web3, AI, and beyond.
+Key Responsibilities:
+• Lead blockchain development activities, primarily in Solidity, for EVM-based blockchains using tools like Hardhat, Truffle, Web3.js, Ether.js, and Ganache.
+• Design, develop, and maintain smart contracts and decentralized applications (dApps), ensuring seamless Web3 integrations.
+• Implement and optimize backend services and APIs for blockchain applications using Node.js and Python where needed.
+• Ensure the security, scalability, and performance of smart contracts and blockchain solutions.
+• Integrate blockchain APIs and ensure smooth end-to-end Web3 user experiences. Knowledge of React and Next Js is preferred.
+• Stay updated with emerging blockchain technologies,frameworks, and security best practices.
+• Conduct thorough code reviews of smart contracts and blockchain components to maintain quality and security standards.
+• Troubleshoot, debug and enhance smart contract functionality to improve performance and mitigate risks.
 
-- **Apply here:** [Apply here](https://in.linkedin.com/jobs/view/blockchain-development-internship-in-ahmedabad-hybrid-at-codeminto-4089002259?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
+Required Skills and Qualifications:
+• Bachelor’s degree in Computer Science, Engineering, or a related field.
+• Proficiency in Solidity, with experience in developing smart contracts and working with EVM protocols.
+• Strong knowledge of Web3.js, Ether.js, and TypeScript for dApp development and blockchain integrations.
+• Familiarity with blockchain development frameworks such asHardhat, Truffle, and Ganache.
+• Experience in backend development with Node.js and Python,as well as MERN stack for full-stack projects.
+• Experience with Git or other version control systems.
+• Strong communication and collaboration skills, particularly in cross-functional teams.
+
+Benefits:
+• Opportunities for professional growth and career development.
+• Exposure to cutting-edge projects in AI, Web3, and Climate Tech.
+• Dynamic and collaborative work environment with flexible arrangements.
+
+Salary & Compensation:
+• CTC and remuneration will align with industry standards, given the high-impact nature of the projects.
+
+Working Hours
+• 9:30 AM - 6:30 PM
+
+Join us at AskGalore, where innovation meets excellence! If you're passionate about blockchain, AI, and building impactful projects, apply today to become part of our dynamic team.
+
+Job Summary
+
+Location
+Maple Street, Bhopal
+
+Job Type
+Blockchain Developer
+
+Experience
+3+ years
+
+Working Hours
+9:30 AM - 6:30 PM
+
+Vacancy
+No.of Vacancy: 02
+
+Our Statement
+
+Join AskGalore's internship program to be part of a vibrant team! We're eager to welcome interns who bring fresh perspectives and innovation. Discover a dynamic environment, gain valuable experiences, and contribute to the future of digital innovation with us!
+
+- **Apply here:** [Apply here](https://in.indeed.com/viewjob?jk=78361830ab80f969&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
 
 ---
 
@@ -205,5 +248,5 @@ How to Apply. Click on the Easy Apply button to submit your application today. B
 ---
 
 
-Updated on: [31/12/2024]
+Updated on: [1/1/2025]
 <!-- #jobEnd -->
