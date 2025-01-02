@@ -248,5 +248,5 @@ How to Apply. Click on the Easy Apply button to submit your application today. B
 ---
 
 
-Updated on: [1/1/2025]
+Updated on: [2/1/2025]
 <!-- #jobEnd -->
