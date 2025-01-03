@@ -71,34 +71,58 @@ __________________________
 ## Job 2
 
 - **Job Title:** Blockchain Developer Intern
-- **Company:** Hubnex Labs
+- **Company:** Confidential
 - **Location:** N/A, N/A, US
-- **Job Description:** Job Description: Blockchain Developer Intern (Unpaid)
+- **Job Description:** Job Description:
 
-Location: Remote
+Blockchain Developer Intern (Unpaid)
+
+Location:
+
+Remote
 
 Type: Internship (6 months, Unpaid)
 
-At Hubnex Labs, were at the forefront of technological innovation, and were looking for passionate and motivated Blockchain Developer Interns to join our team. This is a great opportunity to dive into the world of blockchain technology, gain hands-on experience, and contribute to real-world projects in a fast-paced startup environment.
+At Hubnex Labs, we're at the forefront of technological innovation, and we're looking for passionate and motivated Blockchain Developer Interns to join our team. This is a great opportunity to dive into the world of blockchain technology, gain hands-on experience, and contribute to real-world projects in a fast-paced startup environment.
 
 Key Responsibilities
-Blockchain Development: Assist in the development and deployment of blockchain-based applications and smart contracts.
-Blockchain Research: Support the team in researching emerging blockchain technologies, trends, and protocols.
-Smart Contract Creation: Work on writing, testing, and deploying smart contracts using languages like Solidity or similar.
-Integration: Help integrate blockchain solutions into existing systems and platforms.
-Security Audits: Participate in blockchain security audits to identify vulnerabilities and ensure safe deployment.
-Collaboration: Work closely with cross-functional teams (e.g., frontend, backend, and product teams) to develop integrated blockchain solutions.
-Documentation: Assist in maintaining documentation for blockchain projects, including codebase, API docs, and user guides.
 
-What Were Looking For
+Blockchain Development:
+Assist in the development and deployment of blockchain-based applications and smart contracts.
+Blockchain Research:
+Support the team in researching emerging blockchain technologies, trends, and protocols.
+Smart Contract Creation:
+Work on writing, testing, and deploying smart contracts using languages like Solidity or similar.
+Integration:
+Help integrate blockchain solutions into existing systems and platforms.
+Security Audits:
+Participate in blockchain security audits to identify vulnerabilities and ensure safe deployment.
+
+Collaboration:
+
+Work closely with cross-functional teams (e.g., frontend, backend, and product teams) to develop integrated blockchain solutions.
+Documentation:
+Assist in maintaining documentation for blockchain projects, including codebase, API docs, and user guides.
+
+What We're Looking For
+
 Interest in Blockchain Technology: A strong passion for blockchain, cryptocurrencies, and decentralized applications (dApps).
-Programming Skills: Familiarity with languages like JavaScript, Solidity, Python, or Go for blockchain development.
-Problem-Solving Skills: Ability to think critically and work through complex technical challenges.
-Willingness to Learn: Eagerness to dive deep into blockchain technologies and stay up-to-date with industry trends.
-Detail-Oriented: Ability to write clean, efficient, and well-documented code.
-Team Player: Strong collaboration and communication skills in a remote team environment.
+Programming
 
-What Youll Gain
+Skills: Familiarity with languages like JavaScript, Solidity, Python, or Go for blockchain development.
+Problem-Solving
+
+Skills: Ability to think critically and work through complex technical challenges.
+
+Willingness to Learn:
+Eagerness to dive deep into blockchain technologies and stay up-to-date with industry trends.
+Detail-Oriented:
+Ability to write clean, efficient, and well-documented code.
+Team Player:
+Strong collaboration and communication skills in a remote team environment.
+
+What You'll Gain
+
 Hands-on experience working with blockchain technologies and smart contracts.
 Opportunity to work on cutting-edge blockchain projects.
 Mentorship from experienced blockchain developers and engineers.
@@ -107,11 +131,15 @@ Potential to transition into a paid role based on performance.
 
 Duration: 6 months (Unpaid)
 
-If youre eager to build your career in blockchain development and want to make an impact in a growing startup, apply now!
+If you're eager to build your career in blockchain development and want to make an impact in a growing startup, apply now!
 
-Note: This is a unpaid internship.Skills: smart contracts,blockchain development,collaboration,communication,go,blockchain,solidity,problem-solving,python,javascript,
+Note:
 
-- **Apply here:** [Apply here](https://www.shine.com/jobs/blockchain-developer-intern/hubnex-labs/16380083?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
+This is a unpaid internship.
+
+Skills: smart contracts,blockchain development,collaboration,communication,go,blockchain,solidity,problem-solving,python,java script
+
+- **Apply here:** [Apply here](https://www.learn4good.com/jobs/delhi/india/software_development/3840978867/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
 
 ---
 
@@ -248,5 +276,5 @@ How to Apply. Click on the Easy Apply button to submit your application today. B
 ---
 
 
-Updated on: [2/1/2025]
+Updated on: [3/1/2025]
 <!-- #jobEnd -->
