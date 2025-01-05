@@ -70,9 +70,62 @@ __________________________
 
 ## Job 2
 
+- **Job Title:** Blockchain (Web3) Intern
+- **Company:** Cloud Counselage Pvt Ltd
+- **Location:** N/A, N/A, US
+- **Job Description:** TO GET TIMELY UPDATES ON JOB OPENINGS, FEEL FREE TO JOIN OUR COMMUNITY @ https://www.industryacademiacommunity.com (4L+ MEMBERS FROM 35+ COUNTRIES)
+
+Job Overview:
+
+As a Blockchain Web3 Intern, you will have the opportunity to gain hands-on experience in the exciting and rapidly evolving field of blockchain technology. Under the guidance of experienced mentors, you will contribute to the development, testing, and deployment of cutting-edge decentralized applications and smart contracts. This internship offers a unique chance to work on real-world projects, collaborate with cross-functional teams, and expand your knowledge of blockchain and Web3 technologies.
+
+Responsibilities:
+• Assist in the design and implementation of smart contracts using Solidity or other blockchain programming languages
+• Contribute to the development of decentralized applications (dApps) utilizing Web3.js, Ethereum, or other blockchain platforms
+• Participate in code reviews, testing, and debugging to ensure the quality and security of blockchain-based solutions
+• Research and explore emerging trends, protocols, and tools in the blockchain and decentralized finance (DeFi) space
+• Collaborate with team members to brainstorm ideas, solve technical challenges, and optimize performance
+• Document project requirements, workflows, and best practices to support knowledge-sharing and future development efforts
+• Stay up-to-date with industry developments, attending workshops, webinars, and conferences as appropriate
+
+Mandatory Requirements:
+• Currently enrolled in a Diploma, Bachelor's or Master's degree program in Computer Science, Engineering, or a related field
+• Strong interest in blockchain technology, decentralized systems, and cryptocurrencies
+• Familiarity with programming languages such as JavaScript, Python, or Solidity
+• Basic understanding of blockchain concepts, including smart contracts, consensus mechanisms, and decentralized networks
+
+Preferred Requirements:
+• Prior experience with blockchain development tools and frameworks (e.g., Truffle, Ganache, Remix)
+• Knowledge of decentralized finance (DeFi) protocols such as Uniswap, Compound, or MakerDAO
+• Understanding of cryptographic principles and security best practices in blockchain applications
+• Contributions to open-source projects or participation in hackathons related to blockchain technology
+
+Qualities:
+• Excellent problem-solving skills and attention to detail
+• Ability to work independently and as part of a team in a fast-paced environment
+• Effective communication and interpersonal skills
+
+Benefits:
+• Opportunity to work on innovative projects with experienced mentors
+• Exposure to cutting-edge technologies and best practices in blockchain development
+• Flexible work hours and a supportive team culture
+• Potential for future full-time employment or recommendation for other opportunities based on performance during the internship
+
+Job Location: Remote/Hybrid/In-Office
+
+Note: To accomplish our vision, our Flagship Event 'IAC VISION 2030' would provide employment and career opportunities for millions of job-ready interns, freshers and professionals in our Industry Academia Community (IAC).
+
+By submitting your application you accept the Terms and Conditions.
+
+- **Apply here:** [Apply here](https://www.careers-page.com/cloud-counselage-pvt-ltd/job/L7377W75?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
+
+---
+
+## Job 3
+
 - **Job Title:** Intern | Blockchain Developer
 - **Company:** The Blockjet Technologies
-- **Location:** Bengaluru, Karnataka, IN
+- **Location:** N/A, N/A, US
 - **Job Description:** **~ what we are looking for ~**
 -understanding with Javascript and Node.js + TypeScript , Express JS
 -Familiar with JS tools
@@ -93,7 +146,71 @@ __________________________
 
 ---
 
-## Job 3
+## Job 4
+
+- **Job Title:** Blockchain Developer
+- **Company:** Askgalore Digital
+- **Location:** N/A, N/A, US
+- **Job Description:** As a Blockchain Developer at Askgalore Digital India Pvt. Ltd, you will drive the development of high-performance, scalable backend systems powering our web applications. Collaborating with cross-functional teams, you will build and maintain APIs, backend services, and blockchain-based solutions tailored to meet our business needs.
+
+Key Responsibilities:
+• Lead blockchain development activities, primarily in Solidity, for EVM-based blockchains using tools like Hardhat, Truffle, Web3.js, Ether.js, and Ganache.
+• Design, develop, and maintain smart contracts and decentralized applications (dApps), ensuring seamless Web3 integrations.
+• Implement and optimize backend services and APIs for blockchain applications using Node.js and Python where needed.
+• Ensure the security, scalability, and performance of smart contracts and blockchain solutions.
+• Integrate blockchain APIs and ensure smooth end-to-end Web3 user experiences. Knowledge of React and Next Js is preferred.
+• Stay updated with emerging blockchain technologies,frameworks, and security best practices.
+• Conduct thorough code reviews of smart contracts and blockchain components to maintain quality and security standards.
+• Troubleshoot, debug and enhance smart contract functionality to improve performance and mitigate risks.
+
+Required Skills and Qualifications:
+• Bachelor’s degree in Computer Science, Engineering, or a related field.
+• Proficiency in Solidity, with experience in developing smart contracts and working with EVM protocols.
+• Strong knowledge of Web3.js, Ether.js, and TypeScript for dApp development and blockchain integrations.
+• Familiarity with blockchain development frameworks such asHardhat, Truffle, and Ganache.
+• Experience in backend development with Node.js and Python,as well as MERN stack for full-stack projects.
+• Experience with Git or other version control systems.
+• Strong communication and collaboration skills, particularly in cross-functional teams.
+
+Benefits:
+• Opportunities for professional growth and career development.
+• Exposure to cutting-edge projects in AI, Web3, and Climate Tech.
+• Dynamic and collaborative work environment with flexible arrangements.
+
+Salary & Compensation:
+• CTC and remuneration will align with industry standards, given the high-impact nature of the projects.
+
+Working Hours
+• 9:30 AM - 6:30 PM
+
+Join us at AskGalore, where innovation meets excellence! If you're passionate about blockchain, AI, and building impactful projects, apply today to become part of our dynamic team.
+
+Job Summary
+
+Location
+Maple Street, Bhopal
+
+Job Type
+Blockchain Developer
+
+Experience
+3+ years
+
+Working Hours
+9:30 AM - 6:30 PM
+
+Vacancy
+No.of Vacancy: 02
+
+Our Statement
+
+Join AskGalore's internship program to be part of a vibrant team! We're eager to welcome interns who bring fresh perspectives and innovation. Discover a dynamic environment, gain valuable experiences, and contribute to the future of digital innovation with us!
+
+- **Apply here:** [Apply here](https://in.indeed.com/viewjob?jk=78361830ab80f969&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
+
+---
+
+## Job 5
 
 - **Job Title:** Blockchain Developer Intern
 - **Company:** Confidential
@@ -168,113 +285,6 @@ Skills: smart contracts,blockchain development,collaboration,communication,go,bl
 
 ---
 
-## Job 4
 
-- **Job Title:** Blockchain Developer
-- **Company:** Askgalore Digital
-- **Location:** N/A, N/A, US
-- **Job Description:** As a Blockchain Developer at Askgalore Digital India Pvt. Ltd, you will drive the development of high-performance, scalable backend systems powering our web applications. Collaborating with cross-functional teams, you will build and maintain APIs, backend services, and blockchain-based solutions tailored to meet our business needs.
-
-Key Responsibilities:
-• Lead blockchain development activities, primarily in Solidity, for EVM-based blockchains using tools like Hardhat, Truffle, Web3.js, Ether.js, and Ganache.
-• Design, develop, and maintain smart contracts and decentralized applications (dApps), ensuring seamless Web3 integrations.
-• Implement and optimize backend services and APIs for blockchain applications using Node.js and Python where needed.
-• Ensure the security, scalability, and performance of smart contracts and blockchain solutions.
-• Integrate blockchain APIs and ensure smooth end-to-end Web3 user experiences. Knowledge of React and Next Js is preferred.
-• Stay updated with emerging blockchain technologies,frameworks, and security best practices.
-• Conduct thorough code reviews of smart contracts and blockchain components to maintain quality and security standards.
-• Troubleshoot, debug and enhance smart contract functionality to improve performance and mitigate risks.
-
-Required Skills and Qualifications:
-• Bachelor’s degree in Computer Science, Engineering, or a related field.
-• Proficiency in Solidity, with experience in developing smart contracts and working with EVM protocols.
-• Strong knowledge of Web3.js, Ether.js, and TypeScript for dApp development and blockchain integrations.
-• Familiarity with blockchain development frameworks such asHardhat, Truffle, and Ganache.
-• Experience in backend development with Node.js and Python,as well as MERN stack for full-stack projects.
-• Experience with Git or other version control systems.
-• Strong communication and collaboration skills, particularly in cross-functional teams.
-
-Benefits:
-• Opportunities for professional growth and career development.
-• Exposure to cutting-edge projects in AI, Web3, and Climate Tech.
-• Dynamic and collaborative work environment with flexible arrangements.
-
-Salary & Compensation:
-• CTC and remuneration will align with industry standards, given the high-impact nature of the projects.
-
-Working Hours
-• 9:30 AM - 6:30 PM
-
-Join us at AskGalore, where innovation meets excellence! If you're passionate about blockchain, AI, and building impactful projects, apply today to become part of our dynamic team.
-
-Job Summary
-
-Location
-Maple Street, Bhopal
-
-Job Type
-Blockchain Developer
-
-Experience
-3+ years
-
-Working Hours
-9:30 AM - 6:30 PM
-
-Vacancy
-No.of Vacancy: 02
-
-Our Statement
-
-Join AskGalore's internship program to be part of a vibrant team! We're eager to welcome interns who bring fresh perspectives and innovation. Discover a dynamic environment, gain valuable experiences, and contribute to the future of digital innovation with us!
-
-- **Apply here:** [Apply here](https://in.indeed.com/viewjob?jk=78361830ab80f969&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
-
----
-
-## Job 5
-
-- **Job Title:** Blockchain  Developer
-- **Company:** Laika AI
-- **Location:** N/A, N/A, US
-- **Job Description:** Company Overview. Laika AI is a leading provider of AI-driven tools and services, pushing the envelope in Web3 technologies. Focused on decentralizing digital services, Laika AI is pioneering new ways to innovate in blockchain and decentralized applications. Our goal is to transform the digital landscape by simplifying complex tasks, optimizing strategies, and improving security. As part of our team, you’ll have the opportunity to contribute to groundbreaking advancements in AI and blockchain technology.
-
-Role Overview
-
-As a Blockchain Intern, your role will primarily involve blockchain analysis, cryptocurrency research, and financial analysis in the Web3 ecosystem. You will gain hands-on experience in the exciting world of decentralized finance (DeFi), blockchain security, and blockchain-driven innovations.
-
-Responsibilities
-• Analyze blockchain networks, cryptocurrencies, and Web3 technologies to extract valuable insights.
-• Conduct research on the latest blockchain trends, DeFi platforms, NFTs, and cryptocurrency market dynamics.
-• Contribute to the development of strategies that enhance blockchain security and optimize decentralized applications (dApps).
-• Assist in financial modeling and analysis for blockchain-based projects and initiatives.
-
-Work closely with team members to propose new ideas and improve the company’s offerings in the blockchain space.
-
-Qualifications
-• Understanding of blockchain technology and how it powers decentralized applications.
-• Analytical skills, with a keen interest in cryptocurrency and blockchain finance.
-• Strong problem-solving ability, with a passion for working independently in a remote environment.
-• Ability to quickly learn and apply new concepts in blockchain analysis and Web3 technologies.
-
-Preferred Skills
-• Experience with DeFi (Decentralized Finance), NFTs (Non-Fungible Tokens), and smart contracts.
-• Knowledge of cryptocurrency trading, markets, and financial analysis within the blockchain ecosystem.
-
-Educational Background
-• Bachelor’s degree (or currently enrolled) in Finance, Computer Science, Engineering, or a related field.
-
-Benefits
-• Gain in-depth exposure to the rapidly evolving world of Web3 and blockchain technologies.
-• Hands-on experience with DeFi, NFTs, and blockchain applications.
-• Remote work flexibility and the chance to develop professional skills in a fast-growing sector.
-
-How to Apply. Click on the Easy Apply button to submit your application today. Be part of the next generation of blockchain innovators at Laika AI!
-
-- **Apply here:** [Apply here](https://web3universe.today/job/blockchain-developer-101/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
-
----
-
-
-Updated on: [4/1/2025]
+Updated on: [5/1/2025]
 <!-- #jobEnd -->
