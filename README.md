@@ -70,6 +70,73 @@ __________________________
 
 ## Job 2
 
+- **Job Title:** Blockchain Developer Internship
+- **Company:** Subash Vijay Associates (SVA)
+- **Location:** N/A, N/A, US
+- **Job Description:** About the internship:
+Selected intern's day-to-day responsibilities include:
+
+1. Fork and customize blockchain platforms like Bitcoin or Ethereum to meet specific project requirements.
+
+2. Enhance blockchain core functionalities, optimizing for performance, scalability, and security.
+
+3. Collaborate with the development team to implement consensus mechanisms, cryptographic protocols, and other blockchain solutions.
+
+4. Write clean, efficient, and maintainable code in C++ and Go (Rust is a plus).
+
+Who can apply
+
+Only those candidates can apply who:
+
+1. are available for full time (in-office) internship
+
+2. can start the internship between 9th Jan'25 and 13th Feb'25
+
+3. are available for duration of 3 months
+
+4. are from or open to relocate to Mumbai and neighboring cities
+
+5. have relevant skills and interests
+• Women wanting to start/restart their career can also apply.
+• Freshers looking for jobs may also apply
+
+Stipend:
+INR ₹ 5,000-8,000 /month
+
+Deadline:
+2025-02-09 23:59:59
+
+Other perks:
+Certificate, Letter of recommendation, Flexible work hours, Informal dress code, 5 days a week, Free snacks & beverages, Job offer
+
+Skills required:
+Git, C++ Programming, Blockchain, Ethereum and Rust
+
+Other Requirements:
+
+Education: Degree in computer science, engineering, or a related field. Blockchain-related certifications or coursework is a plus.
+
+Core Technical Skills:
+
+Strong programming experience in C++ and Go (Rust is an added advantage).
+
+Solid understanding of blockchain fundamentals, including consensus mechanisms and cryptography.
+
+Familiarity with decentralized applications (dApps) and smart contracts is a plus.
+
+Knowledge of version control tools such as Git.
+
+Bonus Skills: Experience with blockchain platforms like Bitcoin or Ethereum is a plus.
+
+About Company:
+Subash Vijay Associates (SVA) is a leading recruitment firm with over 50 years of experience in connecting businesses with top talent across Asia Pacific. We are a team of highly trained experts from various fields, dedicated to providing exceptional service and exceeding client expectations.
+
+- **Apply here:** [Apply here](https://internshala.com/internship/detail/blockchain-developer-internship-in-mumbai-at-subash-vijay-associates-sva1736486232?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
+
+---
+
+## Job 3
+
 - **Job Title:** Intern | Blockchain Developer
 - **Company:** The Blockjet Technologies
 - **Location:** Bengaluru, Karnataka, IN
@@ -93,7 +160,7 @@ __________________________
 
 ---
 
-## Job 3
+## Job 4
 
 - **Job Title:** Blockchain  Developer
 - **Company:** Laika AI
@@ -136,7 +203,7 @@ How to Apply. Click on the Easy Apply button to submit your application today. B
 
 ---
 
-## Job 4
+## Job 5
 
 - **Job Title:** Blockchain Development
 - **Company:** Codeminto
@@ -180,41 +247,6 @@ How to Apply. Ready to dive into the world of blockchain and Web3? Join Codemint
 
 ---
 
-## Job 5
 
-- **Job Title:** Gaming API & Blockchain Innovator Intern
-- **Company:** Catoff
-- **Location:** N/A, N/A, US
-- **Job Description:** Unlock Gaming Innovation with Catoff
-
-We are seeking a skilled and motivated individual to join our team as a Gaming API & Blockchain Innovator Intern. As a key member of our innovative team, you will play a vital role in redefining P2P wagering in gaming by combining Web3 innovation with traditional gaming experiences.
-
-About the Role:
-
-As a Gaming API & Blockchain Innovator Intern, you will be responsible for integrating Web2 gaming with decentralized systems, leveraging cutting-edge Web3 technologies, including zero-knowledge proofs and blockchain frameworks.
-
-Key Responsibilities:
-• API Integration: Research, identify, and integrate APIs from popular Web2 games (e.g., Fortnite, Call of Duty, League of Legends, etc.).
-• Data Handling & Analysis: Extract, process, and clean large datasets from gaming platforms to ensure high-quality insights.
-• zkFetch Development: Collaborate with the team to create zero-knowledge proof mechanisms for verifying gaming stats without compromising user privacy.
-• Collaboration: Work closely with blockchain engineers and product teams to align API and zkFetch functionality with the overall platform architecture.
-
-What We're Looking For:
-
-We are looking for a highly motivated and skilled individual with a passion for gaming and Web3 technologies. The ideal candidate should have experience with programming languages like Python, JavaScript, or Go, familiarity with APIs, RESTful services, and basic web scraping, and knowledge of data structures, algorithms, and working with JSON and XML.
-
-Benefits:
-• A competitive salary of $80,000 - $100,000 per year, depending on experience.
-• Hands-on experience in integrating Web2 gaming with decentralized systems.
-• Exposure to cutting-edge Web3 technologies, including zero-knowledge proofs and blockchain frameworks.
-• Opportunity to work with a dynamic, forward-thinking team passionate about gaming innovation.
-
-Reference Use Case: https://dial.to/?action=solana-action%3Ahttps%3A%2F%2Fvalorant.catoff.xyz%2Fapi%2Factions%2Fcreate-valorant-challenge%3Fclusterurl%3Dmainnet&cluster=mainnet
-
-- **Apply here:** [Apply here](https://in.bebee.com/job/a184de76a8ad693ba1ed567315d817cc?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
-
----
-
-
-Updated on: [10/1/2025]
+Updated on: [11/1/2025]
 <!-- #jobEnd -->
