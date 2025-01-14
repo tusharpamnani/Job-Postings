@@ -70,6 +70,73 @@ __________________________
 
 ## Job 2
 
+- **Job Title:** Blockchain Developer Internship
+- **Company:** Subash Vijay Associates (SVA)
+- **Location:** N/A, N/A, US
+- **Job Description:** About the internship:
+Selected intern's day-to-day responsibilities include:
+
+1. Fork and customize blockchain platforms like Bitcoin or Ethereum to meet specific project requirements.
+
+2. Enhance blockchain core functionalities, optimizing for performance, scalability, and security.
+
+3. Collaborate with the development team to implement consensus mechanisms, cryptographic protocols, and other blockchain solutions.
+
+4. Write clean, efficient, and maintainable code in C++ and Go (Rust is a plus).
+
+Who can apply
+
+Only those candidates can apply who:
+
+1. are available for full time (in-office) internship
+
+2. can start the internship between 9th Jan'25 and 13th Feb'25
+
+3. are available for duration of 3 months
+
+4. are from or open to relocate to Mumbai and neighboring cities
+
+5. have relevant skills and interests
+• Women wanting to start/restart their career can also apply.
+• Freshers looking for jobs may also apply
+
+Stipend:
+INR ₹ 5,000-8,000 /month
+
+Deadline:
+2025-02-09 23:59:59
+
+Other perks:
+Certificate, Letter of recommendation, Flexible work hours, Informal dress code, 5 days a week, Free snacks & beverages, Job offer
+
+Skills required:
+Git, C++ Programming, Blockchain, Ethereum and Rust
+
+Other Requirements:
+
+Education: Degree in computer science, engineering, or a related field. Blockchain-related certifications or coursework is a plus.
+
+Core Technical Skills:
+
+Strong programming experience in C++ and Go (Rust is an added advantage).
+
+Solid understanding of blockchain fundamentals, including consensus mechanisms and cryptography.
+
+Familiarity with decentralized applications (dApps) and smart contracts is a plus.
+
+Knowledge of version control tools such as Git.
+
+Bonus Skills: Experience with blockchain platforms like Bitcoin or Ethereum is a plus.
+
+About Company:
+Subash Vijay Associates (SVA) is a leading recruitment firm with over 50 years of experience in connecting businesses with top talent across Asia Pacific. We are a team of highly trained experts from various fields, dedicated to providing exceptional service and exceeding client expectations.
+
+- **Apply here:** [Apply here](https://internshala.com/internship/detail/blockchain-developer-internship-in-mumbai-at-subash-vijay-associates-sva1736486232?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
+
+---
+
+## Job 3
+
 - **Job Title:** Intern | Blockchain Developer
 - **Company:** The Blockjet Technologies
 - **Location:** Bengaluru, Karnataka, IN
@@ -93,7 +160,7 @@ __________________________
 
 ---
 
-## Job 3
+## Job 4
 
 - **Job Title:** Blockchain  Developer
 - **Company:** Laika AI
@@ -136,7 +203,7 @@ How to Apply. Click on the Easy Apply button to submit your application today. B
 
 ---
 
-## Job 4
+## Job 5
 
 - **Job Title:** Blockchain Development
 - **Company:** Codeminto
@@ -180,27 +247,6 @@ How to Apply. Ready to dive into the world of blockchain and Web3? Join Codemint
 
 ---
 
-## Job 5
 
-- **Job Title:** Full Stack Developer Intern
-- **Company:** Cypherock
-- **Location:** N/A, N/A, US
-- **Job Description:** At Cypherock, We are disrupting the current financial system by increasing the adoption of Blockchain-based digital assets through better key management solutions. We build "Worlds' first products" from India, work at the intersection of Blockchain, Security, Embedded Hardware and Cryptography, and have worked with companies like Google, Blockgeeks, Samsung, Lockheed Martin, Apollo Munich, Bank of America amongst others.
-
-As the primary person responsible for everything Blockchain in the company, we think it will be a great fit if -
-• You love everything Crypto and are passionate to create the World's safest Crypto wallet.
-• You have MERN stack & DevOps experience on AWS.
-• You have reasonable open-source development experience and have shipped production-ready code.
-• You can commit for at least 6 months and you are ideally in your 4th year of college and willing to join full time after the internship if mutually agreed.
-
-If we decide to work together, we believe you would be a key team member who helps in the mass adoption of Crypto for the first billion users.
-
-Skills:- Express, DevOps, Blockchain, Wallet (Blockchain), TypeScript, Amazon Web Services (AWS), Web3js, GitHub and Bitcoin
-
-- **Apply here:** [Apply here](https://in.linkedin.com/jobs/view/full-stack-developer-intern-at-cypherock-3627620001?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
-
----
-
-
-Updated on: [13/1/2025]
+Updated on: [14/1/2025]
 <!-- #jobEnd -->
