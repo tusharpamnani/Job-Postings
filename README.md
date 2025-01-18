@@ -182,5 +182,5 @@ How to Apply. Ready to dive into the world of blockchain and Web3? Join Codemint
 ---
 
 
-Updated on: [17/1/2025]
+Updated on: [18/1/2025]
 <!-- #jobEnd -->
