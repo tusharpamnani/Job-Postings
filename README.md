@@ -4,6 +4,72 @@
 
 ## Job 1
 
+- **Job Title:** Blockchain Internship
+- **Company:** Hashstack
+- **Location:** N/A, N/A, US
+- **Job Description:** Hashstack
+
+Hashstack is on a mission to build an ecosystem of trustless, borderless autonomous financial
+
+products that serve the needs of millions of underserved around the world. Our product, Open
+
+protocol facilitates secure under-collateralized loans to the retail cryptocurrency market.
+
+This is an onsite role in Bangalore, India.
+
+Our Technology
+
+We use NodeJs in the backend to monitor on-chain & off-chain proceses. The client is built in
+
+ReactJs/Ant UI. Our APIs are served through GraphQL. We have a dual server set-up. Our
+
+infrastructure is deployed on aws & gcp.
+
+Requirement
+• Practical experience developing smart contracts in Solidity is a mandate.
+• Can write secure, scalable smart contracts on Ethereum as well as EVM compatible
+blockchains such as Binance smart chain, Polygon.
+• Good to have at least 1 live project(s) on-chain.
+• Good knowledge in fungible & non-fungible token standards.
+• Test driven development.
+• Practical knowledge of web3/ethers, truffle/hardhat, truffle/hd-wallet, ganache-cli,
+smartcontract oracles, Infura is an advantage.
+• Methodical approach to every day tech problems.
+• Familiar with the linguistics of decentralised finance.
+
+Bonus points [Nice to have]
+
+● First principle thinking.
+
+● Practical knowwledge of Github workflows, typescript, reactJs.
+
+● Technical understanding of Hardhat, EthersJs, Diamond standard/Proxy pattern.
+
+● Positive references.
+
+Scope of work
+• Develop secure, scalable & upgradeable smart contracts basing EIP 2535.
+• Write end-to-end unit and integration tests.
+• Collaborate closely with the development and product teams to ensure timely delivery.
+• Technical documentation.
+
+What to expect
+
+We are results driven. We get things done. We work hard. When we fail, we learn fast, & pick
+
+ourselves up.
+• Opportunity to work on meaningful problems.
+• Fast moving, challenging & complex business problems.
+• Competitive salary & flexible hours.
+• Meritocracy culture.
+__________________________
+
+- **Apply here:** [Apply here](https://wellfound.com/jobs/2395210-blockchain-internship?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
+
+---
+
+## Job 2
+
 - **Job Title:** Blockchain Developer Internship
 - **Company:** Subash Vijay Associates (SVA)
 - **Location:** N/A, N/A, US
@@ -62,59 +128,6 @@ About Company:
 Subash Vijay Associates (SVA) is a leading recruitment firm with over 50 years of experience in connecting businesses with top talent across Asia Pacific. We are a team of highly trained experts from various fields, dedicated to providing exceptional service and exceeding client expectations.
 
 - **Apply here:** [Apply here](https://internshala.com/internship/detail/blockchain-developer-internship-in-mumbai-at-subash-vijay-associates-sva1736486232?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
-
----
-
-## Job 2
-
-- **Job Title:** Blockchain (Web3) Intern
-- **Company:** Cloud Counselage Pvt Ltd
-- **Location:** N/A, N/A, US
-- **Job Description:** TO GET TIMELY UPDATES ON JOB OPENINGS, FEEL FREE TO JOIN OUR COMMUNITY @ https://www.industryacademiacommunity.com (4L+ MEMBERS FROM 35+ COUNTRIES)
-
-Job Overview:
-
-As a Blockchain Web3 Intern, you will have the opportunity to gain hands-on experience in the exciting and rapidly evolving field of blockchain technology. Under the guidance of experienced mentors, you will contribute to the development, testing, and deployment of cutting-edge decentralized applications and smart contracts. This internship offers a unique chance to work on real-world projects, collaborate with cross-functional teams, and expand your knowledge of blockchain and Web3 technologies.
-
-Responsibilities:
-• Assist in the design and implementation of smart contracts using Solidity or other blockchain programming languages
-• Contribute to the development of decentralized applications (dApps) utilizing Web3.js, Ethereum, or other blockchain platforms
-• Participate in code reviews, testing, and debugging to ensure the quality and security of blockchain-based solutions
-• Research and explore emerging trends, protocols, and tools in the blockchain and decentralized finance (DeFi) space
-• Collaborate with team members to brainstorm ideas, solve technical challenges, and optimize performance
-• Document project requirements, workflows, and best practices to support knowledge-sharing and future development efforts
-• Stay up-to-date with industry developments, attending workshops, webinars, and conferences as appropriate
-
-Mandatory Requirements:
-• Currently enrolled in a Diploma, Bachelor's or Master's degree program in Computer Science, Engineering, or a related field
-• Strong interest in blockchain technology, decentralized systems, and cryptocurrencies
-• Familiarity with programming languages such as JavaScript, Python, or Solidity
-• Basic understanding of blockchain concepts, including smart contracts, consensus mechanisms, and decentralized networks
-
-Preferred Requirements:
-• Prior experience with blockchain development tools and frameworks (e.g., Truffle, Ganache, Remix)
-• Knowledge of decentralized finance (DeFi) protocols such as Uniswap, Compound, or MakerDAO
-• Understanding of cryptographic principles and security best practices in blockchain applications
-• Contributions to open-source projects or participation in hackathons related to blockchain technology
-
-Qualities:
-• Excellent problem-solving skills and attention to detail
-• Ability to work independently and as part of a team in a fast-paced environment
-• Effective communication and interpersonal skills
-
-Benefits:
-• Opportunity to work on innovative projects with experienced mentors
-• Exposure to cutting-edge technologies and best practices in blockchain development
-• Flexible work hours and a supportive team culture
-• Potential for future full-time employment or recommendation for other opportunities based on performance during the internship
-
-Job Location: Remote/Hybrid/In-Office
-
-Note: To accomplish our vision, our Flagship Event 'IAC VISION 2030' would provide employment and career opportunities for millions of job-ready interns, freshers and professionals in our Industry Academia Community (IAC).
-
-By submitting your application you accept the Terms and Conditions.
-
-- **Apply here:** [Apply here](https://www.careers-page.com/cloud-counselage-pvt-ltd/job/L7377W75?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
 
 ---
 
@@ -235,5 +248,5 @@ How to Apply. Ready to dive into the world of blockchain and Web3? Join Codemint
 ---
 
 
-Updated on: [19/1/2025]
+Updated on: [20/1/2025]
 <!-- #jobEnd -->
