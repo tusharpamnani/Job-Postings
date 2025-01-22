@@ -133,62 +133,9 @@ Subash Vijay Associates (SVA) is a leading recruitment firm with over 50 years o
 
 ## Job 3
 
-- **Job Title:** Blockchain (Web3) Intern
-- **Company:** Cloud Counselage Pvt Ltd
-- **Location:** N/A, N/A, US
-- **Job Description:** TO GET TIMELY UPDATES ON JOB OPENINGS, FEEL FREE TO JOIN OUR COMMUNITY @ https://www.industryacademiacommunity.com (4L+ MEMBERS FROM 35+ COUNTRIES)
-
-Job Overview:
-
-As a Blockchain Web3 Intern, you will have the opportunity to gain hands-on experience in the exciting and rapidly evolving field of blockchain technology. Under the guidance of experienced mentors, you will contribute to the development, testing, and deployment of cutting-edge decentralized applications and smart contracts. This internship offers a unique chance to work on real-world projects, collaborate with cross-functional teams, and expand your knowledge of blockchain and Web3 technologies.
-
-Responsibilities:
-• Assist in the design and implementation of smart contracts using Solidity or other blockchain programming languages
-• Contribute to the development of decentralized applications (dApps) utilizing Web3.js, Ethereum, or other blockchain platforms
-• Participate in code reviews, testing, and debugging to ensure the quality and security of blockchain-based solutions
-• Research and explore emerging trends, protocols, and tools in the blockchain and decentralized finance (DeFi) space
-• Collaborate with team members to brainstorm ideas, solve technical challenges, and optimize performance
-• Document project requirements, workflows, and best practices to support knowledge-sharing and future development efforts
-• Stay up-to-date with industry developments, attending workshops, webinars, and conferences as appropriate
-
-Mandatory Requirements:
-• Currently enrolled in a Diploma, Bachelor's or Master's degree program in Computer Science, Engineering, or a related field
-• Strong interest in blockchain technology, decentralized systems, and cryptocurrencies
-• Familiarity with programming languages such as JavaScript, Python, or Solidity
-• Basic understanding of blockchain concepts, including smart contracts, consensus mechanisms, and decentralized networks
-
-Preferred Requirements:
-• Prior experience with blockchain development tools and frameworks (e.g., Truffle, Ganache, Remix)
-• Knowledge of decentralized finance (DeFi) protocols such as Uniswap, Compound, or MakerDAO
-• Understanding of cryptographic principles and security best practices in blockchain applications
-• Contributions to open-source projects or participation in hackathons related to blockchain technology
-
-Qualities:
-• Excellent problem-solving skills and attention to detail
-• Ability to work independently and as part of a team in a fast-paced environment
-• Effective communication and interpersonal skills
-
-Benefits:
-• Opportunity to work on innovative projects with experienced mentors
-• Exposure to cutting-edge technologies and best practices in blockchain development
-• Flexible work hours and a supportive team culture
-• Potential for future full-time employment or recommendation for other opportunities based on performance during the internship
-
-Job Location: Remote/Hybrid/In-Office
-
-Note: To accomplish our vision, our Flagship Event 'IAC VISION 2030' would provide employment and career opportunities for millions of job-ready interns, freshers and professionals in our Industry Academia Community (IAC).
-
-By submitting your application you accept the Terms and Conditions.
-
-- **Apply here:** [Apply here](https://www.careers-page.com/cloud-counselage-pvt-ltd/job/L7377W75?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
-
----
-
-## Job 4
-
 - **Job Title:** Intern | Blockchain Developer
 - **Company:** The Blockjet Technologies
-- **Location:** N/A, N/A, US
+- **Location:** Bengaluru, Karnataka, IN
 - **Job Description:** **~ what we are looking for ~**
 -understanding with Javascript and Node.js + TypeScript , Express JS
 -Familiar with JS tools
@@ -209,7 +156,7 @@ By submitting your application you accept the Terms and Conditions.
 
 ---
 
-## Job 5
+## Job 4
 
 - **Job Title:** Blockchain Developer Intern
 - **Company:** Hubnex Labs
@@ -256,6 +203,50 @@ Note: This is a unpaid internship.Skills: smart contracts,blockchain development
 
 ---
 
+## Job 5
 
-Updated on: [21/1/2025]
+- **Job Title:** Blockchain Development
+- **Company:** Codeminto
+- **Location:** N/A, N/A, US
+- **Job Description:** About Codeminto
+
+At Codeminto, we specialize in delivering cutting-edge solutions in blockchain development, smart contract auditing, EVM dApps, Solana dApps, and AI/GenAI technologies. With over 7 years of experience in blockchain technology, we help businesses harness the power of decentralized systems and AI to create secure, scalable, and innovative solutions. Our mission is to push the boundaries of what’s possible, crafting impactful products that drive success in the evolving Web3 and AI ecosystems. If you’re ready to make an impact in the future of blockchain and AI, Codeminto is the place for you.
+
+Role Overview
+
+We’re looking for a Blockchain Development Intern to join our innovative team in Ahmedabad. This hybrid role will allow you to work closely with experienced developers while gaining hands-on experience in building decentralized applications (dApps) and smart contracts. If you are passionate about blockchain, smart contracts, and decentralized technologies, and want to be part of a cutting-edge company, this is a great opportunity for you!
+
+Key Responsibilities
+• Build and audit smart contracts using Solidity and Rust, ensuring their functionality, security, and scalability.
+• Develop and optimize React.js front-end applications for blockchain-based projects, ensuring seamless integration with smart contracts and decentralized systems.
+• Contribute to the creation and deployment of EVM and Solana-based decentralized applications (dApps), helping to bring blockchain projects to life.
+• Work on integrating smart contracts with React-based dApps, ensuring smooth interaction and providing users with an intuitive experience.
+• Stay up-to-date with the latest blockchain tools, trends, and technologies in the Web3 space. Apply new insights to improve project outcomes and explore innovative solutions.
+• Help debug, test, and deploy blockchain projects, ensuring real-world usability and optimizing applications for scalability and performance.
+• Collaborate with senior developers and team members to optimize blockchain infrastructure. Document processes, write technical reports, and maintain detailed project records to ensure clear communication across teams.
+
+Desired Skills & Experience
+• Proficiency in JavaScript, Node.js, and ideally familiarity with Rust for smart contract development.
+• Strong understanding of blockchain technologies, particularly Ethereum and Solana, and the ability to work on EVM-based dApps.
+• Hands-on experience or coursework in Solidity and Rust for developing and deploying smart contracts.
+• Familiarity with React.js and its integration with blockchain technology to build seamless, user-friendly decentralized applications.
+• Knowledge of Web3 tools like MetaMask, Web3.js, or Ethers.js is a plus.
+• Ability to tackle challenges related to blockchain development, smart contract optimization, and performance issues.
+• Strong communication skills and a collaborative mindset to work effectively with senior developers and cross-functional teams.
+
+What We Offer
+• Work on real-world blockchain and AI projects, gaining invaluable experience in smart contract development, dApp creation, and Web3 technologies.
+• Enjoy a flexible work environment with the opportunity to work both in-office and remotely.
+• Work closely with industry professionals who will guide and mentor you throughout your internship, helping you grow your skills and advance your career.
+• Get hands-on experience with Solidity, Rust, EVM, Solana, and more, working on high-impact blockchain solutions.
+• Codeminto believes in nurturing talent and providing opportunities for career growth within the company. Your contributions will be highly valued.
+
+How to Apply. Ready to dive into the world of blockchain and Web3? Join Codeminto for an exciting internship where you can grow your skills, work on real-world projects, and be part of a team that’s shaping the future of decentralized technology.
+
+- **Apply here:** [Apply here](https://web3universe.today/job/blockchain-development/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
+
+---
+
+
+Updated on: [22/1/2025]
 <!-- #jobEnd -->
