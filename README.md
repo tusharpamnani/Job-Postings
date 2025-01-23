@@ -158,6 +158,44 @@ Subash Vijay Associates (SVA) is a leading recruitment firm with over 50 years o
 
 ## Job 4
 
+- **Job Title:** Crypto Analyst Intern
+- **Company:** AMINA Bank
+- **Location:** N/A, N/A, US
+- **Job Description:** About AMINA
+
+Founded in April 2018 and headquartered in Zug, AMINA Bank is a pioneer in the financial industry providing a seamless, secure and easy-to-use bridge between digital and traditional assets. As a smart bank AMINA Bank offers a fully universal suite of regulated banking services in the emerging digital economy. In August 2019, AMINA Bank received a Swiss banking and securities dealer license – the first time a reputed, regulatory authority such as FINMA has granted a license to a financial services provider with a core capability in digital assets. The broad, vertically integrated spectrum of services combined with the highest security standards, make AMINA Bank’s value proposition unique. CVVC Global Report and CB Insights names AMINA Bank as Top 50 Companies within the blockchain ecosystem.
+
+AMINA India is a wholly owned subsidiary of AMINA Bank AG. AMINA India acts as a virtual extension of the bank supporting activities spanning digital assets research, investment solutions, trading & liquidity management, risk management, mid/back-office & IT operations and more recently technology and product.
+
+About the Role:
+
+We are looking for a motivated and detail-oriented Crypto Analyst Intern to join our team. In this role, you will dive deep into the rapidly evolving world of cryptocurrencies and blockchain technology, helping us analyze market trends, evaluate projects, and contribute to data-driven insights.
+
+In this role, you will be responsible for the following:
+• Conduct in-depth research on crypto markets and blockchain projects, evaluating technical features, tokenomics, and use cases.
+• Develop and maintain comprehensive crypto analytical dashboards through in-depth blockchain data analysis and market trend evaluation, leveraging specialized crypto tools and platforms for data collection and insights.
+• Assist in preparing research reports and presentations for internal stakeholders
+• Contribute to the team's understanding of emerging crypto technologies and use cases
+
+For you to become part of AMINA’s journey, we require the following:
+• Current enrollment in a bachelor's or master's degree program in Finance, Economics, Computer Science, or a related field is preferred
+• 2+ years of experience or strong personal interest in the field of cryptocurrencies, digital assets, blockchain technology and financial markets.
+• Familiarity with blockchain tools and platforms is a plus (e.g. Dune Analytics, blockchain explorers, and Arkham Intelligence).
+• Analytical mindset with a focus on data interpretation and insights generation.
+• Proficiency in data analysis and visualization tools is a plus (e.g., Python, R, Tableau)
+• Excellent research and communication skills, with the ability to explain complex concepts clearly.
+• Proactive and eager to learn in a fast-paced environment.
+
+Join our skilled team and together redefine finance.
+
+We owe our exponential growth to our innovative and collaborate team spirit and talented workforce. Every voice counts as we are always committed to learning from diverse perspectives and backgrounds because our people make the difference at AMINA Bank. Regardless of your age, gender, belief, and background, at AMINA EVERYONE (E) is welcome!
+
+- **Apply here:** [Apply here](https://in.linkedin.com/jobs/view/crypto-analyst-intern-at-amina-bank-4129886439?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
+
+---
+
+## Job 5
+
 - **Job Title:** Blockchain Developer Intern
 - **Company:** Hubnex Labs
 - **Location:** N/A, N/A, US
@@ -203,50 +241,6 @@ Note: This is a unpaid internship.Skills: smart contracts,blockchain development
 
 ---
 
-## Job 5
 
-- **Job Title:** Blockchain Development
-- **Company:** Codeminto
-- **Location:** N/A, N/A, US
-- **Job Description:** About Codeminto
-
-At Codeminto, we specialize in delivering cutting-edge solutions in blockchain development, smart contract auditing, EVM dApps, Solana dApps, and AI/GenAI technologies. With over 7 years of experience in blockchain technology, we help businesses harness the power of decentralized systems and AI to create secure, scalable, and innovative solutions. Our mission is to push the boundaries of what’s possible, crafting impactful products that drive success in the evolving Web3 and AI ecosystems. If you’re ready to make an impact in the future of blockchain and AI, Codeminto is the place for you.
-
-Role Overview
-
-We’re looking for a Blockchain Development Intern to join our innovative team in Ahmedabad. This hybrid role will allow you to work closely with experienced developers while gaining hands-on experience in building decentralized applications (dApps) and smart contracts. If you are passionate about blockchain, smart contracts, and decentralized technologies, and want to be part of a cutting-edge company, this is a great opportunity for you!
-
-Key Responsibilities
-• Build and audit smart contracts using Solidity and Rust, ensuring their functionality, security, and scalability.
-• Develop and optimize React.js front-end applications for blockchain-based projects, ensuring seamless integration with smart contracts and decentralized systems.
-• Contribute to the creation and deployment of EVM and Solana-based decentralized applications (dApps), helping to bring blockchain projects to life.
-• Work on integrating smart contracts with React-based dApps, ensuring smooth interaction and providing users with an intuitive experience.
-• Stay up-to-date with the latest blockchain tools, trends, and technologies in the Web3 space. Apply new insights to improve project outcomes and explore innovative solutions.
-• Help debug, test, and deploy blockchain projects, ensuring real-world usability and optimizing applications for scalability and performance.
-• Collaborate with senior developers and team members to optimize blockchain infrastructure. Document processes, write technical reports, and maintain detailed project records to ensure clear communication across teams.
-
-Desired Skills & Experience
-• Proficiency in JavaScript, Node.js, and ideally familiarity with Rust for smart contract development.
-• Strong understanding of blockchain technologies, particularly Ethereum and Solana, and the ability to work on EVM-based dApps.
-• Hands-on experience or coursework in Solidity and Rust for developing and deploying smart contracts.
-• Familiarity with React.js and its integration with blockchain technology to build seamless, user-friendly decentralized applications.
-• Knowledge of Web3 tools like MetaMask, Web3.js, or Ethers.js is a plus.
-• Ability to tackle challenges related to blockchain development, smart contract optimization, and performance issues.
-• Strong communication skills and a collaborative mindset to work effectively with senior developers and cross-functional teams.
-
-What We Offer
-• Work on real-world blockchain and AI projects, gaining invaluable experience in smart contract development, dApp creation, and Web3 technologies.
-• Enjoy a flexible work environment with the opportunity to work both in-office and remotely.
-• Work closely with industry professionals who will guide and mentor you throughout your internship, helping you grow your skills and advance your career.
-• Get hands-on experience with Solidity, Rust, EVM, Solana, and more, working on high-impact blockchain solutions.
-• Codeminto believes in nurturing talent and providing opportunities for career growth within the company. Your contributions will be highly valued.
-
-How to Apply. Ready to dive into the world of blockchain and Web3? Join Codeminto for an exciting internship where you can grow your skills, work on real-world projects, and be part of a team that’s shaping the future of decentralized technology.
-
-- **Apply here:** [Apply here](https://web3universe.today/job/blockchain-development/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
-
----
-
-
-Updated on: [22/1/2025]
+Updated on: [23/1/2025]
 <!-- #jobEnd -->
