@@ -158,44 +158,6 @@ Subash Vijay Associates (SVA) is a leading recruitment firm with over 50 years o
 
 ## Job 4
 
-- **Job Title:** Crypto Analyst Intern
-- **Company:** AMINA Bank
-- **Location:** N/A, N/A, US
-- **Job Description:** About AMINA
-
-Founded in April 2018 and headquartered in Zug, AMINA Bank is a pioneer in the financial industry providing a seamless, secure and easy-to-use bridge between digital and traditional assets. As a smart bank AMINA Bank offers a fully universal suite of regulated banking services in the emerging digital economy. In August 2019, AMINA Bank received a Swiss banking and securities dealer license – the first time a reputed, regulatory authority such as FINMA has granted a license to a financial services provider with a core capability in digital assets. The broad, vertically integrated spectrum of services combined with the highest security standards, make AMINA Bank’s value proposition unique. CVVC Global Report and CB Insights names AMINA Bank as Top 50 Companies within the blockchain ecosystem.
-
-AMINA India is a wholly owned subsidiary of AMINA Bank AG. AMINA India acts as a virtual extension of the bank supporting activities spanning digital assets research, investment solutions, trading & liquidity management, risk management, mid/back-office & IT operations and more recently technology and product.
-
-About the Role:
-
-We are looking for a motivated and detail-oriented Crypto Analyst Intern to join our team. In this role, you will dive deep into the rapidly evolving world of cryptocurrencies and blockchain technology, helping us analyze market trends, evaluate projects, and contribute to data-driven insights.
-
-In this role, you will be responsible for the following:
-• Conduct in-depth research on crypto markets and blockchain projects, evaluating technical features, tokenomics, and use cases.
-• Develop and maintain comprehensive crypto analytical dashboards through in-depth blockchain data analysis and market trend evaluation, leveraging specialized crypto tools and platforms for data collection and insights.
-• Assist in preparing research reports and presentations for internal stakeholders
-• Contribute to the team's understanding of emerging crypto technologies and use cases
-
-For you to become part of AMINA’s journey, we require the following:
-• Current enrollment in a bachelor's or master's degree program in Finance, Economics, Computer Science, or a related field is preferred
-• 2+ years of experience or strong personal interest in the field of cryptocurrencies, digital assets, blockchain technology and financial markets.
-• Familiarity with blockchain tools and platforms is a plus (e.g. Dune Analytics, blockchain explorers, and Arkham Intelligence).
-• Analytical mindset with a focus on data interpretation and insights generation.
-• Proficiency in data analysis and visualization tools is a plus (e.g., Python, R, Tableau)
-• Excellent research and communication skills, with the ability to explain complex concepts clearly.
-• Proactive and eager to learn in a fast-paced environment.
-
-Join our skilled team and together redefine finance.
-
-We owe our exponential growth to our innovative and collaborate team spirit and talented workforce. Every voice counts as we are always committed to learning from diverse perspectives and backgrounds because our people make the difference at AMINA Bank. Regardless of your age, gender, belief, and background, at AMINA EVERYONE (E) is welcome!
-
-- **Apply here:** [Apply here](https://in.linkedin.com/jobs/view/crypto-analyst-intern-at-amina-bank-4129886439?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
-
----
-
-## Job 5
-
 - **Job Title:** Blockchain Developer Intern
 - **Company:** Hubnex Labs
 - **Location:** N/A, N/A, US
@@ -241,6 +203,44 @@ Note: This is a unpaid internship.Skills: smart contracts,blockchain development
 
 ---
 
+## Job 5
 
-Updated on: [23/1/2025]
+- **Job Title:** Crypto Analyst Intern
+- **Company:** AMINA Bank
+- **Location:** N/A, N/A, US
+- **Job Description:** About AMINA
+
+Founded in April 2018 and headquartered in Zug, AMINA Bank is a pioneer in the financial industry providing a seamless, secure and easy-to-use bridge between digital and traditional assets. As a smart bank AMINA Bank offers a fully universal suite of regulated banking services in the emerging digital economy. In August 2019, AMINA Bank received a Swiss banking and securities dealer license – the first time a reputed, regulatory authority such as FINMA has granted a license to a financial services provider with a core capability in digital assets. The broad, vertically integrated spectrum of services combined with the highest security standards, make AMINA Bank’s value proposition unique. CVVC Global Report and CB Insights names AMINA Bank as Top 50 Companies within the blockchain ecosystem.
+
+AMINA India is a wholly owned subsidiary of AMINA Bank AG. AMINA India acts as a virtual extension of the bank supporting activities spanning digital assets research, investment solutions, trading & liquidity management, risk management, mid/back-office & IT operations and more recently technology and product.
+
+About the Role:
+
+We are looking for a motivated and detail-oriented Crypto Analyst Intern to join our team. In this role, you will dive deep into the rapidly evolving world of cryptocurrencies and blockchain technology, helping us analyze market trends, evaluate projects, and contribute to data-driven insights.
+
+In this role, you will be responsible for the following:
+• Conduct in-depth research on crypto markets and blockchain projects, evaluating technical features, tokenomics, and use cases.
+• Develop and maintain comprehensive crypto analytical dashboards through in-depth blockchain data analysis and market trend evaluation, leveraging specialized crypto tools and platforms for data collection and insights.
+• Assist in preparing research reports and presentations for internal stakeholders
+• Contribute to the team's understanding of emerging crypto technologies and use cases
+
+For you to become part of AMINA’s journey, we require the following:
+• Current enrollment in a bachelor's or master's degree program in Finance, Economics, Computer Science, or a related field is preferred
+• 2+ years of experience or strong personal interest in the field of cryptocurrencies, digital assets, blockchain technology and financial markets.
+• Familiarity with blockchain tools and platforms is a plus (e.g. Dune Analytics, blockchain explorers, and Arkham Intelligence).
+• Analytical mindset with a focus on data interpretation and insights generation.
+• Proficiency in data analysis and visualization tools is a plus (e.g., Python, R, Tableau)
+• Excellent research and communication skills, with the ability to explain complex concepts clearly.
+• Proactive and eager to learn in a fast-paced environment.
+
+Join our skilled team and together redefine finance.
+
+We owe our exponential growth to our innovative and collaborate team spirit and talented workforce. Every voice counts as we are always committed to learning from diverse perspectives and backgrounds because our people make the difference at AMINA Bank. Regardless of your age, gender, belief, and background, at AMINA EVERYONE (E) is welcome!
+
+- **Apply here:** [Apply here](https://in.linkedin.com/jobs/view/crypto-analyst-intern-at-amina-bank-4129886439?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
+
+---
+
+
+Updated on: [24/1/2025]
 <!-- #jobEnd -->
