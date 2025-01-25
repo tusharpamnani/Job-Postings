@@ -70,6 +70,35 @@ __________________________
 
 ## Job 2
 
+- **Job Title:** Blockchain Developer Internship Opportunity
+- **Company:** FinSocial Digital systems
+- **Location:** Nagpur, Maharashtra, IN
+- **Job Description:** Reformatting Text and Improving its Quality
+About the Internship Opportunity
+
+We are excited to offer a unique 4-month internship experience for individuals passionate about blockchain technology.
+Key Responsibilities:
+• Participate in real-world projects that involve designing blockchain architecture and decentralized applications (dApps).
+• Develop, test, and refine smart contracts using programming languages such as Solidity and others.
+• Collaborate with our team to conduct research on distributed ledger systems and implement consensus algorithms.
+• Stay current with the latest advancements and trends in blockchain technology.
+What You'll Gain from this Experience:
+• Practical knowledge and hands-on experience in blockchain development and related technologies.
+• A Certificate of Completion at the end of the internship.
+• Potential Letter of Recommendation based on performance.
+Internship Details:
+• Duration: 4 months
+• Location: Remote work arrangement
+• No compensation is provided for this internship opportunity
+
+This internship is ideal for students, recent graduates, or tech enthusiasts eager to build their skills and begin a career in blockchain development.
+
+- **Apply here:** [Apply here](https://in.bebee.com/job/748d06c52a744a67032c5ec8411d1a9c?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
+
+---
+
+## Job 3
+
 - **Job Title:** Blockchain Developer Internship
 - **Company:** Subash Vijay Associates (SVA)
 - **Location:** N/A, N/A, US
@@ -131,7 +160,60 @@ Subash Vijay Associates (SVA) is a leading recruitment firm with over 50 years o
 
 ---
 
-## Job 3
+## Job 4
+
+- **Job Title:** Blockchain (Web3) Intern
+- **Company:** Cloud Counselage Pvt Ltd
+- **Location:** N/A, N/A, US
+- **Job Description:** TO GET TIMELY UPDATES ON JOB OPENINGS, FEEL FREE TO JOIN OUR COMMUNITY @ https://www.industryacademiacommunity.com (4L+ MEMBERS FROM 35+ COUNTRIES)
+
+Job Overview:
+
+As a Blockchain Web3 Intern, you will have the opportunity to gain hands-on experience in the exciting and rapidly evolving field of blockchain technology. Under the guidance of experienced mentors, you will contribute to the development, testing, and deployment of cutting-edge decentralized applications and smart contracts. This internship offers a unique chance to work on real-world projects, collaborate with cross-functional teams, and expand your knowledge of blockchain and Web3 technologies.
+
+Responsibilities:
+• Assist in the design and implementation of smart contracts using Solidity or other blockchain programming languages
+• Contribute to the development of decentralized applications (dApps) utilizing Web3.js, Ethereum, or other blockchain platforms
+• Participate in code reviews, testing, and debugging to ensure the quality and security of blockchain-based solutions
+• Research and explore emerging trends, protocols, and tools in the blockchain and decentralized finance (DeFi) space
+• Collaborate with team members to brainstorm ideas, solve technical challenges, and optimize performance
+• Document project requirements, workflows, and best practices to support knowledge-sharing and future development efforts
+• Stay up-to-date with industry developments, attending workshops, webinars, and conferences as appropriate
+
+Mandatory Requirements:
+• Currently enrolled in a Diploma, Bachelor's or Master's degree program in Computer Science, Engineering, or a related field
+• Strong interest in blockchain technology, decentralized systems, and cryptocurrencies
+• Familiarity with programming languages such as JavaScript, Python, or Solidity
+• Basic understanding of blockchain concepts, including smart contracts, consensus mechanisms, and decentralized networks
+
+Preferred Requirements:
+• Prior experience with blockchain development tools and frameworks (e.g., Truffle, Ganache, Remix)
+• Knowledge of decentralized finance (DeFi) protocols such as Uniswap, Compound, or MakerDAO
+• Understanding of cryptographic principles and security best practices in blockchain applications
+• Contributions to open-source projects or participation in hackathons related to blockchain technology
+
+Qualities:
+• Excellent problem-solving skills and attention to detail
+• Ability to work independently and as part of a team in a fast-paced environment
+• Effective communication and interpersonal skills
+
+Benefits:
+• Opportunity to work on innovative projects with experienced mentors
+• Exposure to cutting-edge technologies and best practices in blockchain development
+• Flexible work hours and a supportive team culture
+• Potential for future full-time employment or recommendation for other opportunities based on performance during the internship
+
+Job Location: Remote/Hybrid/In-Office
+
+Note: To accomplish our vision, our Flagship Event 'IAC VISION 2030' would provide employment and career opportunities for millions of job-ready interns, freshers and professionals in our Industry Academia Community (IAC).
+
+By submitting your application you accept the Terms and Conditions.
+
+- **Apply here:** [Apply here](https://www.careers-page.com/cloud-counselage-pvt-ltd/job/L7377W75?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
+
+---
+
+## Job 5
 
 - **Job Title:** Intern | Blockchain Developer
 - **Company:** The Blockjet Technologies
@@ -156,91 +238,6 @@ Subash Vijay Associates (SVA) is a leading recruitment firm with over 50 years o
 
 ---
 
-## Job 4
 
-- **Job Title:** Blockchain Developer Intern
-- **Company:** Hubnex Labs
-- **Location:** N/A, N/A, US
-- **Job Description:** Job Description: Blockchain Developer Intern (Unpaid)
-
-Location: Remote
-
-Type: Internship (6 months, Unpaid)
-
-At Hubnex Labs, were at the forefront of technological innovation, and were looking for passionate and motivated Blockchain Developer Interns to join our team. This is a great opportunity to dive into the world of blockchain technology, gain hands-on experience, and contribute to real-world projects in a fast-paced startup environment.
-
-Key Responsibilities
-Blockchain Development: Assist in the development and deployment of blockchain-based applications and smart contracts.
-Blockchain Research: Support the team in researching emerging blockchain technologies, trends, and protocols.
-Smart Contract Creation: Work on writing, testing, and deploying smart contracts using languages like Solidity or similar.
-Integration: Help integrate blockchain solutions into existing systems and platforms.
-Security Audits: Participate in blockchain security audits to identify vulnerabilities and ensure safe deployment.
-Collaboration: Work closely with cross-functional teams (e.g., frontend, backend, and product teams) to develop integrated blockchain solutions.
-Documentation: Assist in maintaining documentation for blockchain projects, including codebase, API docs, and user guides.
-
-What Were Looking For
-Interest in Blockchain Technology: A strong passion for blockchain, cryptocurrencies, and decentralized applications (dApps).
-Programming Skills: Familiarity with languages like JavaScript, Solidity, Python, or Go for blockchain development.
-Problem-Solving Skills: Ability to think critically and work through complex technical challenges.
-Willingness to Learn: Eagerness to dive deep into blockchain technologies and stay up-to-date with industry trends.
-Detail-Oriented: Ability to write clean, efficient, and well-documented code.
-Team Player: Strong collaboration and communication skills in a remote team environment.
-
-What Youll Gain
-Hands-on experience working with blockchain technologies and smart contracts.
-Opportunity to work on cutting-edge blockchain projects.
-Mentorship from experienced blockchain developers and engineers.
-Certificate of completion and a recommendation letter upon successful completion of the internship.
-Potential to transition into a paid role based on performance.
-
-Duration: 6 months (Unpaid)
-
-If youre eager to build your career in blockchain development and want to make an impact in a growing startup, apply now!
-
-Note: This is a unpaid internship.Skills: smart contracts,blockchain development,collaboration,communication,go,blockchain,solidity,problem-solving,python,javascript,
-
-- **Apply here:** [Apply here](https://www.shine.com/jobs/blockchain-developer-intern/hubnex-labs/16380083?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
-
----
-
-## Job 5
-
-- **Job Title:** Crypto Analyst Intern
-- **Company:** AMINA Bank
-- **Location:** N/A, N/A, US
-- **Job Description:** About AMINA
-
-Founded in April 2018 and headquartered in Zug, AMINA Bank is a pioneer in the financial industry providing a seamless, secure and easy-to-use bridge between digital and traditional assets. As a smart bank AMINA Bank offers a fully universal suite of regulated banking services in the emerging digital economy. In August 2019, AMINA Bank received a Swiss banking and securities dealer license – the first time a reputed, regulatory authority such as FINMA has granted a license to a financial services provider with a core capability in digital assets. The broad, vertically integrated spectrum of services combined with the highest security standards, make AMINA Bank’s value proposition unique. CVVC Global Report and CB Insights names AMINA Bank as Top 50 Companies within the blockchain ecosystem.
-
-AMINA India is a wholly owned subsidiary of AMINA Bank AG. AMINA India acts as a virtual extension of the bank supporting activities spanning digital assets research, investment solutions, trading & liquidity management, risk management, mid/back-office & IT operations and more recently technology and product.
-
-About the Role:
-
-We are looking for a motivated and detail-oriented Crypto Analyst Intern to join our team. In this role, you will dive deep into the rapidly evolving world of cryptocurrencies and blockchain technology, helping us analyze market trends, evaluate projects, and contribute to data-driven insights.
-
-In this role, you will be responsible for the following:
-• Conduct in-depth research on crypto markets and blockchain projects, evaluating technical features, tokenomics, and use cases.
-• Develop and maintain comprehensive crypto analytical dashboards through in-depth blockchain data analysis and market trend evaluation, leveraging specialized crypto tools and platforms for data collection and insights.
-• Assist in preparing research reports and presentations for internal stakeholders
-• Contribute to the team's understanding of emerging crypto technologies and use cases
-
-For you to become part of AMINA’s journey, we require the following:
-• Current enrollment in a bachelor's or master's degree program in Finance, Economics, Computer Science, or a related field is preferred
-• 2+ years of experience or strong personal interest in the field of cryptocurrencies, digital assets, blockchain technology and financial markets.
-• Familiarity with blockchain tools and platforms is a plus (e.g. Dune Analytics, blockchain explorers, and Arkham Intelligence).
-• Analytical mindset with a focus on data interpretation and insights generation.
-• Proficiency in data analysis and visualization tools is a plus (e.g., Python, R, Tableau)
-• Excellent research and communication skills, with the ability to explain complex concepts clearly.
-• Proactive and eager to learn in a fast-paced environment.
-
-Join our skilled team and together redefine finance.
-
-We owe our exponential growth to our innovative and collaborate team spirit and talented workforce. Every voice counts as we are always committed to learning from diverse perspectives and backgrounds because our people make the difference at AMINA Bank. Regardless of your age, gender, belief, and background, at AMINA EVERYONE (E) is welcome!
-
-- **Apply here:** [Apply here](https://in.linkedin.com/jobs/view/crypto-analyst-intern-at-amina-bank-4129886439?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
-
----
-
-
-Updated on: [24/1/2025]
+Updated on: [25/1/2025]
 <!-- #jobEnd -->
