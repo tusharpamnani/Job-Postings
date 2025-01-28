@@ -133,6 +133,31 @@ Subash Vijay Associates (SVA) is a leading recruitment firm with over 50 years o
 
 ## Job 3
 
+- **Job Title:** Intern | Blockchain Developer
+- **Company:** The Blockjet Technologies
+- **Location:** Bengaluru, Karnataka, IN
+- **Job Description:** **~ what we are looking for ~**
+-understanding with Javascript and Node.js + TypeScript , Express JS
+-Familiar with JS tools
+-Experience writing code from scratch
+-Thrive in a fast-paced working environment, owning deadlines and striving for efficiency
+-Familiarity with GIT, Jira, Redmine, or similar project management and issue tracking software
+-Working knowledge of design principles, typography, user interfaces, Web standards and usability
+-Familiar with interaction design and information architecture methods and principles
+• *~Job requirements~**
+- good in data structure and algorithm
+- willing to learn solidity web3 and blockchain technologies
+- Handson with Node js and express.js
+- working in a young, ambitious, and international team
+- good to have experience building an API from scratch
+- Are interested in security and its best practices
+
+- **Apply here:** [Apply here](https://cutshort.io/job/Intern-Blockchain-Developer-Bengaluru-Bangalore-The-Blockjet-Technologies-YLzgaEUL?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
+
+---
+
+## Job 4
+
 - **Job Title:** Blockchain Developer Internship Opportunity
 - **Company:** FinSocial Digital systems
 - **Location:** Nagpur, Maharashtra, IN
@@ -157,31 +182,6 @@ Internship Details:
 This internship is ideal for students, recent graduates, or tech enthusiasts eager to build their skills and begin a career in blockchain development.
 
 - **Apply here:** [Apply here](https://in.bebee.com/job/748d06c52a744a67032c5ec8411d1a9c?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
-
----
-
-## Job 4
-
-- **Job Title:** Intern | Blockchain Developer
-- **Company:** The Blockjet Technologies
-- **Location:** Bengaluru, Karnataka, IN
-- **Job Description:** **~ what we are looking for ~**
--understanding with Javascript and Node.js + TypeScript , Express JS
--Familiar with JS tools
--Experience writing code from scratch
--Thrive in a fast-paced working environment, owning deadlines and striving for efficiency
--Familiarity with GIT, Jira, Redmine, or similar project management and issue tracking software
--Working knowledge of design principles, typography, user interfaces, Web standards and usability
--Familiar with interaction design and information architecture methods and principles
-• *~Job requirements~**
-- good in data structure and algorithm
-- willing to learn solidity web3 and blockchain technologies
-- Handson with Node js and express.js
-- working in a young, ambitious, and international team
-- good to have experience building an API from scratch
-- Are interested in security and its best practices
-
-- **Apply here:** [Apply here](https://cutshort.io/job/Intern-Blockchain-Developer-Bengaluru-Bangalore-The-Blockjet-Technologies-YLzgaEUL?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
 
 ---
 
@@ -233,5 +233,5 @@ Note: This is a unpaid internship.Skills: smart contracts,blockchain development
 ---
 
 
-Updated on: [27/1/2025]
+Updated on: [28/1/2025]
 <!-- #jobEnd -->
