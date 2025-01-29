@@ -158,35 +158,6 @@ Subash Vijay Associates (SVA) is a leading recruitment firm with over 50 years o
 
 ## Job 4
 
-- **Job Title:** Blockchain Developer Internship Opportunity
-- **Company:** FinSocial Digital systems
-- **Location:** Nagpur, Maharashtra, IN
-- **Job Description:** Reformatting Text and Improving its Quality
-About the Internship Opportunity
-
-We are excited to offer a unique 4-month internship experience for individuals passionate about blockchain technology.
-Key Responsibilities:
-• Participate in real-world projects that involve designing blockchain architecture and decentralized applications (dApps).
-• Develop, test, and refine smart contracts using programming languages such as Solidity and others.
-• Collaborate with our team to conduct research on distributed ledger systems and implement consensus algorithms.
-• Stay current with the latest advancements and trends in blockchain technology.
-What You'll Gain from this Experience:
-• Practical knowledge and hands-on experience in blockchain development and related technologies.
-• A Certificate of Completion at the end of the internship.
-• Potential Letter of Recommendation based on performance.
-Internship Details:
-• Duration: 4 months
-• Location: Remote work arrangement
-• No compensation is provided for this internship opportunity
-
-This internship is ideal for students, recent graduates, or tech enthusiasts eager to build their skills and begin a career in blockchain development.
-
-- **Apply here:** [Apply here](https://in.bebee.com/job/748d06c52a744a67032c5ec8411d1a9c?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
-
----
-
-## Job 5
-
 - **Job Title:** Blockchain Developer Intern
 - **Company:** Hubnex Labs
 - **Location:** N/A, N/A, US
@@ -232,6 +203,27 @@ Note: This is a unpaid internship.Skills: smart contracts,blockchain development
 
 ---
 
+## Job 5
 
-Updated on: [28/1/2025]
+- **Job Title:** Full Stack Developer Intern
+- **Company:** Cypherock
+- **Location:** N/A, N/A, US
+- **Job Description:** At Cypherock, We are disrupting the current financial system by increasing the adoption of Blockchain-based digital assets through better key management solutions. We build "Worlds' first products" from India, work at the intersection of Blockchain, Security, Embedded Hardware and Cryptography, and have worked with companies like Google, Blockgeeks, Samsung, Lockheed Martin, Apollo Munich, Bank of America amongst others.
+
+As the primary person responsible for everything Blockchain in the company, we think it will be a great fit if -
+• You love everything Crypto and are passionate to create the World's safest Crypto wallet.
+• You have MERN stack & DevOps experience on AWS.
+• You have reasonable open-source development experience and have shipped production-ready code.
+• You can commit for at least 6 months and you are ideally in your 4th year of college and willing to join full time after the internship if mutually agreed.
+
+If we decide to work together, we believe you would be a key team member who helps in the mass adoption of Crypto for the first billion users.
+
+Skills:- Express, DevOps, Blockchain, Wallet (Blockchain), TypeScript, Amazon Web Services (AWS), Web3js, GitHub and Bitcoin
+
+- **Apply here:** [Apply here](https://careers.near.org/companies/cypherock/jobs/26682975-full-stack-developer-intern?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
+
+---
+
+
+Updated on: [29/1/2025]
 <!-- #jobEnd -->
