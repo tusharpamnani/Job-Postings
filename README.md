@@ -4,6 +4,69 @@
 
 ## Job 1
 
+- **Job Title:** Blockchain Development Internship
+- **Company:** Intelisync
+- **Location:** Pune, Maharashtra, IN
+- **Job Description:** About the internship:
+Blockchain application development experience.
+
+Design and Implement Blockchain technology
+
+Experience working in an Agile and DevOps environment.
+
+Extensive experience with progression of major projects from the planning stage through to implementation and completion
+
+Effective communicator to all stakeholders and management during project consulting and analysis.
+
+Experience on Smart contract and Solidity, development tools
+
+Understanding of Distributed Ledger technology, Blockchain ecosystem and structure.
+
+Knowledge of ICO, Wallets, Exchanges, and Tokens
+
+Performed POC's, client presentations on Blockchain
+
+Experience with Decentralized Applications (dApps).
+
+Knowledge of NFTs and blockchain gaming technologies.
+
+Familiarity with blockchain consensus mechanisms.
+
+Experience in cryptocurrency trading platforms.
+
+Very good communication skills
+
+Who can apply:
+
+Only those candidates can apply who:
+• are available for full time (in-office) internship
+• can start the internship between 29th Jan'25 and 5th Mar'25
+• are available for duration of 3 months
+• have relevant skills and interests
+• * Women wanting to start/restart their career can also apply.
+• are Computer Science Engineering students
+
+Stipend:
+INR ₹ 5,000 /month
+
+Deadline:
+2025-02-28 23:59:59
+
+Other perks:
+Certificate, Letter of recommendation, 5 days a week
+
+Skills required:
+Java, JavaScript, Python, C++ Programming, Blockchain, Ethereum, Hyperledger, Solidity and web3.js
+
+About Company:
+Our team at Intelisync is dedicated to leveraging cutting-edge technology to elevate businesses through comprehensive marketing strategies and innovative design. With a focus on blockchain development, Intelisync offers bespoke solutions and consulting services tailored to both startups and established enterprises. Our highly skilled and experienced team of blockchain developers excels in various blockchain platforms.
+
+- **Apply here:** [Apply here](https://internshala.com/internship/detail/blockchain-development-internship-in-pune-at-intelisync1738134715?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
+
+---
+
+## Job 2
+
 - **Job Title:** Blockchain Internship
 - **Company:** Hashstack
 - **Location:** N/A, N/A, US
@@ -68,7 +131,7 @@ __________________________
 
 ---
 
-## Job 2
+## Job 3
 
 - **Job Title:** Blockchain Developer Internship
 - **Company:** Subash Vijay Associates (SVA)
@@ -131,7 +194,7 @@ Subash Vijay Associates (SVA) is a leading recruitment firm with over 50 years o
 
 ---
 
-## Job 3
+## Job 4
 
 - **Job Title:** Intern | Blockchain Developer
 - **Company:** The Blockjet Technologies
@@ -153,53 +216,6 @@ Subash Vijay Associates (SVA) is a leading recruitment firm with over 50 years o
 - Are interested in security and its best practices
 
 - **Apply here:** [Apply here](https://cutshort.io/job/Intern-Blockchain-Developer-Bengaluru-Bangalore-The-Blockjet-Technologies-YLzgaEUL?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
-
----
-
-## Job 4
-
-- **Job Title:** Blockchain Developer Intern
-- **Company:** Hubnex Labs
-- **Location:** N/A, N/A, US
-- **Job Description:** Job Description: Blockchain Developer Intern (Unpaid)
-
-Location: Remote
-
-Type: Internship (6 months, Unpaid)
-
-At Hubnex Labs, were at the forefront of technological innovation, and were looking for passionate and motivated Blockchain Developer Interns to join our team. This is a great opportunity to dive into the world of blockchain technology, gain hands-on experience, and contribute to real-world projects in a fast-paced startup environment.
-
-Key Responsibilities
-Blockchain Development: Assist in the development and deployment of blockchain-based applications and smart contracts.
-Blockchain Research: Support the team in researching emerging blockchain technologies, trends, and protocols.
-Smart Contract Creation: Work on writing, testing, and deploying smart contracts using languages like Solidity or similar.
-Integration: Help integrate blockchain solutions into existing systems and platforms.
-Security Audits: Participate in blockchain security audits to identify vulnerabilities and ensure safe deployment.
-Collaboration: Work closely with cross-functional teams (e.g., frontend, backend, and product teams) to develop integrated blockchain solutions.
-Documentation: Assist in maintaining documentation for blockchain projects, including codebase, API docs, and user guides.
-
-What Were Looking For
-Interest in Blockchain Technology: A strong passion for blockchain, cryptocurrencies, and decentralized applications (dApps).
-Programming Skills: Familiarity with languages like JavaScript, Solidity, Python, or Go for blockchain development.
-Problem-Solving Skills: Ability to think critically and work through complex technical challenges.
-Willingness to Learn: Eagerness to dive deep into blockchain technologies and stay up-to-date with industry trends.
-Detail-Oriented: Ability to write clean, efficient, and well-documented code.
-Team Player: Strong collaboration and communication skills in a remote team environment.
-
-What Youll Gain
-Hands-on experience working with blockchain technologies and smart contracts.
-Opportunity to work on cutting-edge blockchain projects.
-Mentorship from experienced blockchain developers and engineers.
-Certificate of completion and a recommendation letter upon successful completion of the internship.
-Potential to transition into a paid role based on performance.
-
-Duration: 6 months (Unpaid)
-
-If youre eager to build your career in blockchain development and want to make an impact in a growing startup, apply now!
-
-Note: This is a unpaid internship.Skills: smart contracts,blockchain development,collaboration,communication,go,blockchain,solidity,problem-solving,python,javascript,
-
-- **Apply here:** [Apply here](https://www.shine.com/jobs/blockchain-developer-intern/hubnex-labs/16380083?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
 
 ---
 
@@ -225,5 +241,5 @@ Skills:- Express, DevOps, Blockchain, Wallet (Blockchain), TypeScript, Amazon We
 ---
 
 
-Updated on: [29/1/2025]
+Updated on: [30/1/2025]
 <!-- #jobEnd -->
