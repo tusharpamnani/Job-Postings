@@ -4,69 +4,6 @@
 
 ## Job 1
 
-- **Job Title:** Blockchain Development Internship
-- **Company:** Intelisync
-- **Location:** Pune, Maharashtra, IN
-- **Job Description:** About the internship:
-Blockchain application development experience.
-
-Design and Implement Blockchain technology
-
-Experience working in an Agile and DevOps environment.
-
-Extensive experience with progression of major projects from the planning stage through to implementation and completion
-
-Effective communicator to all stakeholders and management during project consulting and analysis.
-
-Experience on Smart contract and Solidity, development tools
-
-Understanding of Distributed Ledger technology, Blockchain ecosystem and structure.
-
-Knowledge of ICO, Wallets, Exchanges, and Tokens
-
-Performed POC's, client presentations on Blockchain
-
-Experience with Decentralized Applications (dApps).
-
-Knowledge of NFTs and blockchain gaming technologies.
-
-Familiarity with blockchain consensus mechanisms.
-
-Experience in cryptocurrency trading platforms.
-
-Very good communication skills
-
-Who can apply:
-
-Only those candidates can apply who:
-• are available for full time (in-office) internship
-• can start the internship between 29th Jan'25 and 5th Mar'25
-• are available for duration of 3 months
-• have relevant skills and interests
-• * Women wanting to start/restart their career can also apply.
-• are Computer Science Engineering students
-
-Stipend:
-INR ₹ 5,000 /month
-
-Deadline:
-2025-02-28 23:59:59
-
-Other perks:
-Certificate, Letter of recommendation, 5 days a week
-
-Skills required:
-Java, JavaScript, Python, C++ Programming, Blockchain, Ethereum, Hyperledger, Solidity and web3.js
-
-About Company:
-Our team at Intelisync is dedicated to leveraging cutting-edge technology to elevate businesses through comprehensive marketing strategies and innovative design. With a focus on blockchain development, Intelisync offers bespoke solutions and consulting services tailored to both startups and established enterprises. Our highly skilled and experienced team of blockchain developers excels in various blockchain platforms.
-
-- **Apply here:** [Apply here](https://internshala.com/internship/detail/blockchain-development-internship-in-pune-at-intelisync1738134715?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
-
----
-
-## Job 2
-
 - **Job Title:** Blockchain Internship
 - **Company:** Hashstack
 - **Location:** N/A, N/A, US
@@ -131,7 +68,134 @@ __________________________
 
 ---
 
+## Job 2
+
+- **Job Title:** Blockchain Development Internship
+- **Company:** Intelisync
+- **Location:** Pune, Maharashtra, IN
+- **Job Description:** About the internship:
+Blockchain application development experience.
+
+Design and Implement Blockchain technology
+
+Experience working in an Agile and DevOps environment.
+
+Extensive experience with progression of major projects from the planning stage through to implementation and completion
+
+Effective communicator to all stakeholders and management during project consulting and analysis.
+
+Experience on Smart contract and Solidity, development tools
+
+Understanding of Distributed Ledger technology, Blockchain ecosystem and structure.
+
+Knowledge of ICO, Wallets, Exchanges, and Tokens
+
+Performed POC's, client presentations on Blockchain
+
+Experience with Decentralized Applications (dApps).
+
+Knowledge of NFTs and blockchain gaming technologies.
+
+Familiarity with blockchain consensus mechanisms.
+
+Experience in cryptocurrency trading platforms.
+
+Very good communication skills
+
+Who can apply:
+
+Only those candidates can apply who:
+• are available for full time (in-office) internship
+• can start the internship between 29th Jan'25 and 5th Mar'25
+• are available for duration of 3 months
+• have relevant skills and interests
+• * Women wanting to start/restart their career can also apply.
+• are Computer Science Engineering students
+
+Stipend:
+INR ₹ 5,000 /month
+
+Deadline:
+2025-02-28 23:59:59
+
+Other perks:
+Certificate, Letter of recommendation, 5 days a week
+
+Skills required:
+Java, JavaScript, Python, C++ Programming, Blockchain, Ethereum, Hyperledger, Solidity and web3.js
+
+About Company:
+Our team at Intelisync is dedicated to leveraging cutting-edge technology to elevate businesses through comprehensive marketing strategies and innovative design. With a focus on blockchain development, Intelisync offers bespoke solutions and consulting services tailored to both startups and established enterprises. Our highly skilled and experienced team of blockchain developers excels in various blockchain platforms.
+
+- **Apply here:** [Apply here](https://internshala.com/internship/detail/blockchain-development-internship-in-pune-at-intelisync1738134715?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
+
+---
+
 ## Job 3
+
+- **Job Title:** MERN and Blockchain Intern
+- **Company:** Oriental Outsourcing Consultants (P) Ltd.
+- **Location:** Kharar, Punjab, IN
+- **Job Description:** We are seeking a skilled MERN & Blockchain Developer to join our dynamic team. The ideal candidate will have expertise in building robust web applications using the MERN stack and a strong interest or experience in blockchain technology. If you are passionate about coding and blockchain development, we’d love to have you on board.
+
+Location
+
+Kharar, Mohali
+
+Experience Required
+
+Fresher
+
+Responsibilities
+• Develop scalable and efficient web applications using the MERN stack.
+• Write clean, maintainable, and reusable code for both web and blockchain components.
+• Build and integrate RESTful APIs to connect front-end and back-end services.
+• Debug and troubleshoot application and blockchain-related issues effectively
+• Design and implement smart contracts and decentralized applications (DApps).
+• Collaborate with designers and developers to implement innovative features.
+• Optimize application and blockchain performance for speed and scalability.
+• Integrate third-party services, APIs, and blockchain frameworks as required.
+• Conduct code reviews, maintain version control, and ensure coding standards.
+• Stay updated with the latest trends in web and blockchain technologies.
+
+Qualifications Required
+
+Should be Graduate in Computer Science.
+
+Sound knowledge of IT terminologies.
+
+MERN And Blockchain Requirements
+• Proficiency in JavaScript, MongoDB, Express.js, React.js, and Node.js.
+• Familiarity with version control systems (e.g., Git).
+• Experience or knowledge in blockchain technologies such as Ethereum, Solidity, or Hyperledger is a plus.
+• Excellent problem-solving and communication skills.
+• Ability to work independently and collaboratively in a team environment.
+
+Perks And Benefits
+• Flexible timings (45hrs/week) with 5 days working.
+• Opportunity to grow with the organization
+• Healthy working environment
+
+Apply Job
+
+Full Name*
+
+Email Address*
+
+Phone Number
+
+Enter Job Name For Apply*
+
+Comments*
+
+Upload Resume
+• I give my consent for satguru to process my personal data pursuant to satguru Privacy Policy in order to handle my request and respond to it. I am aware that I have the right to withdraw my consent at any time.
+
+- **Apply here:** [Apply here](https://in.linkedin.com/jobs/view/mern-and-blockchain-intern-at-oriental-outsourcing-consultants-p-ltd-4138589282?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
+
+---
+
+## Job 4
 
 - **Job Title:** Blockchain Developer Internship
 - **Company:** Subash Vijay Associates (SVA)
@@ -194,7 +258,7 @@ Subash Vijay Associates (SVA) is a leading recruitment firm with over 50 years o
 
 ---
 
-## Job 4
+## Job 5
 
 - **Job Title:** Intern | Blockchain Developer
 - **Company:** The Blockjet Technologies
@@ -219,36 +283,6 @@ Subash Vijay Associates (SVA) is a leading recruitment firm with over 50 years o
 
 ---
 
-## Job 5
 
-- **Job Title:** Apply For Internship
-- **Company:** Tokyotechie
-- **Location:** N/A, N/A, US
-- **Job Description:** Location
-• INDIA - Pune, Mumbai, Bangalore, Chennai, Kolkata & Delhi
-• USA - New York, Los Angeles, Chicago, Houston, Phoenix, Philadelphia, Boston, Dallas, San Jose
-• UAE - Dubai, Abu Dhabi, Sharjah
-• Germany - Berlin, Frankfurt, Munich, Sttugard
-• Singapore
-
-For Colleges or Institute or Individual Candidate
-
-Key Details Of Our Internship Programe
-• Duration:3-6 months internship program
-• Eligibility: Pursuing Graduattion (Secured Throughout First Class) Good communication with get things done approach
-• Benefits:
-• Internship certificate from Esteemed Private Limited company
-• Job opportunities for star performer on completion of internship
-• Gaining practical experience
-• Networking opportunities
-• TokyoTechie is a leading blockchain development & Audit company, to extend an invitation to collaborate with your esteemed college on an internship program for our product launch. We are keen to offer valuable learning opportunities to students and foster a mutually beneficial partnership between academia and industry. Our internship program aims to provide students with hands-on experience, allowing them to apply their theoretical knowledge in a practical setting. We believe that partnering with College will enable us to identify and nurture talented individuals while contributing to their educational and professional growth.
-• we are committed to providing adequate support and guidance to ensure that interns have enriching experience during their time with us. We believe that collaborating on this internship program will not only benefit the students but also strengthen the ties between our organizations. We are confident that together, we can create a dynamic and engaging learning environment that prepares students for future success in their chosen fields. We would appreciate the opportunity to further discuss this collaboration and address any questions or concerns you may have. Please feel free to contact us and send the candidates resume on our below email id
-• Send Your Resume On - hr@tokyotechie.com or click on Apply Now button and fill the informaiotn such as name, email, contact no., Upload your resume and click on send
-
-- **Apply here:** [Apply here](https://in.indeed.com/viewjob?jk=d50ab8bebe144585&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
-
----
-
-
-Updated on: [31/1/2025]
+Updated on: [1/2/2025]
 <!-- #jobEnd -->
