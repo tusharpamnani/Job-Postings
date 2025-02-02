@@ -1,46 +1,46 @@
-name: Update README with Job Postings
+# name: Update README with Job Postings
 
-on:
-  schedule:
-    - cron: '0 0 * * *'  # Runs every day at midnight
-  workflow_dispatch:
+# on:
+#   schedule:
+#     - cron: '0 0 * * *'  # Runs every day at midnight
+#   workflow_dispatch:
 
-jobs:
-  update-readme:
-    runs-on: ubuntu-latest
+# jobs:
+#   update-readme:
+#     runs-on: ubuntu-latest
 
-    steps:
-    - name: Checkout repository
-      uses: actions/checkout@v2
+#     steps:
+#     - name: Checkout repository
+#       uses: actions/checkout@v2
 
-    - name: Set up Node.js
-      uses: actions/setup-node@v2
-      with:
-        node-version: '14'
+#     - name: Set up Node.js
+#       uses: actions/setup-node@v2
+#       with:
+#         node-version: '14'
 
-    - name: Install dependencies
-      run: npm install
+#     - name: Install dependencies
+#       run: npm install
 
-    - name: Run script to update README
-      run: node index.js  # Ensure this is the correct path to your script
+#     - name: Run script to update README
+#       run: node index.js  # Ensure this is the correct path to your script
 
-    - name: Configure git
-      run: |
-        git config --global user.name 'tusharpamnani'
-        git config --global user.email 'tusharpamnani1@gmail.com'
+#     - name: Configure git
+#       run: |
+#         git config --global user.name 'tusharpamnani'
+#         git config --global user.email 'tusharpamnani1@gmail.com'
 
-    - name: Pull latest changes
-      run: |
-        git pull origin main || true
+#     - name: Pull latest changes
+#       run: |
+#         git pull origin main || true
 
-    - name: Check for changes and push
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # GitHub automatically provides this secret
-      run: |
-        if git status --porcelain | grep README.md; then
-          git add README.md
-          git commit -m "Updated job postings in README"
-          git push origin HEAD:main
-        else
-          echo "No changes to commit"
-        fi
+#     - name: Check for changes and push
+#       env:
+#         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # GitHub automatically provides this secret
+#       run: |
+#         if git status --porcelain | grep README.md; then
+#           git add README.md
+#           git commit -m "Updated job postings in README"
+#           git push origin HEAD:main
+#         else
+#           echo "No changes to commit"
+#         fi
